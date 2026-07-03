@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import DocumentNav from "../components/DocumentNav.astro";
+const { frontmatter } = Astro.props;
+
+const allSessions = Object.entries(
+  import.meta.glob("../pages/university/*.md", { eager: true }),
+)
+  .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
+  .map(([path, mod]: any[]) => ({
+    slug: path.match(/\/([^/]+)\.md$/)?.[1] ?? "",
+    data: { title: mod.frontmatter?.title ?? mod.title ?? "" },
+  }));
+
+const currentSlug = Astro.url.pathname.match(/\/([^/]+)\/?$/)?.[1] ?? "";
+const currentIndex = allSessions.findIndex((s) => s.slug === currentSlug);
+const prevEntry = currentIndex > 0 ? allSessions[currentIndex - 1] : null;
+const nextEntry =
+  currentIndex < allSessions.length - 1 ? allSessions[currentIndex + 1] : null;
+---
+
+<BaseLayout pageTitle="Dr. Bernstein's Diabetes University">
+  <article class="space-y-4">
+    <h2 class="text-lg font-medium">{frontmatter.title}</h2>
+    <slot />
+  </article>
+  <a href={frontmatter.source} target="_blank" class="text-xs mt-4">source</a>
+
+  <DocumentNav prev={prevEntry} next={nextEntry} basePath="university" />
+</BaseLayout>

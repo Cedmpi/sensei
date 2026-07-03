@@ -1,0 +1,39 @@
+---
+const { prev, next, basePath = "docs" } = Astro.props;
+---
+
+<nav
+  class="flex justify-between flex-col sm:flex-row items-center mt-12 pt-6 border-t border-neutral-200/10 gap-2"
+>
+  {
+    prev && (
+      <div class="h-full w-full">
+        <a
+          href={`/${basePath}/${prev.slug}`}
+          class="block py-2 px-4 border border-neutral-200/40 rounded-lg hover:border-blue-500 transition-colors text-left h-full"
+        >
+          <span class="text-xs text-neutral-200">← Previous</span>
+          <span class="block mt-1 font-medium text-sm">
+            {prev.data.title}
+          </span>
+        </a>
+      </div>
+    )
+  }
+
+  {
+    next && (
+      <div class="h-full w-full">
+        <a
+          href={`/${basePath}/${next.slug}`}
+          class="block py-2 px-4 border border-neutral-200/40 rounded-lg hover:border-blue-500 transition-colors text-right h-full"
+        >
+          <span class="text-xs text-neutral-200">Next →</span>
+          <span class="block mt-1 font-medium text-sm">
+            {next.data.title}
+          </span>
+        </a>
+      </div>
+    )
+  }
+</nav>

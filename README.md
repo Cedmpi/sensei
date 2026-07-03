@@ -1,3 +1,4 @@
+
 # Astro Starter Kit: Minimal
 
 ```sh
@@ -41,3 +42,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## transcribe audio 
+google colab
+!whisper "session-1.mp3" --model medium.en

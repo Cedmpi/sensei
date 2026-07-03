@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const pageTitle = "Dr. Bernstein's Diabetes University";
+
+const allSessions = Object.entries(
+  import.meta.glob("./university/*.md", { eager: true }),
+)
+  .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
+  .map(([, value]) => value);
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <nav>
+    <ol class="divide-y divide-neutral-200/10 w-max">
+      {
+        allSessions.map((post: any) => (
+          <li class="py-2 font-medium">
+            <a href={post.url}>{post.frontmatter.title}</a>
+          </li>
+        ))
+      }
+    </ol>
+  </nav>
+</BaseLayout>
