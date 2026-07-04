@@ -63,7 +63,7 @@ and the kidneys, so you have to be very careful when using Tylenol, and you have
 careful when giving it to children.
 
 Now there used to be a warning about the use of aspirin
-for children because of a fear of something called <a href="https://en.wikipedia.org/wiki/Reye_syndrome" target="_blank" rel="noopener noreferrer">Reye's syndrome</a>, but I believe that warning has
+for children because of a fear of something called Reye's syndrome, but I believe that warning has
 been withdrawn in the latest studies that I've seen. So the medication, whatever you use for
 the fever, has to be reduced in proportion to the size. 
 
