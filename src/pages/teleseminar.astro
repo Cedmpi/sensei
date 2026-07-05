@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+
+const allSessions = Object.entries(
+  import.meta.glob("./teleseminar/*.md", { eager: true }),
+)
+  .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
+  .map(([, value]) => value);
+---
+
+<BaseLayout>
+  <h1 class="font-semibold text-xl mb-6">Dr. Bernstein's Teleseminar</h1>
+  <nav>
+    <ol class="divide-y divide-neutral-200/10 w-max">
+      {
+        allSessions.map((post: any) => (
+          <li class="py-2 font-medium">
+            <a href={post.url}>{post.frontmatter.title}</a>
+          </li>
+        ))
+      }
+    </ol>
+  </nav>
+</BaseLayout>
