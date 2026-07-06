@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import DocumentNav from "../components/DocumentNav.astro";
+import TableOfContents from "../components/TableOfContents.astro";
 const { frontmatter } = Astro.props;
 
 const allSessions = Object.entries(
@@ -27,4 +28,6 @@ const nextEntry =
   <a href={frontmatter.source} target="_blank" class="text-xs mt-4">source</a>
 
   <DocumentNav prev={prevEntry} next={nextEntry} basePath="teleseminar" />
+
+  <TableOfContents slot="sidebar" />
 </BaseLayout>

@@ -1,0 +1,32 @@
+<aside id="page-nav" class="hidden md:block w-48 sticky top-30 self-start">
+  <button class="font-medium mb-2 cursor-pointer" id="on-this-page-btn">On This Page</button>
+  <nav>
+    <ul id="page-nav-list" class="space-y-2 text-sm"></ul>
+  </nav>
+</aside>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const aside = document.getElementById("page-nav");
+    const list = document.getElementById("page-nav-list");
+    const btn = document.getElementById("on-this-page-btn");
+    btn?.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+
+    const headings = [...document.querySelectorAll("h3[id]")];
+
+    if (!headings.length || !aside || !list) return;
+
+    list.innerHTML = headings
+      .map((h) => `<li><a href="#${h.id}" class="block py-0.5 hover:underline">${h.dataset.short || h.textContent}</a></li>`)
+      .join("");
+
+    list.addEventListener("click", (e) => {
+      const link = (e.target as HTMLElement).closest("a");
+      if (!link) return;
+      e.preventDefault();
+      document.querySelector(link.getAttribute("href")!)?.scrollIntoView({ behavior: "smooth" });
+      history.replaceState(null, "", link.getAttribute("href"));
+    });
+  });
+</script>
+

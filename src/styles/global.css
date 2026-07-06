@@ -3,3 +3,12 @@
 @theme {
   --color-dark: oklch(21% 0.039 258);
 }
+
+h3 {
+  font-weight: 500;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  border-color: color-mix(in oklab, var(--color-neutral-200) 30%, transparent);
+}
