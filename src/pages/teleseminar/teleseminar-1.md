@@ -103,7 +103,7 @@ It might be totally wrong for that particular person.
 
 So here comes the first question.
 
-### I've just started reading your book, Diabetes Solution, because my 15-year-old daughter who was diagnosed with type 1 a year and a half ago, what are your thoughts on type 1 diabetics using a continuous glucose monitor? She uses an insulin pump which she's very happy with.
+### I've just started reading your book, Diabetes Solution, because my 15-year-old daughter who was diagnosed with type 1 a year and a half ago, what are your thoughts on type 1 diabetics using a continuous glucose monitor? She uses an insulin pump which she's very happy with. [short: CGM for type 1 diabetics]
 
 Now, first of all, I have to point out that I have never seen a well-controlled diabetic who was using an insulin pump.
 At least over the long pull, we find that we cannot get good blood sugar control.
@@ -122,12 +122,12 @@ But they're of inestimable value for preventing hypoglycemia, and I recommend th
 
 Next question.
 
-### Do you think the 39-day rule for levomir vial, once the rubber stopper has been punctured,is applicable to unused nova-pen insulin cartridges stored in the fridge? Are the rubber seals in the cartridges adequate to maintain the integrity of unused cartridges?
+### Do you think the 39-day rule for levemir vial, once the rubber stopper has been punctured,is applicable to unused nova-pen insulin cartridges stored in the fridge? Are the rubber seals in the cartridges adequate to maintain the integrity of unused cartridges? [short: Levemir vial and pen cartridge expiry]
 
 That's a very good question, and I don't know the answer.
 The one thing I do know, because I've seen some pens with cartridges in them that we stored in clinic,
 is that if they get exposed to high temperatures, they will deteriorate.
-And the nova-pen, if you're using it with levomir insulin,
+And the nova-pen, if you're using it with levemir insulin,
 it would be wise to use up one pen at a time.
 And because you have to throw away two units of insulin every time you give an injection,
 you have to fill the needle, you need a new needle every time,
@@ -143,7 +143,7 @@ that you'll use up the cartridge before the month is up.
 
 Next question.
 
-### My three-year-old daughter's doctor wants her blood sugar to be between 100 and 200 mg/dL. Is that too high? Do you recommend?
+### My three-year-old daughter's doctor wants her blood sugar to be between 100 and 200 mg/dL. Is that too high? Do you recommend? [short: Target blood sugar for toddler]
 
 Well, I'm only going to answer one question per person, and I think it's too high.
 Kids tend to have blood sugars in the 70s, let's say a three-year-old,
@@ -160,7 +160,7 @@ than people with normal blood sugars.
 
 Next question.
 
-### How should I treat a plant wart on the bottom of my foot?
+### How should I treat a plant wart on the bottom of my foot? [short: Treating plantar warts]
 
 I had these when I was a teenager,
 and in my case, and also in the cases of many patients whom I've treated,
@@ -192,7 +192,7 @@ But I've been able to take care of this by relieving the pressure.
 
 Next question.
 
-### Advice on prolonging honeymoon period for newly diagnosed 12-year-old.
+### Advice on prolonging honeymoon period for newly diagnosed 12-year-old. [short: Prolonging honeymoon period]
 
 Well, we've talked about this over and over.
 It's such an important subject that I'm willing to answer it again.
@@ -215,7 +215,7 @@ if they keep their blood sugars normal.
 
 Now, next question.
 
-### Type 2 diabetic, A1C is 5%. After losing 60 pounds, I suffer from chronic hypoglycemia with blood sugar sometimes 60 mg/dL or less with symptoms. The low blood sugar happens when I exercise and even when I do not exercise. Why is my blood sugar always too low?
+### Type 2 diabetic, A1C is 5%. After losing 60 pounds, I suffer from chronic hypoglycemia with blood sugar sometimes 60 mg/dL or less with symptoms. The low blood sugar happens when I exercise and even when I do not exercise. Why is my blood sugar always too low? [short: Chronic hypoglycemia after weight loss]
 
 Well, there are several possible answers to this.
 One is if you're taking medications.
@@ -269,7 +269,7 @@ There's also Cisopride, C-I-S-A-P-R-I-G-E, which you get from Canada, which may 
 
 Next question.
 
-### Formula for converting A1c to blood sugar
+### Formula for converting A1c to blood sugar [short: A1c to blood sugar conversion]
 
 Dr. Bernstein's formula for converting A1c to blood sugar,and he gives not my formula,
 but a formula that was scientifically developed by a research team about 15 or so years ago,
@@ -287,7 +287,7 @@ And if you want the formula that I use, you could read my book.
 
 Next question.
 
-### I recently read that fasting more than 5 hours will cause the liver to release 45 to 60 grams of glucose,and that pre-diabetics and type 2 diabetics should eat every 5 hours to prevent this. Is this true?
+### I recently read that fasting more than 5 hours will cause the liver to release 45 to 60 grams of glucose,and that pre-diabetics and type 2 diabetics should eat every 5 hours to prevent this. Is this true? [short: Fasting and liver glucose release]
 
 This is not quite utter nonsense. Why do I say not quite?
 Because if you take a diabetic who requires basal insulin, that doesn't mean a mild type 2,
@@ -345,7 +345,7 @@ So it's not a hard and fast rule.
 
 Next question.
 
-### Can moderate to severe sleep apnea adversely affect diabetics?
+### Can moderate to severe sleep apnea adversely affect diabetics? [short: Sleep apnea and diabetes]
 
 Well, as a matter of fact, if you had to list the things that one can look at to predict diabetes in an undiabetic,
 like family, history, obesity, sleep apnea is one of the things that predicts diabetes.
@@ -372,14 +372,14 @@ That's because Lantus does not last overnight.
 You have to take another shot at bedtime.
 And for type 1 diabetics, you may have to do what I do is take a shot also in the wee morning hours,
 like around 5 a.m., to prevent an elevated blood sugar on arising.
-So it looks like she should be splitting her levomir into two shots.
+So it looks like she should be splitting her levemir into two shots.
 And it also looks like she may be obese because 30 units is a high dose
 that usually reflects insulin resistance and caused by obesity.
 So I'd say she very much should read my book and not get pregnant yet.
 
 Next question.
 
-### I'm a 37-year-old male, type 1 for 27 years._
+### I'm a 37-year-old male, type 1 for 27 years._ [short: Weight loss with gastroparesis]
 So this person is a survivor with gastroparesis and neuropathy.
 _About a year ago, I suddenly lost 30 pounds.
 I'm afraid of losing more weight and weakening my muscles even more.
@@ -401,7 +401,7 @@ and I'd recommend the chapter on gastroparesis in my book, Diabetes Solution.
 
 Next question.
 
-### 62-year-old female type 2, A1C 6.1. When my blood sugar is 85, I get confused and shaky. Is this related to low adrenal function or something else?
+### 62-year-old female type 2, A1C 6.1. When my blood sugar is 85, I get confused and shaky. Is this related to low adrenal function or something else? [short: Hypoglycemia symptoms at normal BG]
 
 Well, if your A1C is 6.1, your average blood sugar is about 144.
 So when you're 85, your blood sugar is way below what it usually is.
@@ -462,7 +462,7 @@ So they're not hard studies and certainly eating something with sugar in it does
 
 Next question.
 
-### My daughter is three. We inject a half unit of Novalog for every 25 grams of carbs for breakfast.
+### My daughter is three. We inject a half unit of Novalog for every 25 grams of carbs for breakfast. [short: Insulin dosing for toddler]
 
 **Oh my God.**
 I barely have that much in a day.
@@ -503,7 +503,7 @@ But I don't have enough information to really tell you precisely what to do, but
 
 Next question.
 
-### Type 1 since 1950
+### Type 1 since 1950 [short: Folliculitis and diabetes]
 _Type 1 since 1950_ so that's four years less than me, so this person is really a survivor.
 Okay, _usual A1Cs are from 6.6 to 6.9_, so let's say that he averages 6.7.
 That would be an average blood sugar of 168, more or less, which is double normal.
@@ -532,7 +532,7 @@ Now what that meant, I'm not sure, but there's value to all kinds of fats that a
 
 Next question.
 
-### Why is it that when I fast and don't take any insulin, my blood sugars are in the 80s and 90s, other days when fasting my blood sugars are in the 70s, no, are in the 170s, and do not go down much even when exercising?
+### Why is it that when I fast and don't take any insulin, my blood sugars are in the 80s and 90s, other days when fasting my blood sugars are in the 70s, no, are in the 170s, and do not go down much even when exercising? [short: Erratic fasting blood sugars]
 
 Well, first of all, it looks like you have diabetes, and unless you're doing things very precisely, you could have considerable variability, but first choice, gastroparesis.
 If you have gastroparesis, you might empty your dinner adequately or properly on one night, and the next night or two nights later, hardly empty it, go down too low after dinner, and then it empties while you're sleeping and you wake up with a high blood sugar.

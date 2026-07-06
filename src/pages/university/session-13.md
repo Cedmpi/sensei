@@ -138,7 +138,7 @@ after her infusions. So there are potential problems. You have to be on top of t
 that it doesn't get too great. And that's about all I can tell you for now as far as CVID is
 concerned. 
 
-## 13B. CVID. Proper Testing
+### 13B. CVID. Proper Testing
 
 When we test for CVID, and of course if someone has diabetes and a history of sinusitis or
 frequent infractions or frequent colds, you absolutely want to test for this.
