@@ -15,12 +15,14 @@ const { pageTitle } = Astro.props;
   </head>
 
   <body class="bg-dark text-white">
-    <div class="flex flex-col md:flex-row w-full mx-auto my-8 md:mt-32 md:gap-8 md:justify-center relative px-4">
+    <div class="flex flex-col md:flex-row w-full mx-auto my-8 md:mt-32 md:gap-14 md:justify-center relative max-md:px-4">
       <Navigation />
       <main class="flex flex-col flex-1 max-w-160">
         <slot />
       </main>
-      <slot name="sidebar" />
+      <div class="hidden md:block w-48">
+        <slot name="sidebar" />
+      </div>
     </div>
   </body>
 </html>

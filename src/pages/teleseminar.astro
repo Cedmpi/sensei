@@ -1,7 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 
-
 const allSessions = Object.entries(
   import.meta.glob("./teleseminar/*.md", { eager: true }),
 )
@@ -10,7 +9,15 @@ const allSessions = Object.entries(
 ---
 
 <BaseLayout>
-  <h1 class="font-semibold text-xl mb-6">Dr. Bernstein's Teleseminar</h1>
+  <div class="mb-6">
+    <h1 class="font-semibold text-xl">Dr. Bernstein's Teleseminar</h1>
+    <p>
+      <small class="opacity-50">
+        Transcriptions might be adjusted for readability and accuracy, outdated
+        resources may be updated.
+      </small>
+    </p>
+  </div>
   <nav>
     <ol class="divide-y divide-neutral-200/10 w-max">
       {
