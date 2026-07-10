@@ -1,56 +1,62 @@
 ---
 import PagefindConfig from "astro-pagefind/components/PagefindConfig.astro";
 ---
+
 <div>
-    <PagefindConfig highlight-param="highlight" />
-    
-    <div class="flex flex-col gap-2 min-h-20">
-      <pagefind-searchbox class="block w-full"></pagefind-searchbox>
-      <button
-        id="clear-highlight-btn"
-        class="hidden self-end bg-neutral-800 opacity-60 border border-neutral-400 text-xs px-2 py-1 rounded-sm cursor-pointer transition-colors"
-        title="Remove search highlights (Ctrl + ,)"
+  <PagefindConfig highlight-param="highlight" />
+
+  <div class="flex flex-col gap-0.5 min-h-20">
+    <pagefind-modal-trigger></pagefind-modal-trigger>
+    <pagefind-modal></pagefind-modal>
+
+    <button
+      id="clear-highlight-btn"
+      class="hidden self-end bg-neutral-800 opacity-60 border border-neutral-400 text-xs px-2 py-1 rounded-sm cursor-pointer transition-colors"
+      title="Remove search highlights (Escape)"
+    >
+      Clear Highlights
+      <span class="pf-trigger-shortcut" aria-hidden="true"
+        ><span class="pf-trigger-key">Esc</span></span
       >
-        Clear Highlights 
-        <span class="pf-trigger-shortcut" aria-hidden="true"><span class="pf-trigger-key">Ctrl</span><span class="pf-trigger-key">,</span></span>
-      </button>
-    </div>
-    <script>
-      const clearBtn = document.getElementById("clear-highlight-btn");
-      if (clearBtn) {
-        const urlParams = new URLSearchParams(window.location.search);
-        if (urlParams.has("highlight")) {
-          clearBtn.classList.remove("hidden");
-        }
+    </button>
+  </div>
+  <script>
+    const clearBtn = document.getElementById("clear-highlight-btn");
+    if (clearBtn) {
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.has("highlight")) {
+        clearBtn.classList.remove("hidden");
+      }
 
-        const clearHighlights = () => {
-          const marks = document.querySelectorAll("mark");
-          marks.forEach((mark) => {
-            const parent = mark.parentNode;
-            if (parent) {
-              parent.replaceChild(document.createTextNode(mark.textContent || ""), mark);
-              parent.normalize();
-            }
-          });
-          
-          clearBtn.classList.add("hidden");
-          const cleanUrl = new URL(window.location.href);
-          cleanUrl.searchParams.delete("highlight");
-          history.replaceState(null, "", cleanUrl.toString());
-        };
-
-        clearBtn.addEventListener("click", clearHighlights);
-
-        document.addEventListener("keydown", (e) => {
-          if ((e.ctrlKey || e.metaKey) && e.key === ",") {
-            e.preventDefault();
-            if (!clearBtn.classList.contains("hidden")) {
-              clearHighlights();
-            }
+      const clearHighlights = () => {
+        const marks = document.querySelectorAll("mark");
+        marks.forEach((mark) => {
+          const parent = mark.parentNode;
+          if (parent) {
+            parent.replaceChild(
+              document.createTextNode(mark.textContent || ""),
+              mark,
+            );
+            parent.normalize();
           }
         });
-      }
-    </script>
-  </div>
 
+        clearBtn.classList.add("hidden");
+        const cleanUrl = new URL(window.location.href);
+        cleanUrl.searchParams.delete("highlight");
+        history.replaceState(null, "", cleanUrl.toString());
+      };
 
+      clearBtn.addEventListener("click", clearHighlights);
+
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+          e.preventDefault();
+          if (!clearBtn.classList.contains("hidden")) {
+            clearHighlights();
+          }
+        }
+      });
+    }
+  </script>
+</div>
