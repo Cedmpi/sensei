@@ -5,21 +5,48 @@ import PagefindConfig from "astro-pagefind/components/PagefindConfig.astro";
 <div>
   <PagefindConfig highlight-param="highlight" />
 
-  <div class="flex flex-col gap-0.5 min-h-20">
-    <pagefind-modal-trigger></pagefind-modal-trigger>
-    <pagefind-modal></pagefind-modal>
+  <div class="flex flex-col gap-0.5 min-h-20" data-pf-theme="dark">
+    <style>
+      [data-pf-theme="dark"] {
+        --pf-text: #e0e0e0;
+        --pf-text-secondary: #a0a0a0;
+        --pf-text-muted: #888;
+        --pf-background: oklch(27% 0.035 258);
+        --pf-border: oklch(35% 0.03 258);
+        --pf-border-focus: #58a6ff;
+        --pf-skeleton: oklch(30% 0.03 258);
+        --pf-skeleton-shine: oklch(34% 0.03 258);
+        --pf-hover: oklch(33% 0.035 258);
+        --pf-mark: #fff5cc;
+        --pf-scroll-shadow: rgba(0, 0, 0, 0.4);
+        --pf-error-bg: oklch(27% 0.04 25);
+        --pf-error-border: oklch(37% 0.06 25);
+        --pf-error-text: #fca5a5;
+        --pf-outline-focus: #58a6ff;
+        --pf-modal-backdrop: rgba(0, 0, 0, 0.7);
+      }
 
-    <button
-      id="clear-highlight-btn"
-      class="hidden self-end bg-neutral-800 opacity-60 border border-neutral-400 text-xs px-2 py-1 rounded-sm cursor-pointer transition-colors"
-      title="Remove search highlights (Escape)"
-    >
-      Clear Highlights
-      <span class="pf-trigger-shortcut" aria-hidden="true"
-        ><span class="pf-trigger-key">Esc</span></span
+      .clear-highlight-btn {
+        background: var(--pf-background);
+        border: 1px solid var(--pf-border);
+        color: var(--pf-text-muted);
+      }
+    </style>
+      <pagefind-modal-trigger placeholder="Search"></pagefind-modal-trigger>
+      <pagefind-modal></pagefind-modal>
+
+      <button
+        id="clear-highlight-btn"
+        class="hidden text-xs px-2 py-1 rounded-sm cursor-pointer clear-highlight-btn ml-auto"
+        title="Remove search highlights (Escape)"
       >
-    </button>
+        Clear Highlights
+        <span class="pf-trigger-shortcut" aria-hidden="true"
+          ><span class="pf-trigger-key">Esc</span></span
+        >
+      </button>
   </div>
+
   <script>
     const clearBtn = document.getElementById("clear-highlight-btn");
     if (clearBtn) {

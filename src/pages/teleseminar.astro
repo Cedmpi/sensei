@@ -9,17 +9,35 @@ const allSessions = Object.entries(
 ---
 
 <BaseLayout>
-  <div class="mb-6">
+  <div class="mb-6 space-y-1">
     <h1 class="font-semibold text-xl">Dr. Bernstein's Teleseminar</h1>
-    <p>
-      <small class="opacity-50">
-        Transcriptions might be adjusted for readability and accuracy, outdated
-        resources may be updated.
-      </small>
-    </p>
+    <div class="text-sm opacity-60 space-y-2">
+      <p class="text-xs">
+          Transcriptions might be adjusted for readability and accuracy,
+          outdated resources may be updated.
+      </p>
+
+      <p>
+        Dr. Bernstein's Teleseminar is a Q&A session. The answers to the
+        questions are based on assumptions about the individual who asked the
+        question, and the assumptions may be incorrect and it could be the wrong
+        answer.
+      </p>
+
+      <p>
+        Be warned that these answers are guesses, they're not absolute
+        answers, don't run out and do what they say, but discuss the
+        suggestions with your doctor.
+      </p>
+      <p>
+        Don't take these answers as hard answers. They're just possibilities.
+        And they're intended for all of the readers, not just the one person who
+        sent in the question.
+      </p>
+    </div>
   </div>
-  <nav>
-    <ol class="divide-y divide-neutral-200/10 w-max">
+  <nav >
+    <ol class="divide-y divide-neutral-200/10">
       {
         allSessions.map((post: any) => (
           <li class="py-2 font-medium">
