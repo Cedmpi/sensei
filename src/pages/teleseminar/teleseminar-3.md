@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/TeleseminarLayout.astro
-title: 3. November 2015
+title: 3. Teleseminar
 source: https://www.youtube.com/watch?v=v-Hdtq12uZ4
 ---
 
@@ -55,7 +55,7 @@ Now we'll get to our questions.
 
 ---
 
-### I've read your book and have started your diet. After a couple of months, the health of my teeth has deteriorated. How does the body get all relevant nutrients while excluding major food groups?
+### I've read your book and have started your diet. After a couple of months, the health of my teeth has deteriorated. How does the body get all relevant nutrients while excluding major food groups? [short: Diet and tooth health]
 
 Well, this person thinks that maybe our meal plan guidelines are taking away nutrients. Now,
 in reality, compared to what patients in the USA have been doing, at least those who I've seen,
@@ -103,7 +103,7 @@ high blood sugars and for the large amount of sweets that most people are eating
 
 Next question.
 
-### Is the blood sugar response from sugar alcohols in a diabetic individual different in any way from that of the non-diabetic person?
+### Is the blood sugar response from sugar alcohols in a diabetic individual different in any way from that of the non-diabetic person? [short: Sugar alcohols and BG]
 I would say absolutely.
 
 If you give a candy that is sweetened with sorbitol to a non-diabetic and let's say you give him
@@ -126,7 +126,7 @@ And if you eat a number of these candies, your blood sugar will go up by a lot.
 
 Next question.
 
-### Do you have any testimonials of people who have recovered from brittle diabetes? The roller coaster blood sugar is using the methods in your book. There are not any patient stories in your book. 
+### Do you have any testimonials of people who have recovered from brittle diabetes? The roller coaster blood sugar is using the methods in your book. There are not any patient stories in your book.  [short: Brittle diabetes recovery]
 
 And this is, this question is from Norway.
 And my book was published in Norwegian and it could be that the Norwegian publisher left
@@ -147,11 +147,11 @@ So again, Google or Facebook or probably any
 search engine you choose, type one O-N-E grit, G-R-I-T. Okay.
 
 
-### My 14 year old son was diagnosed September 2014 with type one diabetes.
+### My 14 year old son was diagnosed September 2014 with type one diabetes. [short: Teen weight gain]
 
-_He is on the low carb diet but does not need insulin to
+*He is on the low carb diet but does not need insulin to
 keep blood sugar normal. He has five foot six and weighs 121 pounds trying to eat more calorie-rich
-foods but it is not helping him gain weight. Should he continue to be on the low carb diet?_
+foods but it is not helping him gain weight. Should he continue to be on the low carb diet?*
 
 A good question and one we frequently get or at least should get because the American Diabetes
 Association is pushing people to eat a lot of carbohydrates.
@@ -183,7 +183,7 @@ but without adequate insulin you cannot grow or gain weight.
 
 Next question.
 
-### Can raising long-acting insulin levels actually cause or trigger bouts of diarrhea such as I experience in the days since raising my insulin dose on levamir? From 48 units per day to 60 units per day.
+### Can raising long-acting insulin levels actually cause or trigger bouts of diarrhea such as I experience in the days since raising my insulin dose on levamir? From 48 units per day to 60 units per day. [short: Insulin and diarrhea]
 
 Well this question doesn't have obvious answers because I
 don't have a lot of information but one real possibility is that this person has a gastrointestinal
@@ -202,9 +202,9 @@ investigated that can cause diarrhea but it can also increase your susceptibilit
 
 ### Testosterone therapy
 
-_I'm a 63 year old male with type 1 diabetes. I exercise five days a week. My testosterone level
+*I'm a 63 year old male with type 1 diabetes. I exercise five days a week. My testosterone level
 was 181 at my last blood test a month ago. I exhibit three of the clues mentioned in your book
-plus experience lethargy and fatigue after exercise. Would I benefit from testosterone therapy?_
+plus experience lethargy and fatigue after exercise. Would I benefit from testosterone therapy?*
 
 Well nowadays the pros and cons of testosterone therapy are so complicated the scientific literature
 on it is changing so rapidly that instead of prescribing it myself I now send people to
@@ -224,8 +224,8 @@ Next question.
 
 ### Type one diabetic for 33 years
 
-This person is a survivor. _My endo wants my blood
-sugars at 8 mmol/L after two hours._ Eight millimoles per liter is 144 mg/dL which is a little below double normal.
+This person is a survivor. *My endo wants my blood
+sugars at 8 mmol/L after two hours.* Eight millimoles per liter is 144 mg/dL which is a little below double normal.
 
 So here we again have the endocrinologist wanting the patient to have high blood sugars. Isn't this too high?
 Right now they average six which would be 108 is his mg/dL is his average
@@ -234,7 +234,7 @@ blood sugar.
 Still a little bit high but not so high that it will rapidly cause the long-term
 complications of diabetes.
 
-_My endo says I am too controlled what do you think?_ Well we're back to
+*My endo says I am too controlled what do you think?* Well we're back to
 the old story and I've repeated it over and over again. I've been told this by endos who are
 responsible for the guidelines or were responsible and I'll repeat it because it's so important.
 
@@ -259,7 +259,7 @@ and that's why you're being asked to have high blood sugars.
 That's my guess.
 
 
-### Would you recommend auto antigen specific immunotherapy for early stages of type 1 diabetes?
+### Would you recommend auto antigen specific immunotherapy for early stages of type 1 diabetes? [short: Immunotherapy for type 1]
 
 This is a new approach to treatment that's being tried on rodents experimentally.
 It's not anywhere near being available for humans and in fact it has not been demonstrated
@@ -269,7 +269,7 @@ about it.
 
 Next question
 
-### Is successful married life possible with a type 1 diabetic male?
+### Is successful married life possible with a type 1 diabetic male? [short: Marrying a type 1]
 What factors should one consider in marrying a type 1 diabetic person and this is sent to us by a woman
 and indeed you have to be concerned I guess what she's thinking about is the erectile dysfunction
 and the inability to have children that eventually occurs if you have chronic elevated blood sugars
@@ -303,8 +303,8 @@ occurs in children who have had high blood sugars for years.
 Next question
  
 ### My free t3 is 1.8
- _which is below the bottom of normal which is 2 to 4.4
- fecal anti-gliadine IGA is 68 normal is less than 10_
+ *which is below the bottom of normal which is 2 to 4.4
+ fecal anti-gliadine IGA is 68 normal is less than 10*
 
 okay this person is worried about ciliac disease and he is making antibodies to ciliac disease
 and these antibodies are present in his stool this suggests dietary gluten sensitivity
@@ -344,9 +344,9 @@ yeah if you have CVID treatment with gamma globulin can be helpful
 next question
 
 ### United Kingdom diluting fluids
-_I live in the United Kingdom the insulin manufacturers here say there are no diluting fluids for my fast
+*I live in the United Kingdom the insulin manufacturers here say there are no diluting fluids for my fast
 acting insulins can I use plain over-the-counter water for injections to dilute the fast acting
-insulins_
+insulins*
 
 The answer is no but the manufacturers have misinformed you and I wonder whether you
 spoke directly to the manufacturers and if the people you spoke to were really technical people
@@ -379,7 +379,7 @@ saline but the manufacturers do have diluting fluid
 
 next question
 
-### Would blood transfusions help with resetting the A1C for three months
+### Would blood transfusions help with resetting the A1C for three months [short: Blood transfusions for A1C]
 
 You'd have to get a lot of blood and the hazards of the
 transfusion would be so much greater than the hazards of the A1C because the transfusion will not
@@ -412,10 +412,10 @@ there is a disease by the way cushing syndrome which is quite rare
 where people make too much cortisol too much and they can have high blood sugars as a result
 that's rare
 
-### Freestyle light meter reads 20 points below my provider's meter
+### Freestyle light meter reads 20 points below my provider's meter [short: Meter accuracy]
 
-_My freestyle light meter seems to read almost 20 points below my provider's meter
-and leads to a calculated a1c lower than my lab values is this accurate_
+*My freestyle light meter seems to read almost 20 points below my provider's meter
+and leads to a calculated a1c lower than my lab values is this accurate*
 
 well there are several things to consider first of all in my experience most providers
 recommend meters that are inaccurate they recommend the meter that gets the most promotion
@@ -444,7 +444,7 @@ so use the formula that I give in my book
 
 next question
 
-### Does type 2 diabetes contribute to belly fat would a tummy tuck help diabetes
+### Does type 2 diabetes contribute to belly fat would a tummy tuck help diabetes [short: Belly fat and diabetes]
 
 well a tummy tuck deals with superficial fat not mesenteric fat that we mentioned previously
 um insulin resistance is caused by mesenteric fat which is under the surface you cannot
@@ -452,7 +452,7 @@ grab it and a tummy tuck cannot reach it it is under the muscles of the abdomen 
 is way inside so a tummy tuck is not going to make any difference
 and the mesenteric fat does indeed cause insulin resistance
 
-### What are your thoughts on resistant starch
+### What are your thoughts on resistant starch [short: Resistant starch]
 
 well we have discussed this indirectly when I spoke about the low carbohydrate bread that I sometimes use it contains a resistant starch
 there are a number of resistant starches one of which most most commonly known one is called
@@ -470,7 +470,7 @@ have to cover them with insulin with type two you can't just eat them continuall
 going to add up like a like a protein food would eventually a blood sugar will go up if
 you eat enough of it
 
-### I am interested in knowing about type 1.5 diabetes what does it mean
+### I am interested in knowing about type 1.5 diabetes what does it mean [short: Type 1.5 diabetes]
 
 Well it's a term that's it's an unofficial term that really has no meaning and different people
 have made it up to apply to different situations most commonly it applies to
@@ -493,7 +493,7 @@ combination
 
 okay let's see what else we have
 
-### If I draw air through syringes as I use them and then air dry syringes for a year before I reuse them is there a chance of polymerization of old insulin
+### If I draw air through syringes as I use them and then air dry syringes for a year before I reuse them is there a chance of polymerization of old insulin [short: Syringe reuse]
 
 Now what this person is referring to is something I pointed out in my book and also on
 these teleseminars that insulin in fine needles polymerizes and um if injected back
@@ -541,7 +541,7 @@ glucose tolerance test where going over 200 is a marker of diabetes her highest 
 so for a person like that who never goes over 100 you could be sure they're making enough insulin
 but I gave you several options
 
-### Do you think using an iPad or smartphone diabetes app will help with diabetes control and help prevent diabetes complications
+### Do you think using an iPad or smartphone diabetes app will help with diabetes control and help prevent diabetes complications [short: Diabetes apps]
 
 Well an app is not going to normalize your blood sugars it would have to be the length of my book
 and the book is out there already and it tells you what to do step by step and it's and here we if you go to this type one grit facebook page you'll see thousands of people who have used the
@@ -557,14 +557,14 @@ must inject to cover the carbohydrate
 trouble is that large amounts of carbohydrate lead to
 large insulin doses which are unpredictably absorbed so read the book
 
-### I am 66 years old and a pre-diabetic 
+### I am 66 years old and a pre-diabetic  [short: Pre-diabetic weight loss]
 
-_I found your book and have applied your methods my blood sugars range 80 to
-100 mg/dL averaging in the mid 90s_
+*I found your book and have applied your methods my blood sugars range 80 to
+100 mg/dL averaging in the mid 90s*
 
 now right away one wonders what meter
-is this person using because meters can be 100 off on their numbers _a1c in june was
-6.3 percent_ which is an average blood sugar I might add of 152 mg/dL
+is this person using because meters can be 100 off on their numbers *a1c in june was
+6.3 percent* which is an average blood sugar I might add of 152 mg/dL
 so that doesn't jibe with blood sugars being between 80 and 120 something is wrong
 
 I lost 35 pounds since last october and am now 259 pounds what can I do to keep losing weight
@@ -579,8 +579,8 @@ next question
 
 ### Difficulty gaining weight
 
-_In your book you mentioned that as a young man
-you had difficulty gaining weight why was that the case_
+*In your book you mentioned that as a young man
+you had difficulty gaining weight why was that the case*
 
 Well at this point I should say
 to everyone out there what's your guess it's of course the fact that I did not have enough basal
@@ -596,9 +596,9 @@ next question
 
 ### Nightly leg cramps
 
-_Despite normal electrolytes and 500 milligrams of no salt at
+*Despite normal electrolytes and 500 milligrams of no salt at
 bedtime and drinking chicken bouillon daily I am still getting almost nightly leg cramps after
-six months on your regimen any suggestions_ 
+six months on your regimen any suggestions* 
 
 Well first suggestion is if you're taking a statin
 drug that can cause nocturnal leg cramps and even more severe kinds of muscle cramps but most common

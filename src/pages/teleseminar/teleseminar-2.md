@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/TeleseminarLayout.astro
-title:  2. October 2015
+title:  2. Teleseminar
 source: [https://youtu.be/_kJaAmYiPlQ ,https://youtu.be/KOQBJKg_gFs]
 
 ---
@@ -38,7 +38,7 @@ As those of you who are using my book Diabetes Solution know, that's not too har
 but you have to control your overeating if you eat too much carbohydrate, and you have
 to stop following ADA guidelines that recommend high carbohydrate.
 Number one is normalized blood sugars.
-For those people who can't possibly control their overeating, DHEA, which is dehydroepiandosterone,
+For those people who can't possibly control their overeating, DHEA, which is dehydroepiandrosterone,
 and is a precursor to testosterone and estrogen, is something that apparently inhibits glycosylation
 of proteins.
 
@@ -56,7 +56,7 @@ So that's about the information that I can give you.
 
 First question,
 
-### I have elevated GAD65 antibodies. My blood sugar is elevated even on a low carbohydrate diet.I would like to know if there's anything I can do in conjunction with diet and exercise to restore beta cell function and avoid clinical type 1 diabetes.
+### I have elevated GAD65 antibodies. My blood sugar is elevated even on a low carbohydrate diet.I would like to know if there's anything I can do in conjunction with diet and exercise to restore beta cell function and avoid clinical type 1 diabetes. [short: GAD antibodies and beta cell function]
 
 Well, if you're already on a low carbohydrate diet, and of course I don't know what your
 low carbohydrate is, let's assume that you're following my book and taking my advice.
@@ -81,20 +81,20 @@ at least in my experience, for putting off further deterioration of blood sugar.
 And I've seen this in a number of patients.
 
 Next question,
-### type 1 diabetic for 39 years. I recently had a vertical gastric sleeve
+### type 1 diabetic for 39 years. I recently had a vertical gastric sleeve [short: Vertical gastric sleeve]
 So this fellow is a lady.
 She is a survivor.
 I am 41 years old.
 I recently had a vertical gastric sleeve.
 
-_After surgery, I lost 25 pounds, but still need to lose 80 more._
+*After surgery, I lost 25 pounds, but still need to lose 80 more.*
 
 So this person probably has been an overeater for most of her life and probably has been
 eating a lot of carbohydrate.
 
-_I then began following your way of eating.
+*I then began following your way of eating.
 I do not eat carbs at all, yet I am not losing any weight.
-What can I do?_
+What can I do?*
 
 Well, first of all, read my book Diabetes Solution.
 Just because you're following my way of eating does not mean that you read my book.
@@ -142,7 +142,7 @@ Next question.
 
 ### Worry about gluconeogenesis for patients with type 2 diabetes
 
- _I've read your book. If you are recommending a high protein diet for patients with type 2 diabetes, don't they have to worry about gluconeogenesis?_
+ *I've read your book. If you are recommending a high protein diet for patients with type 2 diabetes, don't they have to worry about gluconeogenesis?*
 
 Gluconeogenesis is the conversion of protein to glucose with the help of some enzymes from
 the liver and even muscles and kidney.
@@ -208,7 +208,7 @@ The ketones are essential for the survival of humanity.
 
 Next question.
 
-### Your book recommends waiting four hours between meals and snacks. What if your meal or snack has no carbs, e.g. meter eggs or cheese?
+### Your book recommends waiting four hours between meals and snacks. What if your meal or snack has no carbs, e.g. meter eggs or cheese? [short: Timing between meals]
 
 Well, I don't recall if I did say four hours.
 Maybe I suggested that for type 2 diabetics you want to minimize the load at any one time,
@@ -381,9 +381,9 @@ blood sugars and which are not.
 But I believe what this lady says in her question.
 
 ### My new doctor says my diabetes is too controlled with an A1c of 6%.
-_I am 68 years old.
+*I am 68 years old.
 He says it should be above 7 for older people.
-Is this true?_
+Is this true?*
 
 Well, actually, as I recall, and I could be wrong, the ADA American Diabetes Association
 recommends over 8% for older people.
@@ -427,7 +427,7 @@ That's sort of the ball game.
 And if your doctor is trying to do this sort of thing to you, you should find a doctor who
 is more sympathetic and who would place a greater value on your survival.
 
-### Do you see a connection between increased cortisol production in the body and elevated glucose levels in type 2 insulin resistant diabetes?
+### Do you see a connection between increased cortisol production in the body and elevated glucose levels in type 2 insulin resistant diabetes? [short: Cortisol and glucose]
 Well, there is a disease called Cushing Syndrome where people make too much cortisol.
 Although I've seen thousands of patients, both in my private practice and in clinic,
 I cannot offhand recall one patient with Cushing Syndrome.
@@ -457,10 +457,10 @@ So it's highly variable upon what treatment is going to work and what isn't.
 In any event, cortisol raises blood sugar.
 
 ### What is the upper limit of fat intake in diet?
-_In last three weeks, I have swelling in my feet.
+*In last three weeks, I have swelling in my feet.
 Can this be caused by high fat?
 I'm 74 years old.
-Diet includes 50 grams of carbohydrate per meal._
+Diet includes 50 grams of carbohydrate per meal.*
 
 So first of all, I'd suggest that you read my book and start improving your blood sugars
 because 50 grams of carb are going to send your blood sugars sky high.
@@ -501,10 +501,10 @@ so many possibilities that you may have to consult several specialists before yo
 the one who figures out what the problem is.
 
 ### My 16-year-old daughter plays varsity sports.
-_She becomes shaky and nauseous in the middle of lacrosse games.
+*She becomes shaky and nauseous in the middle of lacrosse games.
 I checked her blood sugar was 180 milligrams per deciliter.
 Fasting glucose is 83.
-Is this a beginning sign of diabetes?_
+Is this a beginning sign of diabetes?*
 
 Boy, it surely looks suspicious to me.
 
@@ -532,12 +532,12 @@ And of course, if she's over 6%, you can be sure she's diabetic.
 That's about all I can tell you.
 
 ### I'm 42 years old, diagnosed type 1 at age 26.
-_I use an insulin pump.
+*I use an insulin pump.
 I also have palindromic rheumatism.
 Palindromic means that it comes and goes, comes, disappears, and reappears at random.
 I know that both conditions are autoimmune diseases.
 Is there any way I can reverse these conditions or lower my chances of getting another autoimmune
-disease?_
+disease?*
 
 I really don't know.
 
@@ -558,7 +558,7 @@ And my daughter went about a year ago to a health food store and said, what can 
 instead of the fish oil?
 And they gave her a product.
 The product was a very potent dose of curcumin, the spice.
-And the brand name is Cura, C-U-R-A-MED, M-E-D, cura med.
+And the brand name is curamed.
 It's called superior absorption curcumin.
 
 In WAMO, this stuff stopped each arthritis attack.
@@ -566,7 +566,7 @@ And the dog comes up to her and nudges her when she wants a pill.
 And this has been going on for a year.
 So my sidekick, Samantha, has rheumatoid arthritis and can be extremely painful.
 And her hands swell up so much that she can't get her rings off.
-So when we heard the story about my daughter's dog, we immediately got some cura med for
+So when we heard the story about my daughter's dog, we immediately got some curamed for
 Samantha.
 
 And she tried it at the start of an attack.
@@ -675,18 +675,18 @@ blood sugars normal is what's healthy.
 Let's see.
 
 ### Non-proliferative retinopathy, macular edema
-_I've had type 1 diabetes for 27 years.
+*I've had type 1 diabetes for 27 years.
 I follow your protocols.
-My A1C is now 4.6._
+My A1C is now 4.6.*
 
 So this just reiterates what I keep saying.
 It can be done.
 Read the book.
 
-_A routine eye exam showed moderate, non-proliferative retinopathy, macular edema, and suspicious
+*A routine eye exam showed moderate, non-proliferative retinopathy, macular edema, and suspicious
 area of neovascularization.
 What is the possibility these conditions will be reversed if I maintain A1Cs around 4.6?
-How long might it take?_
+How long might it take?*
 
 My guess is that this person has only recently come upon my book and recently lowered his
 A1C because if he had 4.6 for 27 years, he would not have any of these problems.
@@ -719,7 +719,3 @@ But the fact that this case of macular edema vanished so rapidly, six months, I 
 you and say that your problems will go away in real time.
 How long?
 No, but just keep up with that 4.6.
-
-Okay, I think we've finished our hour.
-Remember that our next teleseminar will be on Wednesday, November 25, 2015.
-Thanks for listening, and I look forward to speaking to you again in a month.

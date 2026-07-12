@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/TeleseminarLayout.astro
-title: 1. September 30th 2015 Q&A session
+title: 1. Teleseminar
 source: https://www.youtube.com/watch?v=DVA0GLfr0_Q
 ---
 
@@ -265,7 +265,7 @@ because this new gastroparesis, which is caused by the surgical procedure,
 is in many ways similar to the neurologic gastroparesis that many diabetics get from high blood sugars.
 There's also the possibility of using Zofran, which is a prescription drug that speeds stomach emptying,
 that may or may not work with a Whipple procedure, but is worth trying.
-There's also Cisopride, C-I-S-A-P-R-I-G-E, which you get from Canada, which may also work or help.
+There's also Cisapride, which you get from Canada, which may also work or help.
 
 Next question.
 
@@ -379,11 +379,11 @@ So I'd say she very much should read my book and not get pregnant yet.
 
 Next question.
 
-### I'm a 37-year-old male, type 1 for 27 years._ [short: Weight loss with gastroparesis]
+### I'm a 37-year-old male, type 1 for 27 years. [short: Weight loss with gastroparesis]
 So this person is a survivor with gastroparesis and neuropathy.
-_About a year ago, I suddenly lost 30 pounds.
+*About a year ago, I suddenly lost 30 pounds.
 I'm afraid of losing more weight and weakening my muscles even more.
-Should I still follow your 30 grams carbohydrate?_
+Should I still follow your 30 grams carbohydrate?*
 
 Well, to suddenly lose 30 pounds, unexplainably, is very ominous to me.
 I could understand if you gradually lost 30 pounds over the course of a year
@@ -504,12 +504,12 @@ But I don't have enough information to really tell you precisely what to do, but
 Next question.
 
 ### Type 1 since 1950 [short: Folliculitis and diabetes]
-_Type 1 since 1950_ so that's four years less than me, so this person is really a survivor.
-Okay, _usual A1Cs are from 6.6 to 6.9_, so let's say that he averages 6.7.
+Type 1 since 1950 so that's four years less than me, so this person is really a survivor.
+Okay, usual A1Cs are from 6.6 to 6.9, so let's say that he averages 6.7.
 That would be an average blood sugar of 168, more or less, which is double normal.
 
-_I have perforating folliculitis on my scalp. The doctor said that this is a complication of diabetes and it's very difficult to treat.
-Antibiotics have proved fruitless, other treatments._
+*I have perforating folliculitis on my scalp. The doctor said that this is a complication of diabetes and it's very difficult to treat.
+Antibiotics have proved fruitless, other treatments.*
 
 Okay, what I would do is read my book, Diabetes Solution, and try for normal blood sugars.
 If you got what's probably a chronic mild infection, the bacteria love glucose and they live off it, so the first thing to try is to have normal blood sugars.

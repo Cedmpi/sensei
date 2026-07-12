@@ -65,7 +65,7 @@ Now we'll go on to the questions.
 
 First question,
 
-### 20 weeks pregnant, insulin resistance is increasing dramatically. Would adding Glucophage in addition to insulin be safe?
+### 20 weeks pregnant, insulin resistance is increasing dramatically. Would adding Glucophage in addition to insulin be safe? [short: Pregnancy and metformin]
 Well, Glucophage has been tested, Glucophage is metformin, it's the brand name of metformin
 which we found much more effective than the generic versions of metformin and clinical
 trials have found metformin to be safe for pregnancy.
@@ -94,10 +94,10 @@ women that I've treated.
 In that case, there may be value to the metformin.
 But for a slim person, I don't offhand see any use for it, but no harm either.
 
-### Type 2 male on Victoza with great results, A1C now 4.9, increased dose to the maximum
-_on Victoza and got more headaches even though I am not low.
+### Type 2 male on Victoza with great results, A1C now 4.9, increased dose to the maximum [short: Victoza headaches]
+*on Victoza and got more headaches even though I am not low.
 Are you finding this in your patients?
-Any suggestions?_
+Any suggestions?*
 
 Well, first of all, I should point out that I do not use Victoza for the treatment of
 blood sugars in my patients.
@@ -124,7 +124,7 @@ device that can curb carbohydrate craving.
 
 Next question.
 
-### Long-term effects of prolonged periods of low blood sugar
+### Long-term effects of prolonged periods of low blood sugar [short: Prolonged low blood sugar]
 
 As I try to fine-tune my blood sugars on your program, I find that I'm having frequent
 lows because I do not have a regular work schedule.
@@ -164,7 +164,7 @@ to measure it.
 
 First question.
 
-### Do you know of natural supplements or herbs to help preserve and or regenerate insulin?
+### Do you know of natural supplements or herbs to help preserve and or regenerate insulin? [short: Natural supplements]
 I have heard Niacinamide and Gymnema Sylvesterie assist in this.
 I don't know why you call these natural, they're both processed, the Gymnema Sylvesterie could
 be contaminated with all kinds of other vegetation that may grow with it.
@@ -198,10 +198,10 @@ Next question,
 
 ### Blood sugar target 83 mg/dL
 
-_you said that you choose 83 mg/dL as a blood sugar
+*you said that you choose 83 mg/dL as a blood sugar
 target in part because mortality rates were higher below and above that range.
 Does that mean one shouldn't aim for a target of, say, 77 to give a safer margin of error
-since above 85 is associated with increased heart disease risk?_
+since above 85 is associated with increased heart disease risk?*
 
 Well, that's a very good question and it's not an easy question to answer.
 I have several patients who, especially those who don't require insulin or type 2 diabetics
@@ -228,11 +228,11 @@ below 85 or 83.
 
 Next question.
 
-### I've been a type 1 diabetic for 25 years, started on a statin 10 years ago.
-_I followed your diet for the past nine months.
+### I've been a type 1 diabetic for 25 years, started on a statin 10 years ago. [short: Statin and cholesterol]
+*I followed your diet for the past nine months.
 My recent cholesterol test results are, and he gives some numbers, I ate two eggs every
 day.
-Why is my cholesterol so high?_
+Why is my cholesterol so high?*
 
 Well, first of all, if you've listened to the teleconferences or gone to Dr. Bernstein's
 diabetes university or read my books, you know that cholesterol is not a predictor of
@@ -265,9 +265,9 @@ I'm sorry, it could go down because you're eating less than you used to.
 
 Next question,
 
-### I was diagnosed with type 1 diabetes, started using 30 units of insulin.
-_Now I'm using 4 units of Detamir or Levamir, and no insulin for meals.
-My question is, will this extend the honeymoon period?_
+### I was diagnosed with type 1 diabetes, started using 30 units of insulin. [short: Honeymoon extension]
+*Now I'm using 4 units of Detamir or Levamir, and no insulin for meals.
+My question is, will this extend the honeymoon period?*
 
 Well, this is a person who should read my book because basically what it says is that
 I've extended the honeymoon period for people where I've been able to keep blood sugars
@@ -286,8 +286,8 @@ go down or stay put without increasing.
 That is we preserve the so-called honeymoon period.
 
 ### Vegetarian diet
-_What do you recommend that vegetarians do to follow the dietary guidelines you're provided in your book?
-Apart from eggs, cheese, lentils, and beans, how do we substitute for meat in every meal?_
+*What do you recommend that vegetarians do to follow the dietary guidelines you're provided in your book?
+Apart from eggs, cheese, lentils, and beans, how do we substitute for meat in every meal?*
 
 Well, first of all, I certainly do not recommend lentils and beans.
 So I would recommend that you read my book, Diabetes Solution.
@@ -313,8 +313,8 @@ So if it's made in California, it's probably more likely to be safe.
 
 Next question.
 ### Exercising in the morning
-_What are your tips for exercising in the morning and treatment used to avoid spikes in blood
-sugar?_
+*What are your tips for exercising in the morning and treatment used to avoid spikes in blood
+sugar?*
 
 I already take one unit of insulin as soon as I wake up to avoid a rise.
 But when I exercise, mainly running or cycling, it shoots up.
@@ -344,9 +344,9 @@ the morning.
 
 ### Alpha-lipoic acid
 
-_Do you still recommend our alpha-lipoic acid, and also sold on a brand-name Insuloh, and even Primrose oil?
+*Do you still recommend our alpha-lipoic acid, and also sold on a brand-name Insuloh, and even Primrose oil?
 You mentioned it in the book, but haven't mentioned it in your teleseminars when talking about
-supplements to lower blood sugar._
+supplements to lower blood sugar.*
 
 Well, I've never, I don't mention it in the book, to my knowledge, to talk about lowering
 blood sugar.
@@ -377,10 +377,10 @@ You add it to all the other treatments.
 
 Next question.
 
-### IT solutions for diabetes challenges
-_I would like to know the challenges of diabetes which can be simplified through IT solutions.
+### IT solutions for diabetes challenges [short: IT diabetes solutions]
+*I would like to know the challenges of diabetes which can be simplified through IT solutions.
 That means using some sort of device to tell you what to do or to automatically adjust whatever
-medications you're getting._
+medications you're getting.*
 
 The closest thing to anything of that sort other than a blood sugar meter is the 24-hour
 glucose monitors, which I prescribe for only two purposes, for picking up hypoglycemia at
@@ -435,10 +435,10 @@ Let's see.
 
 ### Feet nerve regrowth
 
-_As the nerves regrow in my feet, I can feel an intense burn between my two front teeth.
+*As the nerves regrow in my feet, I can feel an intense burn between my two front teeth.
 No dentist can figure out what's wrong.
 Could this be caused by nerve regrowth?
-My A1C has been below 5 for two years._
+My A1C has been below 5 for two years.*
 
 Well, usually neuropathies begin distally, that is, furthest from the brain, so you
 start with the toes and work your way upward, and to have a neuropathy between the teeth
@@ -464,8 +464,8 @@ at DiabetesInControl.com.
 Let him know what it turned out to be and he'll let me know because I'm very curious.
 
 ### I am a pre-diabetic.
-_How aggressive should I be in trying to get the numbers to hover around 83?
-What order should I try any treatments?_
+*How aggressive should I be in trying to get the numbers to hover around 83?
+What order should I try any treatments?*
 
 This was the purpose of my book, Diabetes Solution, to step by step cover what you do
 for what degree of severity of diabetes.  
@@ -484,9 +484,9 @@ Next question.
 
 ### Cycloset
 
-_You mentioned cycloset in your book and say that you will wait five years before deciding
+*You mentioned cycloset in your book and say that you will wait five years before deciding
 whether to use it if it is safe.
-Have you used it considering a study showing it's safe for the heart?_
+Have you used it considering a study showing it's safe for the heart?*
 
 Well, I wasn't that concerned about heart safety.
 I was concerned about safety in the nervous system, especially the central nervous system.
@@ -511,9 +511,9 @@ Next question.
 
 ### I just read your book and want to try the diet.
 
-_In some of your recipes, you recommend the GG Scandinavian brand crackers.
+*In some of your recipes, you recommend the GG Scandinavian brand crackers.
 What gluten-free substitutes do you recommend?
-I am sensitive to gluten._
+I am sensitive to gluten.*
 
 If you want crackers, I would recommend the cheese puffs, which are easily made from one
 slice of pasteurized processed cheese or processed cheddar or American cheese.
@@ -524,12 +524,12 @@ Quite honestly, they do not provide any nutrition that they're just something to
 relatively benign, has a little bit of carbon, but I think that nowadays, especially since
 the cheese puffs, we have less of a purpose for using brand crackers.
 
-### Diagnosed with metabolic syndrome
+### Diagnosed with metabolic syndrome [short: Artificial sweeteners]
 
-_I'm a 68-year-old woman diagnosed with metabolic syndrome.
+*I'm a 68-year-old woman diagnosed with metabolic syndrome.
 Recent news suggests artificial sweeteners raise blood sugars and cause other health
 issues.
-Do you think artificial sweeteners alter our blood glucose and are otherwise harmful?_
+Do you think artificial sweeteners alter our blood glucose and are otherwise harmful?*
 
 This person is probably scanning the internet, and you can find comments by non-authoritative
 sources on almost any subject taking almost any side of an argument.
@@ -586,9 +586,9 @@ price and is mostly sugar.
 
 ### Pregnant following your diet
 
-_Have any of your patients been pregnant while following your diet?
+*Have any of your patients been pregnant while following your diet?
 And if so, what if any changes did you make to their diet or supplements while preparing
-for pregnancy?_
+for pregnancy?*
 
 The only thing that I can think of offhand that is really sort of universal is the use
 of a pregnancy multivitamin-containing iron, such as Materna.
@@ -599,8 +599,8 @@ to pay for it while you're pregnant, Materna and similar products would be appro
 
 ### Fecal transplants
 
-_Have you had experience with fecal transplants, and would you recommend them?
-If your patients have had them, did it make any difference to their blood sugars?_
+*Have you had experience with fecal transplants, and would you recommend them?
+If your patients have had them, did it make any difference to their blood sugars?*
 
 Well, this is a science that's experimental and is geared for certain very special situations
 like perhaps Crohn's disease and a few other things.
@@ -611,10 +611,10 @@ So if you're looking to control blood sugars, I suggest you read my book Diabete
 Next question.
 
 ### Type 1 for three years, now 33.
-_In the past, if I did vigorous exercise, my blood sugar would immediately come down.
+*In the past, if I did vigorous exercise, my blood sugar would immediately come down.
 Now they seem to go up for a certain period of time before going down.
 What accounts for the change?
-Would this only be due to less endogenous insulin production?_
+Would this only be due to less endogenous insulin production?*
 
 Right on the nose.  
 If you have type 1 diabetes, initially you're making some insulin, and in most cases they
@@ -629,11 +629,11 @@ are other reasons why high blood sugars bring about loss of beta cell function.
 Eventually you'll be either totally without your beta cells or they'll be not functioning
 as well, and that's what's happening here.
 
-### Type 2 diabetes caused by fat in the liver and pancreas
+### Type 2 diabetes caused by fat in the liver and pancreas [short: Liver fat and diabetes]
 
-_What is your take on the idea that type 2 diabetes is caused by fat in the liver and
+*What is your take on the idea that type 2 diabetes is caused by fat in the liver and
 pancreas, which inhibits insulin release, and that losing enough visceral fat in those
-organs restores insulin secretion in a percentage of patients diagnosed within 4 years or less?_
+organs restores insulin secretion in a percentage of patients diagnosed within 4 years or less?*
 
 I'll tell you what we know, that's for real, and the way it's worded in this question is
 not quite the way it is.
@@ -648,8 +648,8 @@ been uncovered in this phenomenon are legion.
 There are many of them, it's a very complicated process, but that is basically the scenario.
 
 ###  Uremia and elevated cholesterol
-_I'm following your book's diet, I have uremia and elevated cholesterol.
-What changes should I make to decrease them both?_
+*I'm following your book's diet, I have uremia and elevated cholesterol.
+What changes should I make to decrease them both?*
 
 First of all, this person may be just reading my book Diabetes Diet and not reading Diabetes
 Solution, which speaks about medications that you may need and how to keep blood sugars
@@ -671,17 +671,17 @@ that information.
 There are also medications for gout.
 
 
-### Do you know if doctors in Cuba practice better diabetes treatment than our doctors in the US?
+### Do you know if doctors in Cuba practice better diabetes treatment than our doctors in the US? [short: Cuba diabetes care]
 Well, that's a very good question, I don't know the answer to it, but I wouldn't be surprised
 because the guidelines in the US require inadequate treatment.
 
 Let's see now.
 
-### Intense exercise generates new telomeres and thereby prolongs life.
+### Intense exercise generates new telomeres and thereby prolongs life. [short: Exercise and telomeres]
 
-_In your book, you assert that intense exercise generates new telomeres and thereby prolongs
+*In your book, you assert that intense exercise generates new telomeres and thereby prolongs
 life.
-Are there any other studies that are available that relate to this?_
+Are there any other studies that are available that relate to this?*
 
 There are many, and we have a file folder full of such studies.
 Over the years, I've sent copies to Steve Freed, but I doubt that he's going to want
@@ -690,10 +690,10 @@ to hunt through his files.
 What I'd suggest you do is go to Google and search for scientific studies showing that
 exercise increases number of telomeres, or I should say increases length of telomeres.
 
-### Can U-100 insulin be diluted ?
+### Can U-100 insulin be diluted ? [short: Diluting insulin]
 
-_Can U-100 insulin be diluted if you want to bring down sugars quickly instead of either
-doing an intramuscular injection or using aspart?_
+*Can U-100 insulin be diluted if you want to bring down sugars quickly instead of either
+doing an intramuscular injection or using aspart?*
 
 Well, aspart goes by the brand name of Novalog, I suspect that what this patient is really
 asking is can you use the more potent insulin humalog, which is more rapid acting than Novalog,
@@ -713,7 +713,7 @@ The situation where we don't have to dilute them is with obese or very
 insulin resistant people, which is another ball game altogether.
 
 ### Cow's milk type 1 diabetes
-_What is your opinion about the mixed evidence linking cow's milk to type 1 diabetes?_
+*What is your opinion about the mixed evidence linking cow's milk to type 1 diabetes?*
 
 Well, that was originally speculation, I think, because of the high incidence of diabetes
 in Finland, where I think there was a wide usage of cow's milk, possibly instead of
