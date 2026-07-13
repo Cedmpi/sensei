@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/TeleseminarLayout.astro
-title: 4. December 2015
+title: 4. Teleseminar
 source: https://www.youtube.com/watch?v=HH46oAwSoR4
 ---
 
@@ -727,6 +727,3 @@ blogs and opinions and internet sites of so-called authorities, you want to see 
 articles in peer-reviewed journals, and I think you'll find that it's no longer believed
 to be the case.
 
-Well, that's it for tonight. Our thanks for listening.
-Happy New Year to everyone. I wish that you will join us on January 27th, Wednesday for
-the next edition of our teleseminar. We'll be looking for you then. Thanks.
