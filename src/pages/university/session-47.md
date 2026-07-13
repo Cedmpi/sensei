@@ -5,7 +5,7 @@ source: https://www.youtube.com/watch?v=x6eE_kkxXT8
 
 ---
 
-<small> Discussion between *Dr. RD Dikeman (child has Type 1 diabetes)* and Dr. Bernstein </small>
+<small> Discussion between *Dr. RD Dikeman (parent of Type 1 diabetic)* and Dr. Bernstein </small>
 
 *Now we're going to talk a little bit about insulin
 management.
