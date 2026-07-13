@@ -1,6 +1,8 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import DocumentNav from "../components/DocumentNav.astro";
+import TableOfContents from "../components/TableOfContents.astro";
+
 const { frontmatter } = Astro.props;
 
 const allSessions = Object.entries(
@@ -30,8 +32,8 @@ const nextEntry =
     <h2 class="text-lg font-medium">{frontmatter.title}</h2>
     <slot />
   </article>
-  <a href={frontmatter.source} target="_blank" class="text-xs mt-4">source</a>
+  <a href={frontmatter.source} target="_blank" class="text-xs mt-4">Source</a>
 
   <DocumentNav prev={prevEntry} next={nextEntry} basePath="university" />
-
+  {frontmatter.toc && <TableOfContents slot="sidebar" />}
 </BaseLayout>
