@@ -20,7 +20,7 @@ So if you want an answer, make it brief, I'll make certain assumptions about the
 that might be incorrect, but we're looking toward the general audience, not for solving
 individual problems exactly.
 
----
+### Special Subject: DHEA counteracts advanced glycosylation end product formation
 
 Now the first question, before we go into questions, we have a special subject this week, which
 I'll quote the article, DHEA counteracts advanced glycosylation end product formation.

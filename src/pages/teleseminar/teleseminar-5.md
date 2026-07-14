@@ -14,6 +14,7 @@ your questions, assumptions about you or your health or whatever, and I'm making
 you can't really go by what I say, but I may have made a good guess, and you can discuss my
 suggestions with your physician.
 
+### Special subject: Metformin and vitamin B12
 We have a special subject today which has to do with the fact that
 metformin can impair the absorption of vitamin B12. It doesn't do this to everybody, but it does
 do it to a certain percentage of the users. I just stumbled on an article that I saw several

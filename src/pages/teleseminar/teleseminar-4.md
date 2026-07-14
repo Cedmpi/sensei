@@ -17,7 +17,8 @@ so don't run out and do what I say, but discuss the suggestions with your doctor
 The special subject for today is a new insulin that came on the market about two weeks ago
 that serves a special purpose.
 
-It's called Tresiba, I just want to double check the spelling, and it
+### Special subject: Tresiba insulin
+It's called Tresiba, and it
 is a long-acting insulin or basal insulin.
 The manufacturer claims that it will last for two days.
 

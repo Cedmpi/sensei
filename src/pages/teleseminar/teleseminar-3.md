@@ -18,9 +18,9 @@ So don't take these answers as hard answers. They're just possibilities. And the
 the listeners, not just the one person who sent in the question.
 
 Our special subject for tonight's broadcast is, and I'll read the title of the paper from the current edition of Lancet Endocrinology
-and Diabetes. In fact, I think it's called Lancet. The website is Lancet.com Diabetes
-Dash Endocrinology.
+and Diabetes. In fact, I think it's called Lancet. The website is The Lancet Diabetes and Endocrinology.
 
+### Special subject: Hypothyroidism
 This is a major journal, and I'm going to read you the title of the article.
 New insights into the variable effectiveness of levothyroxine monotherapy for hypothyroidism.
 
