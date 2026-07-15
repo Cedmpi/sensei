@@ -29,7 +29,7 @@ snack, which is what he had been doing before, nor overeat.
 
 So for this fellow, this form
 of fasting has worked. I imagine that different forms of fasting will work for different people.
-And no form of fasting may work may work for for some people, that is, some people may
+And no form of fasting may work for some people, that is, some people may
 be immune to benefiting from fasting.
 
 There's one little catch when it comes to diabetes.
