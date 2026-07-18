@@ -20,15 +20,19 @@ It really is related to an article that was published in the journal Diabetes in
 And the reason I am bringing up this subject is because people keep asking me what can I do to make my diabetes go away.
 And usually there is nothing. But from time to time we stumble on a supplement or a chemical or a prescription drug that may or may not bring back some beta cell function.
 And here we have an article that says that serum levels of L-carnosine are associated with increased beta cell mass.
+
 Now this was a study done on rodents and apparently if they were supplemented with L-carnosine their beta cell mass increased.
 So this is something that's worth noting. Anybody can try a supplement of L-carnosine and maybe it will help. I'm not sure.
 I might add that there are other studies that show that L-carnosine inhibits the formation of oxidized LDL.
+
 That L-carnosine supposedly can prevent the oxidation of LDL. And we know that oxidized LDL is a risk factor for heart disease.
 One reason why I bring up the subject of L-carnosine at this point in time is because I had pointed out that DPP4 antagonists, a class of drugs that are being used to treat diabetes, type 2 diabetes nowadays,
 also can cause heart disease. So here we're recommending DPP4 antagonists to reverse type 2 diabetes.
 And now I can no longer recommend DPP4 antagonists. So we are instead talking about L-carnosine.
 So we now have L-carnosine that not only increases beta cell mass in some studies, but it also
-inhibits LDL oxidation. I might also point out that Sambucus, which we recommend to treat colds early on, treat the flu if you catch it really early,
+inhibits LDL oxidation.
+
+I might also point out that Sambucus, which we recommend to treat colds early on, treat the flu if you catch it really early,
 also inhibits LDL oxidation. So here we have a combination. L-carnosine can both increase beta cell mass and inhibit LDL oxidation,
 thereby reducing the likelihood of heart attacks.
 
@@ -300,7 +304,7 @@ So here you have the ADA getting plenty of advertising income from Acarbose and 
 
 Neither of them make any sense. You can't say one's better than the other. They're equivalent, and they both make a lot of methane with the help of bacteria.
 
-###  Eating more fat to gain weight?
+### Eating more fat to gain weight?
 *Do you see any problem with eating two to three ounces of canola or olive oil with each meal as the best way to add calories and help gain weight?*
 
 Well, I already mentioned that I've never been able to have anyone gain weight by eating more fat, and we now know from many studies that it's the carbohydrate that puts a lot of weight on, but it also raises blood sugar.
