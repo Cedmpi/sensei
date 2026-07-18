@@ -8,6 +8,7 @@ source: https://www.youtube.com/watch?v=D9R2QNzMJXw
 Hi, this is Dr. Bernstein of Dr. Bernstein's Diabetes University.
 I'd like to briefly discuss our Glucograf IV form, Roman numeral IV.
 I use this for my recording my own blood sugar data and I use it for all of my patients.
+
 They keep their records of blood sugars on this form.
 It's very helpful in figuring out what to do if you're an insulin dependent diabetic,
 but I also have my non-insulin dependence, my type 2 is using the same form.
