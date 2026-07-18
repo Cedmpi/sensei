@@ -22,14 +22,12 @@ const nextEntry =
 ---
 
 <BaseLayout pageTitle="Dr. Bernstein's Diabetes University">
-  <a href="/university">
-    <h1 class="font-semibold text-xl mb-6">
+  <a href="/university" class="font-medium mb-6">
       Dr. Bernstein's Diabetes University
-    </h1>
   </a>
 
   <article class="space-y-4">
-    <h2 class="text-lg font-medium">{frontmatter.title}</h2>
+    <h1 class="font-semibold text-xl">{frontmatter.title}</h1>
     <slot />
   </article>
   <a href={frontmatter.source} target="_blank" class="text-xs mt-4">Source</a>
