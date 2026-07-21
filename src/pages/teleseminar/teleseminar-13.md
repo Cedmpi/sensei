@@ -253,7 +253,7 @@ As far as diabetes goes, it's a lot of hard work and sacrifice. And you have to 
 
 Now, will fasting lower insulin resistance? I doubt it very much. I've had some patients who fasted and one of them's wife was into this and convinced him to fast. And he found that when he fasted for a week at a time, his craving for carbohydrates diminished. But then it came back after a few weeks. So be wary. But again, it's not going to kill you.
 
-### I have heterozygous familial hypercholesterolemia and very high lipid levels. On low carb, high fat diet with Lipitor but experiencing side effects. Should I stay on statins or do you recommend other options?
+### I have heterozygous familial hypercholesterolemia and very high lipid levels. On low carb, high fat diet with Lipitor but experiencing side effects. Should I stay on statins or do you recommend other options? [short: Statins for high lipid levels?]
 
 Yeah, there are a number of other options. First of all, I would check your serum-free T3 because low T3 can in and of itself cause a dyslipidemia and it could be that your whole family has a history of low free T3. That may or may not be the case. Then I'd look at triglycerides, C-reactive protein, lipoprotein, small a, and other markers of inflammation. And if you have high inflammatory markers, some anti-inflammatory drugs or supplements may be of value.
 
