@@ -12,3 +12,26 @@ h3 {
   padding-top: 0.5rem;
   border-color: color-mix(in oklab, var(--color-neutral-200) 30%, transparent);
 }
+
+.slim-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #888888 transparent;
+}
+
+.slim-scrollbar::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+.slim-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.slim-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #888888;
+  border-radius: 8px;
+}
+
+.slim-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #555555;
+}
