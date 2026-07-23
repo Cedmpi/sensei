@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import DocumentNav from "../components/DocumentNav.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 
-const { frontmatter } = Astro.props;
+const { title, source, toc } = Astro.props;
 
 const allSessions = Object.entries(
   import.meta.glob("../pages/university/*.md", { eager: true }),
@@ -21,17 +21,17 @@ const nextEntry =
   currentIndex < allSessions.length - 1 ? allSessions[currentIndex + 1] : null;
 ---
 
-<BaseLayout pageTitle="Dr. Bernstein's Diabetes University">
+<BaseLayout pageTitle="Dr. Bernstein's Diabetes University" toc={toc}>
   <a href="/university" class="font-medium mb-6">
       Dr. Bernstein's Diabetes University
   </a>
 
   <article class="space-y-4">
-    <h1 class="font-semibold text-xl">{frontmatter.title}</h1>
+    <h1 class="font-semibold text-xl">{title}</h1>
     <slot />
   </article>
-  <a href={frontmatter.source} target="_blank" class="text-xs mt-4">Source</a>
+  <a href={source} target="_blank" class="text-xs mt-4">Source</a>
 
   <DocumentNav prev={prevEntry} next={nextEntry} basePath="university" />
-  {frontmatter.toc && <TableOfContents slot="sidebar" />}
+  {toc && <TableOfContents slot="sidebar" />}
 </BaseLayout>
