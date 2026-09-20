@@ -66,10 +66,10 @@ The people who are providing them with the test is a lab called STIEHL.
 And here we have doctors prescribing statins with all the potential side effects to diabetics.
 So, if I had to summarize the things that one might want to measure in the blood
 as predictors of heart disease, I would pick as number one, oxidized LDL.
-Then I'd pick total HDL. I'd look at homocysteine. I would not look,
-oh yes, and I would look at lipoprotein small a.
+Then I'd pick total HDL. I'd look at homocysteine, 
+and I would look at Lipoprotein(a) or Apolipoprotein B (ApoB).
 
-Lipoprotein small a can be inherited to be elevated, but it can also be found to be elevated
+Lipoprotein(a) can be inherited to be elevated, but it can also be found to be elevated
 in women who are estrogen deficient. It's an important factor to look at.
 But the factors that are being looked at by endocrinologists are not the ones that are the
 best predictors. And they're recommending statins for kids who have normal blood sugars now.
