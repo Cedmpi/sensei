@@ -830,11 +830,11 @@ of protein.
 So on the flip side of worrying about carbohydrate, you might hear a lot about so-called LCHF
 or low-carb high-fat diets going around.
 You might have heard that on the news or on social media.
-The Bernstein diet, particularly for kids, is not LCHF, it is LCHP.
+The Bernstein diet, particularly for kids, is not LCHF, it is LCHP (low-carb high-protein).
 
 The focus is on protein and for kids, they need a lot and for my kid, because he's right
 in the middle of puberty, he is eating a lot of protein.
-So right now he weighs about 125 pounds and he's eating at least, I would say, 250 grams
+So right now he weighs about 125 pounds (57 kg) and he's eating at least, I would say, 250 grams
 of protein and we try to keep it as constant as possible.
 That helps with keeping blood sugar as normal particularly.
 So he's eating huge amounts of protein and sometimes on the weekend, that number goes
@@ -858,6 +858,7 @@ up this book, which is The Diabetes Diet.
 And in the back of the book, there's a bunch of recipes.
 And I noticed that there were recipes for cinnamon custard, a chocolate mousse, peanut
 butter cookies, and a vanilla cream soda.
+
 And then we started Googling around and we found a couple of sites.
 I think my favorite site is by Carolyn Ketchum, and I have to mention Maria Emerich, too.
 These two, in particular, have made some recipes that will blow your mind.
@@ -871,6 +872,7 @@ If you hit the mark, if you hit those targets, your child is going to thrive.
 And finally, about the implementation of the low-carb diet, particularly for children.
 If you've got a child who's seven or eight or nine years old, it's not going to work
 if that child is the only one eating this diet.
+
 The parents have to join, too, and the siblings, too.
 Dr. Bernstein has a video on what siblings of diabetics should eat on Diabetes University.
 He gives a lot of good reasons why you're playing with fire to feed siblings high-carb
@@ -904,10 +906,11 @@ it's very unlikely that they're going to go back to the high carb, unhealthy foo
 coaster blood sugars, and eventually develop diabetic complications.  
 That's it.
 
-So keep the carbohydrates low.
+So keep the carbohydrates low.  
 Make sure that the carbohydrates are of a particular type, fibrous vegetables and nuts.
 Keep the protein high, particularly for children, and use the insulin management techniques
 outlined or detailed in the book Diabetes Solution.
+
 You can get normal blood sugars, your child can get normal blood sugars, and you can avoid
 the diabetic complications that come on a lot faster than people think.
 Thanks.
