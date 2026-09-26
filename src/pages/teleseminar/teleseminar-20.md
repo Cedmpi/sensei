@@ -488,7 +488,7 @@ plantar fasciitis.
 I've gained about 25 pounds since starting insulin four years ago mostly due to my imperfect
 diet which oral meds can help with weight control possibly in place of one of my insulins.
 Well if you're overeating you may need a lot more insulin than if you're not overeating.
-I would recommend that you take the bohenia in the manner that we discussed last time
+I would recommend that you take the Bauhinia in the manner that we discussed last time
 namely before the meals in which you overeat maybe an hour before or if you're snacking
 maybe an hour before the time you usually snack.
 We've given anywhere from one to six teaspoons in water before you know in order to get this
