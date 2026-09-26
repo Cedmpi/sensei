@@ -183,7 +183,7 @@ but without adequate insulin you cannot grow or gain weight.
 
 Next question.
 
-### Can raising long-acting insulin levels actually cause or trigger bouts of diarrhea such as I experience in the days since raising my insulin dose on levamir? From 48 units per day to 60 units per day. [short: Insulin and diarrhea]
+### Can raising long-acting insulin levels actually cause or trigger bouts of diarrhea such as I experience in the days since raising my insulin dose on Levemir? From 48 units per day to 60 units per day. [short: Insulin and diarrhea]
 
 Well this question doesn't have obvious answers because I
 don't have a lot of information but one real possibility is that this person has a gastrointestinal
@@ -195,7 +195,7 @@ sudden their insulin requirements go up and we search for an infection and usual
 infection right away.
 
 Most often it's in the mouth but it could be elsewhere and my bet is that the
-infection that caused the increase in the levamir dose also caused the diarrhea. Now I could be wrong
+infection that caused the increase in the Levemir dose also caused the diarrhea. Now I could be wrong
 but that's my guess. Another possibility that one should think about is
 inadequate levels of the immunoglobulin IGA that's fairly common amongst diabetics and should be
 investigated that can cause diarrhea but it can also increase your susceptibility to infections.

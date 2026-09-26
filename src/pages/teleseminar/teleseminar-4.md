@@ -267,7 +267,7 @@ I'm sorry, it could go down because you're eating less than you used to.
 Next question,
 
 ### I was diagnosed with type 1 diabetes, started using 30 units of insulin. [short: Honeymoon extension]
-*Now I'm using 4 units of Detamir or Levamir, and no insulin for meals.
+*Now I'm using 4 units of Detamir or Levemir, and no insulin for meals.
 My question is, will this extend the honeymoon period?*
 
 Well, this is a person who should read my book because basically what it says is that

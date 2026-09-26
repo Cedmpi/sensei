@@ -248,7 +248,7 @@ They claim two days action. We find that it manages to work overnight. You have
 to take it twice a day, morning and bedtime and because it's a relatively new insulin,
 maybe between overseas and clinical trials in the USA, it may have been used for a total of five years.
 They haven't had major adverse reactions, but that's not long enough to find cancers and things
-like that. So we may or may not run into the problems with Tresiba that they ran into with Lantus or Levamir
+like that. So we may or may not run into the problems with Tresiba that they ran into with Lantus or Levemir
 and that's the current status. I am taking this minor risk of using it on my patients because
 they don't want to get up at five o'clock in the morning and I don't blame them.
 
