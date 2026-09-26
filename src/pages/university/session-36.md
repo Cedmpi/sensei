@@ -9,7 +9,7 @@ Hi, this is Dr. Bernstein, welcoming you to another session of Dr. Bernstein's D
 University. Today, we're going to look at cardiac imaging studies and risk for heart
 attacks.
 
-For several months, our producer Dave Dykman has been after me to talk about
+For several months, our producer Dave Dikeman has been after me to talk about
 coronary artery calcium scores and similar imaging studies. I resisted him because this
 scenario is constantly changing. There are always new things happening. But then the other day,
 I received a notice from the insurance company that pays bills for one of my patients, pays

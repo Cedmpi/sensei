@@ -67,7 +67,7 @@ And step two might be weight loss, it might be physical exercise, strenuous exer
 
 Well, 15 would be you have to multiply by 18. It's close to 300 milligrams per deciliter. Okay, read my book Diabetes Solution. You're doing everything wrong. Insulin pumps don't give predictable results. There's just no way with giving her a toast.
 
-I would never give a diabetic toast. I haven't had a piece of bread since around 1970. So read the book Diabetes Solution. You're in the same ballgame that Dave Dykeman Jr. was in. You might look to his website. Go on Google to Typeonegrit. And you'll see the before and after.
+I would never give a diabetic toast. I haven't had a piece of bread since around 1970. So read the book Diabetes Solution. You're in the same ballgame that Dave Dikeman Jr. was in. You might look to his website. Go on Google to Typeonegrit. And you'll see the before and after.
 
 He was doing just what you're doing insulin pump toast and all that, and was totally out of control. And then they read my book and everything changed.
 
