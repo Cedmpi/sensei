@@ -462,59 +462,49 @@ they feel so exhausted they use the next day to recover and then on the third da
 
 ### Type 1 45 years A1C of 6.6% what could be causing angina that gets worse after eating any suggestions [short: Angina that gets worse after eating?]
 
-well angina he's probably experiencing what I experienced from gastroparesis he's getting chest pain in the upper chest upper to mid chest and it's burning and it's caused by gastric reflux
+Well angina he's probably experiencing what I experienced from gastroparesis he's getting chest pain in the upper chest upper to mid chest and it's burning and it's caused by gastric reflux
 
-the food going up instead of coming down due to a spasm in the lower esophageal sphincter so the gastroparesis has to be treated there again read my book there's a chapter on gastroparesis and there are medications for it
+the food going up instead of coming down due to a spasm in the lower esophageal sphincter so the gastroparesis has to be treated there again read my book there's a chapter on gastroparesis and there are medications for it.
 
-you may have to eat liquid meals there's a whole protocol that we have for treating gastroparesis
+You may have to eat liquid meals there's a whole protocol that we have for treating gastroparesis.
 
-### What would be your best advice for time
-
-oh that's about exercise again we already answered that
-
-### What are your thoughts on chia seeds they're high in carbs but also equally high in fiber does this count toward your low carb diet plan [short: Do chia seeds count toward the low carb plan?]
+### What are your thoughts on chia seeds they're high in carbs but also equally high in fiber does this count toward your low carb diet plan [short: Are Chia seeds low carb plan?]
 
 I have no idea I haven't tried chia seeds you could experiment with them if you add them to a salad or whatever
+and your blood sugar goes up when you eat the chia seeds and doesn't go up when you don't, eat them then leave them out, it's certainly I doubt that there are any advantages to eating chia seeds that would justify blood sugar elevation.
 
-and your blood sugar goes up when you eat the chia seeds and doesn't go up when you don't eat them then leave them out it's certainly I doubt that there are any advantages to eating chia seeds that would justify blood sugar elevation
+And certainly there's no reason to get added fiber for the sake of fiber, if you need eat enough of the vegetables that we recommend you'll get enough fiber,
 
-and certainly there's no reason to get added fiber for the sake of fiber if you need eat enough of the vegetables that we recommend you'll get enough fiber the fiber myth came about years ago
+the fiber myth came about years ago, when someone got the bright idea, that if food was causing colon cancer and if you eat a lot of fiber with the food to dilute the food you would somehow reduce the incidence of colon cancer.
 
-when someone got the bright idea that if you that food was causing colon cancer and if you eat a lot of fiber with the food to dilute the food you would somehow reduce the incidence of colon cancer
+And studies were subsequently done and what they found was just the opposite that in people who are deliberately eating large amounts of fiber the colon cancer rate increased so that was abandoned, that was a long time ago, but people are still pushing fiber.
 
-and studies were subsequently done and what they found was just the opposite that in people who are deliberately eating large amounts of fiber the colon cancer rate increased so that was abandoned that was a long time ago but people are still pushing fiber okay
+### Started Victoza six months ago, but its effect have worn off.
 
-### Started victosa six months ago but its effect have worn off
+Now this person was probably taking my suggestion that they use Victoza which is a GLP-1 agonist to curb overeating.
 
-now this person was probably taking my suggestion that they use victosa which is a GLP-1 agonist to curb overeating
+And as I've repeatedly said many people develop a tolerance to the satiety effect of Victoza and similar medications and sometimes they could be offered for six months and then go back on it and then it'll work for a while and sometimes they can never go back to it because it doesn't work anymore on the overeating.
 
-and as I've repeatedly said many people develop a tolerance to the satiety effect of victosa and similar medications and sometimes they could be offered for six months and then go back on it and then it'll work for a while and sometimes they can never go back to it because it doesn't work anymore on the overeating
+So what do we do instead? We've had a good bit of success with bauhinia tomentosa which is made by vadik herbs and is available from eHealthcare Solutions Inc.
 
-so what do we do instead we've had a good bit of success with bauhinia tomentosa which is made by varic novatic V-A-D-I-K herbs and is available from eHealthcare Solutions Inc.
-
-eHealthcare Solutions both suppliers can provide it and in my videos I've indicated how you use this stuff you put it in water or tea before a meal maybe a half an hour before a meal it varies with the individual and the amount you use varies with the individual and it makes you feel full
-and likely to overeat so it's a substitute for the victosa
+eHealthcare Solutions both suppliers can provide it and in my videos I've indicated how you use this stuff, you put it in water or tea before a meal maybe a half an hour before a meal, the amount you use varies with the individual and it makes you feel full, and less likely to overeat so it's a substitute for the Victoza.
 
 ### Even though I'm on a strict keto diet, 15 grams of carbs, I have high fasting blood sugar in the morning I understand this due to the dawn phenomenon what can I do to get my fasting blood sugars to normal [short: High fasting blood sugar in the morning?]
 
-well this person must be diabetic I don't recommend a high keto diet I recommend a low carbohydrate diet
-and read my book to learn how to treat diabetes you have to do a number of things and certainly eating a low carbohydrate diet is not going to help avoid the dawn phenomenon so you certainly should read the book Diabetes Solution
+Well this person must be diabetic, I don't recommend a high keto diet, I recommend a low carbohydrate diet
+and read my book to learn how to treat diabetes, you have to do a number of things and certainly eating a low carbohydrate diet is not going to help avoid the dawn phenomenon so you certainly should read the book Diabetes Solution, it goes into great detail.
 
-it goes into great detail
+### Are the antioxidants and berries worth any raise in blood sugar?
 
-let's see do we have any more questions
+Absolutely not, there's a whole question about the value of antioxidants, when you should take antioxidants and to deliberately consume antioxidants, just for the hell of consuming antioxidants without a purpose doesn't seem to make sense.
 
-### Are the antioxidants and berries worth any raise in blood sugar
+### What's more important glycemic index or glycemic load?
 
-absolutely not there's a whole question about the value of antioxidants when you should take antioxidants and to deliberately consume antioxidants just for the hell of consuming antioxidants without a purpose doesn't seem to make sense
+Well I'd say glycemic load, glycemic index is a myth it was an experiment done on non diabetics has nothing to do with diabetics
+and really has no practical application.
 
-### What's more important glycemic index or glycemic load
+Glycemic load is more important, you're probably looking at vegetables what their glycemic indices are, don't even look at that, look at the list of vegetables in my book that we recommend for diabetics.
 
-well I'd say glycemic load glycemic index is a myth it was an experiment done on non diabetics has nothing to do with diabetics
-and really has no practical application
-
-glycemic load is more important you're probably looking at vegetables at what their glycemic indices are don't even look at that look at the list of vegetables in my book that we recommend for diabetics
-
-Well I think we've finished our session I want to remind you that the next session of our teleseminars is on Wednesday June 28th please take a look at Dr. Bernstein's Diabetes University you can get it on YouTube or on Facebook
+Well I think we've finished our session, I want to remind you that the next session of our teleseminars is on Wednesday June 28th, please take a look at Dr. Bernstein's Diabetes University.
 
 We'll see you again in a month thank you
