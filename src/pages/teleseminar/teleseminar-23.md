@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/TeleseminarLayout.astro
-title: Teleseminar 23
+title:  23. Teleseminar
 source: https://www.youtube.com/watch?v=k85vrxhEWnk
 ---
 
@@ -8,6 +8,7 @@ Hi, this is Dr. Bernstein with your July 2017 Teleseminar.
 Before we begin, I want to give you my usual warning that the answers I give to your questions
 may be way off.
 The answers are intended to be educational for the group as a whole.
+
 I have not gotten a physical exam or complete medical history of each questioner, so it's
 very hard to be able to give you an answer that's pertinent to an individual situation.
 But whatever answer I give may be generally educational, and that's the purpose of this
@@ -46,6 +47,7 @@ In order to lose weight, you cut the carbohydrate.
 The fat in your diet has relatively little effect on body fat because dietary fat has
 very little effect on insulin requirements, whether you're a non-diabetic and make your
 own insulin or whether you're a type 1 diabetic who injects insulin.
+
 The amount of fat you eat has a minimal effect on how much insulin your body needs, but the
 amount of carbohydrate you eat has a tremendous effect on the amount of insulin your body
 needs, and insulin, as I said, can build fat.
@@ -62,7 +64,7 @@ at meal time, and that is the technique that I usually use.
 
 Now we'll begin with our questions.
 
-### Concern that when I weigh my protein, I'm getting inconsistent weights depending on the water and the fat in the protein.
+### Concern that when I weigh my protein, I'm getting inconsistent weights depending on the water and the fat in the protein. [short: Measure protein amount?]
 
 Well, this is potentially a problem.
 There's also a problem if you're having chicken with bones or steak with bones or whatnot.
@@ -74,32 +76,32 @@ You won't be exact, but at least you'll be approximately right, and if there are
 you remove the bones before you weigh the protein.
 That's about all I could think of.
 
-### How many minutes or hours after a U-malog injection will that injection cover any carbs?
+### How many minutes or hours after a Humalog injection will that injection cover any carbs?
 
-For most people in most situations, I don't recommend U-malog to cover dietary carbs because
-U-malog is so potent.
-One unit of U-malog will lower my blood sugar by 120 milligrams per deciliter, so there's
+For most people in most situations, I don't recommend Humalog to cover dietary carbs because
+Humalog is so potent.
+One unit of Humalog will lower my blood sugar by 120 milligrams per deciliter, so there's
 no way I can use it to get precise dosing.
 
 One who's grossly overweight, on the other hand, will be very resistant to the effects
-of U-malog and might be able to do fine-tuned dosing of carbohydrate, but there's still
+of Humalog and might be able to do fine-tuned dosing of carbohydrate, but there's still
 another problem.
 
-If you're on a low carbohydrate diet, meaning your meals are mostly protein, the U-malog
+If you're on a low carbohydrate diet, meaning your meals are mostly protein, the Humalog
 works too fast for the meal, and you'll initially go too low, and then later on, and you'll
 have to take glucose to cover the low blood sugar.
 
 Later on, you'll start going up as the protein part of the meal gets digested, and you'll
 have to, somewhere along the line, take extra insulin, so it doesn't really work.
 
-Sometimes I'll use U-malog to cover a mixed meal if I'm eating out.
+Sometimes I'll use Humalog to cover a mixed meal if I'm eating out.
 Well, I shouldn't even say that.
 That was 10 years ago.
 
-Nowadays, I never use U-malog to cover any meals, and I don't recommend that for you.
+Nowadays, I never use Humalog to cover any meals, and I don't recommend that for you.
 Use regular insulin because the timing will more likely match a low carbohydrate diet.
 
-People who eat high carb diets and take U-malog never have anything approaching normal blood
+People who eat high carb diets and take Humalog never have anything approaching normal blood
 sugars.
 If you want to survive diabetes long-term, normal blood sugars is the name of the game.
 
@@ -145,19 +147,19 @@ Some people even take rapid-acting insulin, like regular insulin, to cover that 
 sugar increase.
 So by avoiding the morning hours, you can avoid that blood sugar increase.
 
-### Any suggestions on how to switch from UMLOG to regular as I work different shifts and can't guarantee a scheduled meal break? I'm a member of emergency services. [short: Switching from UMLOG to regular on rotating shifts?]
+### Any suggestions on how to switch from Humalog to regular as I work different shifts and can't guarantee a scheduled meal break? I'm a member of emergency services. [short: Switching from Humalog to Regular on rotating shifts?]
 
-Well, as I mentioned earlier, it's very hard to cover meals with UMLOG.
+Well, as I mentioned earlier, it's very hard to cover meals with Humalog.
 This person finds out he has a break right now, so he's going to eat right now, and he
-takes UMLOG because it works faster than regular and is more likely to provide a meal break.
+takes Humalog because it works faster than regular and is more likely to provide a meal break.
 Prevent a blood sugar increase.
 
 I guess he's stuck with the problem.
-Ordinarily, you would require twice as much regular insulin as you would of UMLOG.
+Ordinarily, you would require twice as much regular insulin as you would of Humalog.
 So you might start with a trial of one and a half times as much, and if that's not enough,
 work your way up to twice as much.
 
-### My son is eight years old with type 1 diabetes. His ketones are 0.0, God. This father is measuring blood ketones. One morning he skipped breakfast and had normal blood sugars and his ketones were 4.6. At what level can ketones be dangerous for an active eight-year-old boy? [short: At what level can ketones be dangerous for a child?]
+### My son is 8 years old with type 1 diabetes. His ketones are 0.0, (God. This father is measuring blood ketones.) One morning he skipped breakfast and had normal blood sugars and his ketones were 4.6. At what level can ketones be dangerous for an active eight-year-old boy? [short: At what level can ketones be dangerous for a child?]
 
 You shouldn't be looking at ketones.
 You should be looking at blood sugars.
@@ -179,7 +181,7 @@ or 300, then you're going to have to check for ketones because he may develop ke
 Erythritol will raise blood sugar about one-tenth as much as pure glucose.
 So one packet with 3 grams would have three-tenths of a gram.
 If one gram raises you by say 6, this would raise you three-tenths of 6, so that would
-be 1.8 milligrams per deciliter.
+be 1.8 mg/dL.
 
 ### Do you still recommend 30 grams of carbo daily for someone like myself who is a type 1 with ileostomy due to ulcerative colitis and meals flow through my pouch within 4 to 6 hours? [short: 30 grams of carbo daily with an ileostomy?]
 
@@ -190,10 +192,9 @@ I would say that you read my book Diabetes
 Solution, and I don't talk about 30 grams in a day. I talk about how much at each meal,
 and I would keep the same limitation. That's all I can think of.
 
-### Would you recommend Tresiba insulin for someone who works two weeks night and two weeks daytime shift as they say it makes little difference the time of day when you take it? [short: Tresiba with two-week night and day shifts?]
+### Would you recommend Tresiba insulin for someone who works two weeks night and two weeks daytime shift as they say it makes little difference the time of day when you take it? [short: Tresiba with 2 weekly night and day shifts?]
 
-Well, that's
-not so. It makes a lot of difference, and the big problem is with the overnight dose
+Well, it makes a lot of difference, and the big problem is with the overnight dose
 where because of the dawn phenomenon, it may not last the full night or appear to last
 the full night for type 1 diabetics.
 
@@ -212,7 +213,7 @@ set an alarm to do that.
 ### Is it true that for type 2s that the GLP-1s can regenerate beta cells?
 
 This person is
-talking about GLP-1 agonists, oral medications that can regenerate beta cells. Now, this
+talking about GLP-1 agonists, oral medications that can regenerate beta cells. Now, this person
 has increased serum GLP-1 level, and there have been claims, or I should say isolated
 studies for a number of substances, oral agents that are being given to diabetics to the effect
 that they cause beta cell regeneration.
@@ -234,38 +235,38 @@ But, it required maintenance of normal blood sugars around the clock.
 
 The only time I can see any real blood sugars is when I
 think the reason for adjusting basal insulin infusion would be because of the dawn phenomenon.
-Now, you take, so you could set an infusion so that for the first, for the last three
-hours of your sleep, or two hours before you wake up, and for the first few hours after
+Now, so you could set an infusion so that for the last 3
+hours of your sleep, or 2 hours before you wake up, and for the first few hours after
 you wake up, your basal infusion is higher.
 
 That's a very nice thing. You don't have to
-get up in the middle of the night to take a second shot of placebo.
+get up in the middle of the night to take a second shot of Tresiba.
 
 But, that's offset
 with all the other disadvantages of the insulin pumps, including the incidence of the insulin
 pumps, including the incidence of ketoacidosis due to pump failure, which averages between
-one and two per person per year, plus the scar tissue that eventually forms at pump
+1 and 2 per person per year, plus the scar tissue that eventually forms at pump
 sites that gives you totally erratic blood sugars and unpredictability of how much the
 insulin is going to lower your blood sugar.
 
 So, there are pros and cons, and to me, the
 cons outweigh the pros.
 
-### In a recent study, they reported that blood glucose monitoring for non-insulin using type IIs is not useful in controlling blood sugars. Your thoughts? [short: Is blood glucose monitoring useful for non-insulin type IIs?]
+### In a recent study, they reported that blood glucose monitoring for non-insulin using type 2s is not useful in controlling blood sugars. Your thoughts? [short: Is blood glucose monitoring useful for non-insulin type 2s?]
 
 Well, if you are measuring your blood sugar and don't do anything about it, what's the
 value in doing it?
 
-Well, there was one study that supposedly showed that if type II diabetics
+Well, there was one study that supposedly showed that if type 2 diabetics
 who are overeating measured their blood sugars, they would reduce the overeating and their
 blood sugars would improve. So, that was one study. And so, maybe that's a reason for type
-IIs to measure blood sugars, just to curtail their overeating.
+2s to measure blood sugars, just to curtail their overeating.
 
 But, basically, if you're
 not going to do anything with the information, there's no sense in checking, aside from that
 one example.
 
-On the other hand, I have all of my type IIs checking blood sugars, and
+On the other hand, I have all of my type 2s checking blood sugars, and
 we use the information. They fill out blood sugar data sheets, as indicated in my book
 Diabetes Solution. They email the data sheets to me, and we figure out what is happening
 that's causing anything other than perfect blood sugars around the clock.
@@ -275,8 +276,8 @@ mean that some medication they're taking has to be changed. It might mean that t
 made a change in their diet that was inappropriate.
 
 So, we do detective work using the blood sugar
-data to figure out what to do next. Some of these type IIs are getting insulin and may
-need adjustment. Some of them, I have one type II I just spoke to today who only uses
+data to figure out what to do next. Some of these type 2s are getting insulin and may
+need adjustment. Some of them, I have one type 2, I just spoke to today who only uses
 oral agents using several different oral agents, and we have to adjust those.
 
 There's a matter
@@ -309,7 +310,7 @@ my blood sugar to zero. So don't believe this propaganda.
 ### When do you do a correction shot of insulin if your blood sugars are too high? At what level would you take a correction dose? And do you use any formula to adjust for onboard insulin? [short: When to give a correction shot, and what formula?]
 
 Well, all of this is
-covered in my book, Diabetes Solution. Those who get under 5 do not add corrections onto
+covered in my book, Diabetes Solution. Those who get an A1c under 5 do not add corrections onto
 corrections. They allow the prior doses of insulin to work before they make another correction.
 
 It's playing it safe and it prevents the wild blood sugar swings that you're going to get
@@ -320,7 +321,7 @@ now for, I guess, about 15 or 20 years, but she came to me with high A1Cs and fr
 severe hypoglycemia, and she was making corrections every few hours. That was the first thing
 that we stopped, and right away things started settling down.
 
-### Does the cost of... No. Does the cost of insulin... Do you recommend using human insulins such as Humulin R and N? [short: Do you recommend using human insulins such as Humulin R and N?]
+### Do you recommend using human insulins such as Humulin R and N? 
 
 Well,
 if you use N, you're going to have to take it more often, possibly using more syringes,
@@ -328,7 +329,7 @@ and you're going to have to take it more often.
 
 I'm not sure if I'm going to use that.
 You're going to have a much tougher time getting level blood sugars. The average adult would
-have to take the N three to four times a day. R, I certainly recommend.
+have to take the N 3 to 4 times a day. R, I certainly recommend.
 
 I personally do
 not use Novalog or Humalog. I use regular for rapid-acting insulin for reasons that
@@ -338,7 +339,9 @@ requirements.
 Also, I advise not using insulin pumps because the scar tissue that they create,
 I've seen pump users cut their dose down to one-tenth of what it previously was just
 because they were wasting insulin by injecting it into scar tissue. So, don't use pumps,
-and follow a low carbohydrate diet. Read my book, Diabetes Solution, which helps keep
+and follow a low carbohydrate diet. 
+
+Read my book, Diabetes Solution, which helps keep
 insulin doses low, because the whole book is based upon the laws of small number of
 which means low carb, low insulin, small changes in blood sugars.
 
