@@ -345,7 +345,7 @@ Read my book, Diabetes Solution, which helps keep
 insulin doses low, because the whole book is based upon the laws of small number of
 which means low carb, low insulin, small changes in blood sugars.
 
-### What is the longest time you have seen for the honeymoon period by keeping blood sugars in the normal range of 83 to 85 milligrams per deciliter? [short: Longest honeymoon period with normal blood sugars?]
+### What is the longest time you have seen for the honeymoon period by keeping blood sugars in the normal range of 83 to 85 mg/dL? [short: Longest honeymoon period with normal blood sugars?]
 
 Well, first of all, I don't think I've had anyone always
 between 83 and 85, but they're pretty close to that. And I can think of one person who's
@@ -357,15 +357,10 @@ who are no longer patients. They're taking care of themselves. They don't need m
 live far away from me, and they're maintaining their own blood sugars on lower doses of
 insulin than they would need if there were full type 1s.
 
-So, I'm trying to think if there
-are others. Yes, there are several others who are no longer patients. They're taking
-care of themselves. They're maintaining their own blood sugars on lower doses of insulin
-than they would need if there were full type 1s.
-
 ### What do you recommend for fasting holidays like Yom Kippur or Ramadan for a type 1 or type 2 on insulin?
 
 Well, again, this is covered
-in my book, Diabetes Solution. And if you're taking basil and plus meal insulin, you continue
+in my book, Diabetes Solution. And if you're taking basal and bolus meal insulin, you continue
 the basil and skip the meal insulin while you're fasting. Plain and simple.
 
 ### In counting carbs, does it make a difference if there are simple carbs or complex carbs?
@@ -381,10 +376,10 @@ total amount is very limited at each meal. For adults, it would be 6 grams for b
 of that amount. And the carbs are strictly limited to vegetables, not to entertainment
 carbohydrates like most type 2s are used to or like the endocrinologist advocates.
 
-### There's been much talk about type 1s using an HGL2 inhibitor with some great results, especially in reducing the amount of insulin needed.
+### There's been much talk about type 1s using an SGLT2 inhibitor with some great results, especially in reducing the amount of insulin needed.
 
 I have one patient who's a type 1 who is an
-overeater, and he finds that he gets better blood sugars when he uses an HGL2 inhibitor.
+overeater, and he finds that he gets better blood sugars when he uses an SGLT2 inhibitor.
 This is the class of drugs that lower the renal threshold for glucose, so that instead
 of peeing away a lot of blood sugar, when your blood sugar is over 165, you might be
 peeing away when you're over 125.
@@ -393,7 +388,7 @@ Very effective, but it's very effective.
 Very effective, but not as predictable as insulin, and there are a number of potential
 adverse effects. High incidence of urinary tract infection, higher incidence of kidney
 stones, higher incidence of kidney damage, high incidence of dehydration, sodium depletion,
-chloride depletion, elevated hematocrit, and high incidence of kidney damage.
+chloride depletion, elevated hematocrit, and possible potassium excess in blood.
 
 They require the doctor, that is this agent required, this class of agents, requires the
 doctor to do a lot of testing to keep the patient safe. So it means probably every month,
