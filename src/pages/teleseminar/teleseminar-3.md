@@ -289,7 +289,7 @@ bad sicknesses and it would be a very unpleasant situation for the both of you w
 married or not but if he follows the guidelines in the book your life can be close to that of an
 undiabetic.
 
-And again visit the facebook page for type 1 grit to see what can be accomplished
+And again visit the facebook page for Typeoengrit to see what can be accomplished
 or visit it on your search engine on google etc do you recommend 30 grams of carb per day
 for a three-year-old absolutely not I recommend much less I recommend that it be stepped down
 in proportion to the body weight if 30 grams per day
@@ -544,7 +544,7 @@ but I gave you several options
 ### Do you think using an iPad or smartphone diabetes app will help with diabetes control and help prevent diabetes complications [short: Diabetes apps]
 
 Well an app is not going to normalize your blood sugars it would have to be the length of my book
-and the book is out there already and it tells you what to do step by step and it's and here we if you go to this type one grit facebook page you'll see thousands of people who have used the
+and the book is out there already and it tells you what to do step by step and it's and here we if you go to this Typeoengrit facebook page you'll see thousands of people who have used the
 book who are people who are into electronic devices and big on apps but it's the book that's changed
 their lives
 

@@ -376,7 +376,7 @@ How do I approach this? Going low carb has kept him out of the 200s. But he is s
 occasionally getting up to the 170s.*
 
 I would urge you to read my book Diabetes Solution.
-You might also go to the type one grit Facebook site. You could also get them on YouTube I believe.
+You might also go to the Typeoengrit Facebook site. You could also get them on YouTube I believe.
 If you're giving NPH insulin you may be giving too high a dose causing him to go low. And then NPH is
 only an intermediate acting insulin. It doesn't last very long. Maybe it lasts six or eight hours.
 So for small kids and you could read this in my book we may give diluted NPH insulin

@@ -443,7 +443,9 @@ wrong. Someone might come up with something magical.
 Well, first of all, although I would advocate a
 true paleo diet, that is a meal plan that mimicked what our ancient prehistoric ancestors
 ate, the paleo diets that are being marketed today are high in carbohydrates. They're high
-in fruit. You got your A1c down to 6, which is still an average blood sugar of 140, which
+in fruit.
+
+You got your A1c down to 6, which is still an average blood sugar of 140, which
 is almost double normal. I doubt that you're going to do much better on a regular paleo
 diet. I suggest that you read my book, Diabetes Solution.
 
@@ -453,8 +455,7 @@ to measure your C-peptide level. If it's anything other than zero, you're making
 one can say that you're still in the honeymoon period. Now, what might the C-peptide level
 be? I don't know.
 
-A true type 1 will have a C-peptide level. A full type 1 will have
-a C-peptide level of zero. The best time to test it is after a big meal because that will
+A full type 1 will have a C-peptide level of zero. The best time to test it is after a big meal because that will
 stimulate your beta cells to make more insulin. Whereas, if you have the blood drawn when
 you have a blood sugar of 80, you might not be making any insulin even if you're non-diabetic.
 So the time to test it is after a meal, not fasting, which is the routine. That's basically
@@ -488,8 +489,7 @@ you want to keep it down.
 
 Well, I can only speculate. You might have had a mutation in your genes.
 You want to learn more about mutations. You've watched the X-Men. You might have had a mutation
-in your genes. You want to learn more about mutations. You've watched the X-Men. You might
-have had a viral exposure. People can develop autoimmune diabetes after being exposed to
+in your genes. You might have had a viral exposure. People can develop autoimmune diabetes after being exposed to
 certain viruses. If you're Canadian and watch too much of Terrence and Philip, that might
 cause LADA. That's about all I could think of.
 
@@ -514,14 +514,14 @@ you guess wrong, you could kill yourself. One unit of regular insulin could kill
 Lowers me by 60. One lower unit of Humalog would lower me 120, so I could kill myself
 if I guessed wrong and injected another unit.
 
-### Type 1 diabetes I use for SIBA insulin. Every morning I wake with blood sugars higher than 180 milligrams per deciliter. No matter how much I increase my basal, I have no reason to believe this is my dinner emptying, but firmly believe it is the dawn phenomenon. What do I do? [short: Waking with blood sugars higher than 180?]
+### Type 1 diabetes I use SIBA insulin. Every morning I wake with blood sugars higher than 180 milligrams per deciliter. No matter how much I increase my basal, I have no reason to believe this is my dinner emptying, but firmly believe it is the dawn phenomenon. What do I do? [short: Waking with blood sugars higher than 180?]
 
 You should read my book, Diabetes
 Solution, watch my videos, listen to some of the older teleseminars. You have to take
-Tresiba at bedtime, and then again about six hours later.
+Tresiba at bedtime, and then again about 6 hours later.
 
 Or you can read my book,
-or about three or four hours before you get up in the morning, if you're getting up eight
+or about 3 or 4 hours before you get up in the morning, if you're getting up eight
 hours later. Also, if you're using a pen, you have to beware of the problems associated
 with pen use, where you can lose a lot of the shot. We've explained how to give proper
 pen injections in the past.
@@ -537,34 +537,33 @@ fat arms. For most people, the abdomen and the sides are the only places. Again,
 can't even put it on your abdomen if you're going to sleep on your belly like I do. It's
 pretty hard. I really know of no way that you could avoid the scar tissue.
 
-### I'm a type 2 diabetic. What should be the glucose levels which would define hyperosmolar hyperglycemic state? Would they need to remain consistently above 540 milligrams per deciliter or just spike above that value while still staying below 300 milligrams per deciliter? [short: Glucose levels defining a hyperosmolar hyperglycemic state?]
+### I'm a type 2 diabetic. What should be the glucose levels which would define hyperosmolar hyperglycemic state? Would they need to remain consistently above 540 mg/dL or just spike above that value while still staying below 300 mg/dL? [short: Glucose levels defining a hyperosmolar hyperglycemic state?]
 
 Well, I suggest you read my book, Diabetes Solution. If your blood sugars are running
 this high, you really should read the book. You probably should be on insulin. You certainly
-should be on a very low-risk protein, low-risk protein. If your blood sugars are running
-low carbohydrate diet, this question shouldn't even arise.
+should be on a very low carbohydrate diet, this question shouldn't even arise.
 
 It turns out that in reality a brief spike is not going to put you in a hyperized molar
-coma which is for the most part a severely dehydrated state which means that you have
+coma, which is for the most part a severely dehydrated state which means that you have
 to be peeing glucose away for a long time in order to get dehydrated enough to have
-this condition and if you are above 360 for a prolonged period that could probably cause
+this condition and if you are above 360 mg/dL for a prolonged period that could probably cause
 a hyperized molar coma too because you are going to get very dehydrated.
 
 ### One gram of glucose tablet exists, use sweet tarts, movie candy.
 
 That is true, I do understand however that they also contain maltodextrin, I don't know
 how much, if it's a minuscule amount like a tenth of a gram it's not going to be of
-any harm but if it's another half a gram then it will later on raise your blood sugar some
+any harm, but if it's another half a gram then it will later on raise your blood sugar some
 more.
 
 We are trying to find out how much maltodextrin is in them thus far, I have not been able
 to find out.
 
-### Back to using a thousand milligram metformin in the morning and also at night, last day once it was 5.9%, fasting blood sugar is 90 to 95 milligrams per deciliter, should I take the 2000 milligrams at bedtime, [short: Should I take 2000 milligrams of metformin at bedtime?]
+### Back to using a thousand milligram metformin in the morning and also at night, last day once it was 5.9%, fasting blood sugar is 90 to 95 mg/dL, should I take the 2000 milligrams at bedtime, [short: Should I take 2000 milligrams of metformin at bedtime?]
 
-first of all read my book Diabetes Solution and what it
+First of all read my book Diabetes Solution and what it
 will tell you first of all is to follow a low carbohydrate diet which has more of an
-effect than the metformin
+effect than the metformin,
 
 and two, it will tell you to switch to Glucophage which is
 typically twice as potent as the generic metformin.
@@ -578,7 +577,7 @@ If you don't do that, you are making it hopeless.
 Now if he is a picky eater, there are several sources of low carb recipes that are delicious,
 gourmet meals for little kids.
 
-You could look at type 1 grit on the internet where the members of that group are creating
+You could look at Typeoengrit on the internet where the members of that group are creating
 and publishing on the internet gourmet recipes for type 1 diabetics.
 
 You could read my book Diabetes Solution which has I think 100 recipes.
@@ -609,10 +608,10 @@ It's glucose that causes kidney damage and diabetes.
 Well, there is a whole protocol for this in my book Diabetes Solution.
 If you are a type 1, it's very simple.
 
-For a type 1 who weighs about 150 pounds, one gram of glucose will raise you by 6 milligrams
-per deciliter and then you have to adjust it if your body weight is other than 150.
-If it's 300, one gram would raise you 3 milligrams per deciliter.
-If it's 75, one gram would raise you 12 milligrams per deciliter.
+For a type 1 who weighs about 150 pounds (68 kg), one gram of glucose will raise you by 6 mg/dL
+and then you have to adjust it if your body weight is other than 150 (68 kg).
+If it's 300 (136 kg), one gram would raise you 3 mg/dL.
+If it's 75 (34 kg), one gram would raise you 12 mg/dL.
 
 If you are a type 2 and making some insulin, all bets are off.
 You have to do it by trial and error because whenever your blood sugar is elevated, you're
@@ -626,8 +625,9 @@ Then you take let's say 5 grams of glucose and you watch your blood sugar for th
 let's say 3 or 4 hours and see how much it goes up.
 You might be able to find out in 2 hours.
 Certainly if you don't have glastroparesis.
+
 Then this protocol is mentioned in my book.
 
-Next Teleseminar will be on Wednesday, August 26th.
-I look forward to meeting with you then.
+Next Teleseminar will be on Wednesday, August 26th.  
+I look forward to meeting with you then.  
 Have a good month.

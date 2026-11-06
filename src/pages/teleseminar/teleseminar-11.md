@@ -507,7 +507,7 @@ that you could eat whatever you want, guess at the amount of carbohydrate, ignor
 of protein and fat and bulk, and set a dose and your blood sugar will be normal. And what you see
 is blood sugar is like this. 
 
-And if you go to a Type 1 Grit website, you'll see the before
+And if you go to a Typeoengrit website, you'll see the before
 displays that occur when people are using insulin pumps
 and not having consistent meals, having high carbohydrate, etc.
 They just don't work. On top of that, they cause the formation of scar tissue
