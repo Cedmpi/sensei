@@ -602,8 +602,15 @@ You might want to read my book, Diabetes Solution.
 
 ### I've ordered some 100% sucralose with none of the added sugars that the stuff in the store shelves has in it. It claims you can cook with it and it tastes like sugar. Do you know if it elevates blood sugar? [short: Does 100% sucralose raise blood sugar?]
 
-If
-it really is zero percent sugar, that would be true but you have to read the label very
+I've actually had the
+sucralose tablets and the sucralose tablets did not elevate my blood sugars and according
+to the literature they're not supposed to, now if this person has had sucralose powder
+there is the hazard that it might be mixed with other sugars, certainly if it's in the
+packets there's a high likelihood and as I warn in my book powdered sweeteners in packets
+or powdered sweeteners in general other than stevia usually have added sugars as a bulking
+agent.
+
+If it really is zero percent sugar, that would be true but you have to read the label very
 carefully for the constituents because if there is an added sugar and it's less than
 one gram per serving and usually a serving size is 3 grams, the law allows you to
 say zero even though that's a lie and it's really significantly higher.
