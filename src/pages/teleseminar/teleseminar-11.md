@@ -482,17 +482,17 @@ I'm wondering whether a truly long-lasting version has come to market.
 
 I've spoken about Ultralente, which was taken off the market inappropriately.
 We do have a new insulin. I've mentioned it repeatedly on my teleseminar and also in my
-videos, and it's called Trisiba. 
+videos, and it's called Tresiba. 
 
-Trisiba must still be taken twice a day. I might point out that
+Tresiba must still be taken twice a day. I might point out that
 most doctors are not prescribing long-acting insulins twice a day for type 1s,
 but they should be because they don't last 24 hours unless they're given in
 super doses that are not what are called basal doses, unless they're given in doses that
 cover meals also, and this just doesn't work. 
 
-So you have to take Trisiba twice a day,
+So you have to take Tresiba twice a day,
 but it lasts overnight much better than Levomyr or Lantus. And I recommend it very highly,
-and virtually all of my type 1s are now using Trisiba.
+and virtually all of my type 1s are now using Tresiba.
 
 ### Your thoughts regarding the Omnipod with the Dexcom CGMS.
 This is an attempt at achieving closed-loop blood sugar control

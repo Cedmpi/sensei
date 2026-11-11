@@ -269,13 +269,13 @@ wrong can do more harm than what you don't know.
 There are too many people who are getting their education from the Internet rather than
 from valid scientific sources.
 
-### Can a type 1 diabetic female of 44 years achieve normal blood sugars using Trisiba Flex Touch pen versus the insulin pump? I've been using the pump, but I'm still not happy with it. [short: Not happy with insulin pump]
+### Can a type 1 diabetic female of 44 years achieve normal blood sugars using Tresiba Flex Touch pen versus the insulin pump? I've been using the pump, but I'm still not happy with it. [short: Not happy with insulin pump]
 
 Again, read my book, Diabetes Solution.
 
-Even if you use Trisiba insulin for basal insulin, you're still going to need bolus shots before your meal.
+Even if you use Tresiba insulin for basal insulin, you're still going to need bolus shots before your meal.
 
-What we recommend is using regular insulin before meals and the Trisiba twice a day to
+What we recommend is using regular insulin before meals and the Tresiba twice a day to
 serve as bolus, as basal insulin, but read the book.
 
 You don't want to just switch over without knowing how to do it.
