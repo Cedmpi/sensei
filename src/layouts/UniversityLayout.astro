@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import DocumentNav from "../components/DocumentNav.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 
-const { title, source, toc } = Astro.props;
+const { title, source, toc } = Astro.props.frontmatter;
 
 const allSessions = Object.entries(
   import.meta.glob("../pages/university/*.md", { eager: true }),
