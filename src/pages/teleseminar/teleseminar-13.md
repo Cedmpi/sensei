@@ -65,9 +65,9 @@ And step two might be weight loss, it might be physical exercise, strenuous exer
 
 ### Trying to reduce postprandial glucose levels of an 11-year-old daughter. She goes from 90 to 220 mg/dL from one slice of toast. On insulin pump. [short: Postprandial glucose levels to hight on pump]
 
-Well, 15 would be you have to multiply by 18. It's close to 300 milligrams per deciliter. Okay, read my book Diabetes Solution. You're doing everything wrong. Insulin pumps don't give predictable results. There's just no way with giving her a toast.
+Well, 15 would be you have to multiply by 18. It's close to 300 mg/dL. Okay, read my book Diabetes Solution. You're doing everything wrong. Insulin pumps don't give predictable results. There's just no way with giving her a toast.
 
-I would never give a diabetic toast. I haven't had a piece of bread since around 1970. So read the book Diabetes Solution. You're in the same ballgame that Dave Dikeman Jr. was in. You might look to his website. Go on Google to Typeonegrit. And you'll see the before and after.
+I would never give a diabetic toast. I haven't had a piece of bread since around 1970. So read the book Diabetes Solution. You're in the same ballgame that Dave Dikeman Jr. was in. You might look to his website. Go on Google to TypeOneGrit. And you'll see the before and after.
 
 He was doing just what you're doing insulin pump toast and all that, and was totally out of control. And then they read my book and everything changed.
 
@@ -215,9 +215,9 @@ Now in my book, we tell you how to do this for the first meal but then you're go
 
 And eventually you get it just right and you repeat that dose for that meal thereafter until you get tired of that meal. So this person doesn't comprehend the whole approach.
 
-Now the other question is NovoRapid. I don't recall whether NovoRapid is the same as NovoLog in the USA and NovoLog is too potent for most people. One unit of NovoLog will lower my blood sugar by 90 milligrams per deciliter.
+Now the other question is NovoRapid. I don't recall whether NovoRapid is the same as NovoLog in the USA and NovoLog is too potent for most people. One unit of NovoLog will lower my blood sugar by 90 mg/dL.
 
-So it's hard to get a precise dose whereas one unit of Novolin-R which is regular insulin will lower me by 60 milligrams per deciliter which is still hard to manage. And in theory, I should be using diluted regular insulin for precise tuning.
+So it's hard to get a precise dose whereas one unit of Novolin-R which is regular insulin will lower me by 60 mg/dL which is still hard to manage. And in theory, I should be using diluted regular insulin for precise tuning.
 
 So if NovoRapid is the same as NovoLog, it's too potent for low carbohydrate meals. Also, if you have gastroparesis, it works too fast. So there are lots of potential problems.
 
@@ -249,7 +249,7 @@ Number two, be very leery of anyone who's trying to sell things. Well, you could
 
 Be wary of that. That is a high index of suspicion. If they tell you something that's too good to be true, don't believe it. There's no magic out there yet.
 
-As far as diabetes goes, it's a lot of hard work and sacrifice. And you have to be very determined to do the kind of things that I do or that the people on Typeonegrit do. We get results, but it takes an effort. And to think you're going to get magic, it's not going to work.
+As far as diabetes goes, it's a lot of hard work and sacrifice. And you have to be very determined to do the kind of things that I do or that the people on TypeOneGrit do. We get results, but it takes an effort. And to think you're going to get magic, it's not going to work.
 
 Now, will fasting lower insulin resistance? I doubt it very much. I've had some patients who fasted and one of them's wife was into this and convinced him to fast. And he found that when he fasted for a week at a time, his craving for carbohydrates diminished. But then it came back after a few weeks. So be wary. But again, it's not going to kill you.
 

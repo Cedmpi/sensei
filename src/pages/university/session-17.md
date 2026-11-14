@@ -59,7 +59,7 @@ it had to do with what I had eaten.
 So I rapidly found out how I could get in those days glucose tablets and the first tablets
 I was able to get actually came from Canada and the United Kingdom.
 They were called dextrozole tablets and each tablet would raise my blood sugar I believe
-15 milligrams per deciliter and of course I over time switched over to liquid glucose
+15 mg/dL and of course I over time switched over to liquid glucose
 which I advocate for anybody who's in a hurry.
 One teaspoon of this will raise my blood sugar by seven and I will use a shot glass calibrated
 teaspoons for precise adjustment of my blood sugar so I don't get any more rebounds.

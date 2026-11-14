@@ -466,7 +466,7 @@ sugar? Sometimes I run up to 140 and sometimes drop to 60.*
 
 Well, ideally, you should have
 a level blood sugar. For most diabetics, even type 1s, it's possible to do this. If you look
-at the website Type One Grit, you'll see the continuous glucose
+at the website TypeOneGrit, you'll see the continuous glucose
 tracings of people who have read my book, and you can see that it is possible.
 
 But

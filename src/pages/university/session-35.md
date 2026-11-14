@@ -14,7 +14,7 @@ blood sugars that are inaccurate when it comes to interpreting the A1c.
 
 For example,
 I know that a hemoglobin A1c of 5 corresponds to an average blood sugar of about 100 milligrams
-per deciliter and 6 corresponds to about 140 milligrams per deciliter.
+per deciliter and 6 corresponds to about 140 mg/dL.
 
 But the ADA has
 published a pyramid showing different numbers and as the blood sugars get higher and lower they show

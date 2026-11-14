@@ -54,7 +54,7 @@ Bose and Church, yellow peppers had less carbohydrate than peppers of other colo
 
 ### Four year old with diabetes and celiac disease
 *My four year old was diagnosed three weeks ago with type one diabetes and celiac disease 12 months ago. I've put her on a low carb diet and have been
-keeping her in a range between 50 and 108 milligrams per deciliter. They want to let me
+keeping her in a range between 50 and 108 mg/dL. They want to let me
 give her Levemir and am I doing any danger by not giving her Levemir and just staying on the
 diet?*
 

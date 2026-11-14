@@ -133,7 +133,7 @@ And my book was published in Norwegian and it could be that the Norwegian publis
 out the chapter where we have 13 stories from 13 patients telling how they escaped the roller coaster.
 
 So yes, it is in the book, but there's another more direct source. If you go to
-Google or Facebook and type in the words type one grit, G-R-I-T, you will get a site with testimonials
+Google or Facebook and type in the words TypeOneGrit, you will get a site with testimonials
 and visual documentation from many type one diabetics, hundreds, maybe even thousands
 of type one diabetics who have followed the regimen of my book, Diabetes Solution, and are
 now publishing the computer display from their continuous glucose monitors that are constantly
@@ -144,7 +144,7 @@ virtual straight line horizontal line printouts, usually well within the normal 
 testimonials and you can get it for yourself.
 
 So again, Google or Facebook or probably any
-search engine you choose, type one O-N-E grit, G-R-I-T. Okay.
+search engine you choose, TypeOneGrit. Okay.
 
 
 ### My 14 year old son was diagnosed September 2014 with type one diabetes. [short: Teen weight gain]

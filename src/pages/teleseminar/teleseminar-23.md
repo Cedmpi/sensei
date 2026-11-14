@@ -80,7 +80,7 @@ That's about all I could think of.
 
 For most people in most situations, I don't recommend Humalog to cover dietary carbs because
 Humalog is so potent.
-One unit of Humalog will lower my blood sugar by 120 milligrams per deciliter, so there's
+One unit of Humalog will lower my blood sugar by 120 mg/dL, so there's
 no way I can use it to get precise dosing.
 
 One who's grossly overweight, on the other hand, will be very resistant to the effects
@@ -514,7 +514,7 @@ you guess wrong, you could kill yourself. One unit of regular insulin could kill
 Lowers me by 60. One lower unit of Humalog would lower me 120, so I could kill myself
 if I guessed wrong and injected another unit.
 
-### Type 1 diabetes I use SIBA insulin. Every morning I wake with blood sugars higher than 180 milligrams per deciliter. No matter how much I increase my basal, I have no reason to believe this is my dinner emptying, but firmly believe it is the dawn phenomenon. What do I do? [short: Waking with blood sugars higher than 180?]
+### Type 1 diabetes I use SIBA insulin. Every morning I wake with blood sugars higher than 180 mg/dL. No matter how much I increase my basal, I have no reason to believe this is my dinner emptying, but firmly believe it is the dawn phenomenon. What do I do? [short: Waking with blood sugars higher than 180?]
 
 You should read my book, Diabetes
 Solution, watch my videos, listen to some of the older teleseminars. You have to take

@@ -445,7 +445,7 @@ the refrigerator for those 10 or 12 days. But room temperature would be up to ab
 Well, we really focus
 incretin mimetics on certain times of the day in order to control overeating. I don't use them to lower
 blood sugar because their effects directly upon blood sugar are trivial, like published results lower
-A1C 0.3%, which is something like 12 milligrams per deciliter on average blood sugar. So it depends on the
+A1C 0.3%, which is something like 12 mg/dL on average blood sugar. So it depends on the
 time of the day that you're overeating. 
 
 That's why we may use Victoza, we may use Byetta, and we may use

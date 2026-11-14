@@ -299,7 +299,7 @@ have a gym at home and that's more convenient during the week.
 
 Wow
 well an A1c of 8% is pretty darn high there's no excuse for having that high an a1c I have to think
-for a minute to calculate the average blood sugar it would be about 220 milligrams per deciliter.
+for a minute to calculate the average blood sugar it would be about 220 mg/dL.
 
 And the trick it is certainly Farxiga is an sgl2 inhibitor it lowers the renal threshold for glucose
 forcing you to peel away glucose at a relatively low blood sugar compared to usual so if you usually

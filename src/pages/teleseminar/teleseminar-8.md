@@ -117,7 +117,7 @@ Is this the safest, best insulin I could be using, that is Humalog?*
 Now I've seen many patients who claim they were well controlled and have blood sugars
 in the range that the American Diabetes Association likes, which as you know is very high.
 They say that normal is 6.5 or 7, 6.5 is an average, that's on the A1c, 6.5 is an average
-of 160 milligrams per deciliter, 7 is an average of 180 and that's called well controlled.
+of 160 mg/dL, 7 is an average of 180 and that's called well controlled.
 So I don't know if this patient is well controlled.
 
 I've never seen a person using an insulin pump who is well controlled, at least if they've

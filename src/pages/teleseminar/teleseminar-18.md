@@ -119,7 +119,7 @@ So this very mildly elevated blood sugar for could be tens of years has caused d
 So we can't say a fixed A1C for a certain period of time.
 We can say that the product of blood sugar and time adds up, and that's basically it.
 
-### Can there be a thyroid-diabetes connection if my average fasting blood sugars are 117 milligrams per deciliter? [short: Thyroid-diabetes connection?]
+### Can there be a thyroid-diabetes connection if my average fasting blood sugars are 117 mg/dL? [short: Thyroid-diabetes connection?]
 
 The thyroid disease that we see with diabetics is principally caused by inheritance, just
 as the diabetes is.
@@ -304,7 +304,7 @@ your child's going to come home from school, may be sick, et cetera, et cetera.
 Of course, your child should take it if he's going to school and there are sick kids in
 his class.
 
-### Type 1 son, eight years old, randomly tested ketones. One morning he didn't eat and ketones were so and so. BG was about 78 milligrams per deciliter. Should adjustments be made? [short: Should an eight-year-old with type 1 and fasting ketones adjust treatment?]
+### Type 1 son, eight years old, randomly tested ketones. One morning he didn't eat and ketones were so and so. BG was about 78 mg/dL. Should adjustments be made? [short: Should an eight-year-old with type 1 and fasting ketones adjust treatment?]
 
 Question is, why on earth is this person testing for ketones?  
 
@@ -412,7 +412,7 @@ Probably not.
 Truvia is a sweetener that contains a mixture of stevia and erythritol and except in very
 large quantities, neither of these should have a significant effect upon blood sugar.
 
-### New type 2, lost 12 kilograms of weight, struggling to maintain a low-carb diet, taking a thousand milligrams metformin twice a day. Blood sugars go up after meals as high as 150 milligrams per deciliter. Cannot exercise due to long hours at desk job and osteoarthritis. [short: What should a new type 2 with osteoarthritis do about high post-meal blood sugars and insulin?]
+### New type 2, lost 12 kilograms of weight, struggling to maintain a low-carb diet, taking a thousand milligrams metformin twice a day. Blood sugars go up after meals as high as 150 mg/dL. Cannot exercise due to long hours at desk job and osteoarthritis. [short: What should a new type 2 with osteoarthritis do about high post-meal blood sugars and insulin?]
 
 Well, before I even get to the question, I'm going to suggest that most people with arthritis
 have it in certain joints but not in others.

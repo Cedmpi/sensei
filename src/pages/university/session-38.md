@@ -32,7 +32,7 @@ saying that to do his study he had to decide where to clamp the blood sugars of 
 
 So he spoke to the top diabetologists in Boston where he was stationed and asked them where do
 you like your diabetics to have their blood sugars and all the doctors replied that they
-like to keep their diabetic blood sugars at 250 milligrams per deciliter so Brenner clamped his
+like to keep their diabetic blood sugars at 250 mg/dL so Brenner clamped his
 rats at 250. He then asked the audience would you agree with this as an appropriate blood sugar for
 diabetics?
 

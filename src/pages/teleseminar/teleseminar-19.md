@@ -120,7 +120,7 @@ but a disease that causes many physical problems that can be painful and agonizi
 respects. And the only way out of it is to have normal blood sugars.
 
 Now, if you visit
-on the internet Typeonegrit, you'll probably come across some articles that show
+on the internet TypeOneGrit, you'll probably come across some articles that show
 the damage to the brains of children who have been exposed to high blood sugars and also
 damage the brains of adults who are chronically exposed to high blood sugars.
 
@@ -129,7 +129,7 @@ sugars, but even the brain is seriously damaged by elevated blood sugars. And th
 kids who have had high blood sugars for many years are smaller, their IQs
 go down, and a number of problems occur in the brain.
 
-And this information may be documented on type 1 GRIT. I may have had some of these articles
+And this information may be documented on TypeOneGrit. I may have had some of these articles
 presented on some of my Diabetes University videos, but I'm not sure.
 
 ### Are the antioxidants in berries worth any raise in blood sugar? 
@@ -160,7 +160,7 @@ non-diabetics are not going to show much of a blood sugar increase.
 
 Yet with a very small amount of the foods that they're testing, I will show a huge blood sugar
 increase because I'm diabetic. So where peanuts supposedly have a very low glycemic index of 15%,
-a bag of peanuts will raise my blood sugar by something like 200 milligrams per deciliter,
+a bag of peanuts will raise my blood sugar by something like 200 mg/dL,
 which is a huge amount even though they say it has a low glycemic index.
 
 So it's a meaningless
@@ -312,7 +312,7 @@ Diabetes Solution or he or she would realize that for type 1s, any food will rai
 you have to cover them with insulin.
 
 One ounce of cheese can increase my blood sugar by 20
-milligrams per deciliter. That's probably about right. In fact, that's about what 1 ounce (~28 g) raises
+mg/dL. That's probably about right. In fact, that's about what 1 ounce (~28 g) raises
 mine. 
 
 *What causes this? Is this possibly a casein reaction or allergy? I don't experience gastric
@@ -593,7 +593,7 @@ and the neuropathies do reverse with absolutely normal blood sugars, but it take
 
 ###  Always feeling weak with low energy and sexual desire
 
-A1c of 6.5%, (that's an average of 160 milligrams per deciliter),
+A1c of 6.5%, (that's an average of 160 mg/dL),
 but always feeling weak with low energy and sexual desire. My thyroid results, patient
 tells his thyroid results, and nowhere is there an appropriate thyroid test done.
 

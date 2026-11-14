@@ -22,13 +22,13 @@ Well, I weigh about 112 pound (51 kg).
 One unit of Levemir insulin, which is what I use, actually I used Tresiba, but I was
 using Levemir until recently.
 
-One unit of Levemir would lower my blood sugar about 60 milligrams per deciliter, spread
+One unit of Levemir would lower my blood sugar about 60 mg/dL, spread
 over the course of a day or so.
 But if I wanted to change the effect over the course of actually 18 hours to 10 milligrams
 per deciliter, I couldn't do it unless the insulin were diluted.
 
 For kids, let's say a kid weighs a quarter as much as I do, one unit of insulin would
-lower her blood sugar 240 milligrams per deciliter.
+lower her blood sugar 240 mg/dL.
 So the effect of insulin on small people is horrendous, and insulin is not supplied mildly
 or weakly enough to be able to get fine tuning of doses for small people.
 
@@ -653,9 +653,9 @@ The next teleseminar will be in July, let's see, Wednesday, July 26, 2017.
 So have a good night, or a good day, depending upon where you are in the world, and thanks
 for listening, we'll see you again soon.
 
-### Special broadcast: A thank you to Type One Grit
+### Special broadcast: A thank you to TypeOneGrit
 
-Hi, this is Dr. Bernstein with a special broadcast just to thank the people from Type One Grit
+Hi, this is Dr. Bernstein with a special broadcast just to thank the people from TypeOneGrit
 for the birthday present that they sent me.
 
 For my 83rd birthday, they sent me a video thanking me for my books and for the help

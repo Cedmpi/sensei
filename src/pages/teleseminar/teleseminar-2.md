@@ -502,7 +502,7 @@ the one who figures out what the problem is.
 
 ### My 16-year-old daughter plays varsity sports.
 *She becomes shaky and nauseous in the middle of lacrosse games.
-I checked her blood sugar was 180 milligrams per deciliter.
+I checked her blood sugar was 180 mg/dL.
 Fasting glucose is 83.
 Is this a beginning sign of diabetes?*
 
@@ -521,7 +521,7 @@ normal range with the contour next.
 I wouldn't use any other meters.
 
 We've seen meters that give you two successive readings from the same finger stick that are
-100 milligrams per deciliter apart.
+100 mg/dL apart.
 So there are a lot of worthless meters out there.
 Now, so if she's really going up, chances are she is diabetic.
 You could check her hemoglobin A1C as a cross check.

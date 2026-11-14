@@ -132,14 +132,14 @@ lows because I do not have a regular work schedule.
 Some days I'm more active than other days.
 What is the best way to manage this?
 And are there any long-term effects of frequent or prolonged periods of low blood sugar?
-And by low blood sugar, he means 70 milligrams per deciliter or less.
+And by low blood sugar, he means 70 mg/dL or less.
 Well first of all, I don't know whether he's taking insulin or not, but the first thing
 that I thought of to help this person relates to what I do in the gymnasium.
 When I go to the gym, I usually am taking my regular daily basal dose of insulin plus
 a rapid acting insulin before meals.
 And I get frequent lows after exercising.
 So by that I mean after every exercise, I'll drop by something.
-I might drop by two milligrams per deciliter from one exercise and as much as 20 for the
+I might drop by two mg/dL from one exercise and as much as 20 for the
 opposite extreme of exercise.
 So I have to be frequently checking my blood sugar when I'm in the gym and correcting with
 liquid glucose.
@@ -405,7 +405,7 @@ These people are showing their roller coaster blood sugars before and then the s
 level blood sugars after they've followed our regimen.
 This is a very nice application for the device.
 
-You can see it at type 1-ONE-GRIT-G-R-I-T on Facebook, and it's a nice application.
+You can see it at TypeOneGrit on Facebook, and it's a nice application.
 Any other automatic devices that adjust your insulin or tell you what to do are phony.
 Virtually everything I've seen has advocated high carbohydrate, eat whatever you want,
 and then adjust the insulin to supposedly match what you ate, which is impossible.

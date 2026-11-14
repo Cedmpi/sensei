@@ -89,7 +89,7 @@ Okay, the first question.
 
 ### Type 2 diabetic gained 30 pounds (14 kg) since taking insulin. Is there any way possible to get off the insulin and control diabetes with just diet and exercise? My A1c averages 8 to 10 percent. [short: Control diabetes with just diet and exercise?]
 
-That means average blood sugars of about 220 to 300 milligrams per deciliter.
+That means average blood sugars of about 220 to 300 mg/dL.
 So I would say that this person first of all should read my book Diabetes Solution.
 
 It's logical that he gained weight because the usual ADA game plan is to give diabetics
@@ -122,7 +122,7 @@ It didn't work for me.
 
 Next question.
 
-### Type 1 6-year-old daughter diagnosed two years ago on your diet last one and a half years. Blood sugar on Dexcom 88 to 94 milligrams per deciliter. By the way, Dexcom is a continuous blood sugar monitor. But her A1C in the lab has been 5.7 to 6.1%. Have tested her glucometer using your methods and results are good. Thyroid results normal. Could there be another medical condition preventing her from getting an A1C below 5.1%? [short: Condition preventing getting an A1C below 5.1% ?]
+### Type 1 6-year-old daughter diagnosed two years ago on your diet last one and a half years. Blood sugar on Dexcom 88 to 94 mg/dL. By the way, Dexcom is a continuous blood sugar monitor. But her A1C in the lab has been 5.7 to 6.1%. Have tested her glucometer using your methods and results are good. Thyroid results normal. Could there be another medical condition preventing her from getting an A1C below 5.1%? [short: Condition preventing getting an A1C below 5.1% ?]
 
 Okay, there are a number of them.
 First of all, hypothyroidism can cause an artificially high hemoglobin A1C.
@@ -786,7 +786,7 @@ to what I ate.
 But second of all, there's a benefit to him for eating this food that he likes and that
 is his blood sugars are relatively stable, almost set it and forget it until lunch.
 So he takes his breakfast, he takes his injection and he can get to lunch pretty much between
-say 75 and 95 milligrams per deciliter and that's it.
+say 75 and 95 mg/dL and that's it.
 
 If he drops below 75, what does he do?
 He carries some glucose in his pocket, a few tabs in the little plastic container that

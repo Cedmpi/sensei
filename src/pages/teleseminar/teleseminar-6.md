@@ -334,7 +334,7 @@ me
 they're doing anaerobic exercise are not exercising like that so it's always
 a big question so this person says blood sugar stays steady dropping or
 rising only two tenths of a
-millimole which is about two milligrams per deciliter hardly any change at all
+millimole which is about two mg/dL hardly any change at all
 now when I do cardio my blood sugar drops very suddenly and stays low for
 hours.
 
@@ -343,7 +343,7 @@ I doing anything wrong what could be causing this well causing which the
 steady blood sugar or the drop*
 
 Number one when I go to the gym I do real
-anaerobic exercise and my blood sugar drops around 5 milligrams per deciliter
+anaerobic exercise and my blood sugar drops around 5 mg/dL
 per exercise depends upon the size of the muscle group that I'm exercising, I'm
 exercising a big muscle it drops more than if I exercise my hands for example
 so but I exercise until I can't move that muscle anymore when I do aerobic
@@ -357,7 +357,7 @@ there I will drop a lot and I'll keep dropping for the next six hours now what
 do I do I take liquid glucose I child check my blood sugar every half hour
 after the rabbit heart rate exercise and I'll correct it with liquid glucose one
 teaspoon of the liquid glucose that you can buy at any drugstore will raise me
-about seven milligrams per deciliter but I'm a small person bigger person
+about seven mg/dL but I'm a small person bigger person
 will have less of an increase so that's what I have to do I have to take the
 glucose to offset the drop and it'll drop for six hours for me now for some
 people who are not really following the method in the group in the book and maybe
@@ -542,7 +542,7 @@ products aren't the people who use them.
 *I recently had these blood tests insulin C-peptide (0.67) and hemoglobin a1c (11.9), would these numbers represent type 1 or type 2 diabetes?*
 
 The hemoglobin a1c by the way was 11.9
-which is something like an average of around 340 milligrams per deciliter
+which is something like an average of around 340 mg/dL
 Well the C-peptide which is a measure of the amount of insulin
 you're making is well it really depends upon when you ate and what your blood
 sugar is at the time now to have such a high average blood sugar of over 300 and
