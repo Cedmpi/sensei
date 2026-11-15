@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/TeleseminarLayout.astro
-title: Teleseminar 24
+title: 24. Teleseminar 
 source: https://www.youtube.com/watch?v=slRtZ70Yn0s
 ---
 
