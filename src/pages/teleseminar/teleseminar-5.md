@@ -263,6 +263,7 @@ I may have said to keep doses of onions relatively small, like having one slice 
 because they have more carbohydrate than other vegetables. I said nothing about garlic.
 I may have mentioned once that I have trouble digesting garlic and onions, but that's a problem
 in my family and I'm not telling other people to avoid them because of my problems.
+
 What about the body's need for sulfur? We do require sulfur, but how much? I don't know.
 I know, by the way, that insulin is a peptide hormone with what's called the disulfide bond.
 To make insulin, you need sulfur, but you don't need to load yourself with sulfur,
@@ -276,6 +277,7 @@ diaphragm. The diaphragm is a membrane that goes across the middle of the body, 
 and the esophagus goes through a hole in the diaphragm, but the hole may be a little too big
 and a piece of the stomach may come up through that hole and be squeezed by the diaphragm
 so that food in that little corner of the stomach doesn't get digested or doesn't empty readily.
+
 If it's a small diaphragmatic hernia, it doesn't cause major problems.
 If it's a big piece of the stomach that's caught, it can severely impair digestion,
 it can cause GERD, gastroenceophageal reflux. A severe diaphragmatic hernia can be confused
@@ -291,6 +293,7 @@ has only one application that I could think of.
 It's good for following pregnant diabetics, especially type 1 diabetics, because it gives
 a two-week, more or less running average of blood sugar. The trouble is that I've not seen
 any published figure as to what blood sugars correspond to what fructosamine level.
+
 So it is tracking the direction of your blood sugars. You could see if they're going up or going
 down, but if you're a doctor treating a pregnant diabetic, you should be having her record her
 blood sugar data. So the fructosamine would really be a double check to see if the patient is not
@@ -316,7 +319,9 @@ Well, again, in my book, it points out that if
 you're used to an elevated blood sugar and you rapidly bring it down, there's a very good chance
 that you'll get symptoms of hypoglycemia. So that seems like the most likely thing in this particular
 situation. Now, there are unusual situations that I've encountered that are very strange
-that might relate to this, but they're rare. For example, I have one person who has strange symptoms
+that might relate to this, but they're rare.
+
+For example, I have one person who has strange symptoms
 from all kinds of foods, different foods that affect him in different ways. He also has chronic
 depression that was not being adequately treated. And when he ate a lot of carbohydrate, his depression
 got better. Now, eating carbohydrate increases levels of tryptophan and serotonin in the brain
@@ -338,6 +343,7 @@ internet comments about artificial sweeteners that literally lie about them,
 make up all kinds of fantasies, and even some of these sites try to sell you substitute sweeteners
 that they consider less harmful, including ads for domino cane sugar, which the ADA advocates
 as a sweetener. So I know of no evidence that artificial sweeteners are harmful to gut bacteria.
+
 I imagine that high levels of sugar or grains, which are alien to our early environment,
 that is our ancestors environment, could be harmful to the endogenous bacteria in our gut,
 the microbiome. But we just don't have much information. The microbiome is really right
@@ -348,6 +354,7 @@ microbiome are probably fabricating stories.
 Well, first of all, it depends what meter you use. If you use the meter that I was talking
 about earlier that was used to determine the current ADA hemoglobin A1c recommendations,
 that meter can give you 80 in one hand and 150 in the other hand immediately thereafter.
+
 That's how inaccurate I found it to be and variable. So it really depends on the meter.
 You should use the meter that we're currently recommending. And as pointed out in other
 teleseminars, there is now one other meter that seems to be as good in the vicinity of
@@ -364,6 +371,7 @@ Well, it could be that your symptoms
 resembled those of meningitis. And they were trying to rule out meningitis by looking for
 bacteria in your spinal fluid. That's one guess. Another reason is that it's very profit effective.
 They could charge a large sum, a lot more for a spinal puncture than for a blood sugar.
+
 So that may have been a reason. Or it could have been a mistake. Or it could have been
 that you were in the hands of a young doctor who just got out of medical school
 and didn't begin his internship or his residency yet. And it's July and the
@@ -379,6 +387,7 @@ I would urge you to read my book Diabetes Solution.
 You might also go to the Typeoengrit Facebook site. You could also get them on YouTube I believe.
 If you're giving NPH insulin you may be giving too high a dose causing him to go low. And then NPH is
 only an intermediate acting insulin. It doesn't last very long. Maybe it lasts six or eight hours.
+
 So for small kids and you could read this in my book we may give diluted NPH insulin
 four to six times a day because it doesn't last. But diluting it enables you to lower the dose.
 So if you diluted it three to one each two unit measurement would only be a quarter of two units
