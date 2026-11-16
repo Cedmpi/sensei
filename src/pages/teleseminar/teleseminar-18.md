@@ -229,7 +229,7 @@ Another approach is to take rapid-acting insulin on a rising just before the blo
 sugar goes up.
 
 There are probably a variety of other tricks that you can use.
-For example, one trick for type 1s is to take Levomyr insulin one shot at bedtime and another
+For example, one trick for type 1s is to take Levemir insulin one shot at bedtime and another
 shot about six hours later.
 
 So if you happen to get up six hours after you go to sleep or set an alarm six hours

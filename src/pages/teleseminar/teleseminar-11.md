@@ -105,7 +105,7 @@ prescribing those things after I was in practice only a few years because of the
 with them.
 
 Next on the list is the GLP-1 agonists, glucagon-like peptide-1 agonists,
-Bieta, Victoza, etc. I've discussed these at great lengths on my teleseminar and also on my
+Byetta, Victoza, etc. I've discussed these at great lengths on my teleseminar and also on my
 Dr. Bernstein's Diabetes University videos and they have very little effect directly upon blood
 sugar, but they can have considerable effect upon appetite. 
 
@@ -491,7 +491,7 @@ super doses that are not what are called basal doses, unless they're given in do
 cover meals also, and this just doesn't work. 
 
 So you have to take Tresiba twice a day,
-but it lasts overnight much better than Levomyr or Lantus. And I recommend it very highly,
+but it lasts overnight much better than Levemir or Lantus. And I recommend it very highly,
 and virtually all of my type 1s are now using Tresiba.
 
 ### Your thoughts regarding the Omnipod with the Dexcom CGMS.

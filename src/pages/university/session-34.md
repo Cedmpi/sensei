@@ -9,7 +9,7 @@ source: https://www.youtube.com/watch?v=DoJmdHaSShc
 This time we're going to examine the question of why people in authority are
 distorting the results of scientific studies to make it seem that normal blood
 sugars are to be avoided in diabetes. In particular we're going to talk this time
-about the <a href="https://www.sciencedirect.com/science/article/abs/pii/S0002914907004377" target="_blank" rel="noopener noreferrer"> ACCORD trial </a>. 
+about the <a href="https://diabetesjournals.org/care/article/33/5/983/27086/Epidemiologic-Relationships-Between-A1C-and-All" target="_blank" rel="noopener noreferrer" class="underline"> ACCORD trial </a>. 
 
 Let's see if we could figure out what that
 stands for. Action to Control Cardiovascular Risk in Diabetes. Now this
