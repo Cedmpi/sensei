@@ -175,7 +175,7 @@ drugs like Crestor, the statins somewhat reduce the frequency of heart attacks b
 proportion to their reduction of LDL rather as a result of their reduction of inflammation.
 
 So looking at LDL and worrying about it is perpetuating a myth, yes triglycerides do
-have an effect on cardiac risk, high triglycerides, low HDL has an effect, lipoprotein small a
+have an effect on cardiac risk, high triglycerides, low HDL has an effect, lipoprotein(a)
 which has no relation to dietary fat has a very large effect but inflammation is the
 chief culprit.
 

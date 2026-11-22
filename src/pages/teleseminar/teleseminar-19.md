@@ -240,7 +240,7 @@ anything about this and do you have a solution?*
 Well, I no longer look at LDL because many
 studies have shown it not to be a risk factor for anything. The risk factors for heart disease
 are more related to inflammation like C-reactive protein, fibrinogen, which is also related to
-blood clotting, especially lipoprotein small a.
+blood clotting, especially lipoprotein(a).
 
 And there are a number of factors that are
 a far more likely to be related to heart disease than LDL. So, I just don't worry about it

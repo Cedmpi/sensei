@@ -64,7 +64,7 @@ So I rapidly learned that there was no way to control my blood sugars with the h
 I neglected to mention that I was one of the first people in the country put on a high carbohydrate diet because of the fear in those days that dietary fats would raise your cholesterol, and that in turn would cause heart disease.
 
 And diabetics were dying like flies of congestive heart failure. We now know a lot differently. We now know that the heart disease in diabetics is caused by high blood sugars.
-We know that the heart disease in non-diabetics is usually caused by inflammation, and that the markers of inflammation are not cholesterol and fat-related substances, but inflammatory markers, like C-reactive protein, lipoprotein small a, and so on.
+We know that the heart disease in non-diabetics is usually caused by inflammation, and that the markers of inflammation are not cholesterol and fat-related substances, but inflammatory markers, like C-reactive protein, lipoprotein(a), and so on.
 
 Well, with all these measurements, I learned a number of things that were very important. The most important of those was that even small amounts of rapidly acting carbohydrate would send me very high and faster than insulin could lower it.
 So I couldn't take a shot of insulin before a meal and expect to prevent a blood sugar rise. I couldn't take it a half an hour before a meal or an hour before a meal to prevent a blood sugar rise. The food just worked faster than insulin.

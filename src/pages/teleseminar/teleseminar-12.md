@@ -104,7 +104,7 @@ evidence as you've been reading in the newspapers all over the world of late, so
 doesn't tell very much.
 
 If I want to look at something in the blood, I look at inflammatory
-markers and acute phase reactants like lipoprotein small a, which I found has a strong correlation if
+markers and acute phase reactants like lipoprotein(a), which I found has a strong correlation if
 it's grossly elevated. Let's say the high end of normal is 75. I had a new patient came in
 shortly after having a heart attack, and her LP small a was 175. So LP small a, C-reactive protein,
 possibly tumor necrosis factor alpha.
