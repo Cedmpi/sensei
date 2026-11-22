@@ -25,17 +25,14 @@ things that you're telling me are correct. Where's the proof?
 Well, first of all, we
 have repeatedly given you an article published by members of the Nutrition and Metabolism
 Society. My name is number two on the author list. The article is out there on the Internet.
-The title of the article is <a href="https://pubmed.ncbi.nlm.nih.gov/25287761/" class="underline" target="_blank" rel="noopener noreferrer">
-Dietary Carbohydrate Restriction as the First Approach in Diabetes
-Management, Critical Review and Evidence Base </a>. This article was published in the journal
+The title of the article is [Dietary Carbohydrate Restriction as the First Approach in Diabetes Management, Critical Review and Evidence Base](https://pubmed.ncbi.nlm.nih.gov/25287761/). This article was published in the journal
 Nutrition in January 2015, pages one through thirteen. So you could find this article on
 the Internet, and it gives many, many references citing the importance of low carbohydrate
 diets and normal blood sugars.
 
 If you want to do literature searches on your own, you'll
 find many articles. However, this brand new article that just came out recently in the
-<a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255" class="underline" target="_blank" rel="noopener noreferrer">
-Journal of the American Medical Association</a> sort of changes the picture in, how shall
+[Journal of the American Medical Association](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255) sort of changes the picture in, how shall
 I put it, in a logistical sense. It points out that industry sources of high carbohydrate
 foods, especially sweet foods, Coca Cola, Domino's Sugar and others, have been bribing
 organizations such as the ADA, and the ADA is specifically named amongst others, to put
@@ -59,8 +56,7 @@ officers or whatever. We have no statement in this article about that part of th
 game. 
 
 So what you show your doctor is either the
-<a href="https://www.sciencedaily.com/releases/2016/09/160912122356.htm" class="underline" target="_blank" rel="noopener noreferrer">Science Daily article
-</a> or the <a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255" class="underline" target="_blank" rel="noopener noreferrer">JAMA article</a> and say, hey, you've been a patsy. You've been believing the con
+[Science Daily article](https://www.sciencedaily.com/releases/2016/09/160912122356.htm) or the [JAMA article](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255) and say, hey, you've been a patsy. You've been believing the con
 game that's been going on since 1967 that was paid for by bribery, and you're imposing
 this on me.
 
@@ -482,7 +478,7 @@ Now, there are some people who absolutely need the liquid glucose. For example, 
 And that can be determined by your physician if he does an RR interval study.
 
 And you can search for my name and RR interval study on the Internet and you'll see a protocol for how your doctor can do this.
-There was an article in the journal, I believe,<a href="https://diabetesjournals.org/care/article-abstract/7/5/510/30959/R-R-Interval-Studies-A-Simple-Office-Protocol-for" class="underline" target="_blank" rel="noopener noreferrer">Diabetes Care</a>.
+There was an article in the journal, I believe,[Diabetes Care](https://diabetesjournals.org/care/article-abstract/7/5/510/30959/R-R-Interval-Studies-A-Simple-Office-Protocol-for).
 
 There are other situations.
 For example, if I'm sitting here all day working with patients and I see that my blood sugar is on the low side,
@@ -529,7 +525,7 @@ Don't worry about this. It's not your business.
 So, you know, I was thinking about future patients.
 
 A copy of this article, which shows what can happen during surgery, appears in the Journal of the American Medical Association,
-the title is <a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1863927" class="underline" target="_blank" rel="noopener noreferrer"> More Can Be Life-Threatening</a>.
+the title is [More Can Be Life-Threatening](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1863927).
 It's interesting that the editors of the journal wrote the title, which was different than mine.
 
 And, indeed, what they did was life-threatening.

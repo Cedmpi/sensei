@@ -1,11 +1,7 @@
 ---
 layout: ../../layouts/UniversityLayout.astro
 title: 6. Value and Methods of Exercise, Part 1.
-
----
-
-[Session 6. Value and Methods of Exercise, Part 1.- Dr. Bernstein's Diabetes University](https://www.youtube.com/watch?v=Z80-c0CXYqc)
-
+source: https://www.youtube.com/watch?v=Z80-c0CXYqc
 ---
 
 Hello, this is Dr. Richard Bernstein with session number six of Dr. Bernstein's Diabetes

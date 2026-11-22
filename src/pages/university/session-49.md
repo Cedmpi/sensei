@@ -24,4 +24,4 @@ Good luck with it.
 
 <img src="/glucograf.webp" alt="Glucograf IV form" class="w-full" />
 
-<a href="/glucograf_IV.pdf" target="_blank" class="underline" >Download the Glucograf IV form</a>
+[Download the Glucograf IV form](/glucograf_IV.pdf)

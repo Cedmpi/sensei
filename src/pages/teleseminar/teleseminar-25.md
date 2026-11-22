@@ -288,7 +288,7 @@ so that you don't go up to 170.
 
 This is tradition. Totally ignores
 logic and you might want to take a look at an article that I had published in the Journal
-of the American Medical Association in 2014. JAMA, <a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1863927" class="underline" target="_blank" rel="noopener noreferrer">Journal of the American Medical Association, internal medicine 2014, page 858.</a>
+of the American Medical Association in 2014. JAMA, [Journal of the American Medical Association, internal medicine 2014, page 858.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1863927)
 
 It tells how they almost killed me numerous times when
 I went in for a few hours for minor surgery. As soon as I came in, before I went in, they

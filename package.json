@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.3.1",
     "astro": "^7.4.4",
     "astro-pagefind": "^2.0.1",
+    "rehype-raw": "^7.0.0",
     "tailwindcss": "^4.3.1",
     "unist-util-visit": "^5.1.0"
   }

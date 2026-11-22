@@ -17,7 +17,7 @@ January 25th, 2017.
 ### Special subject: Individuals hold independent beliefs that affect whether or not they accept scientific findings
 
 A recent article in the journal Science has the title that I just read to
-you. It's actually a subtitle. The title is <a href="https://www.science.org/doi/10.1126/science.aaj1817" class="underline" target="_blank" rel="noopener noreferrer" > What I Know But Don't Believe</a>. And this we
+you. It's actually a subtitle. The title is [What I Know But Don't Believe](https://www.science.org/doi/10.1126/science.aaj1817). And this we
 find is commonplace amongst doctors who treat diabetes, especially endocrinologists. And
 the article in the journal Science points out that people, many people, not everybody,
 are more likely to believe things that their associates believe rather than things that
@@ -112,7 +112,7 @@ coming up in future months.
 For example, next month we are going to discuss an article
 that we just stumbled on published in 1985 that shows the history of the low fat myth
 and how that came about for political and financial reasons. You could also show them
-the article that we just mentioned today from the journal Science, <a href="https://www.science.org/doi/10.1126/science.aaj1817" class="underline" target="_blank" rel="noopener noreferrer" > What I Know But Don't Believe</a>.
+the article that we just mentioned today from the journal Science, [What I Know But Don't Believe](https://www.science.org/doi/10.1126/science.aaj1817).
 
 ### On my last two post-meal blood glucose checks, my levels keep rising. The meals were very low carb. Why? [short: Low carb meals raise blood sugar?]
 

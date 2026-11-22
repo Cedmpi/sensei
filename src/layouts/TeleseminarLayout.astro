@@ -2,7 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import DocumentNav from "../components/DocumentNav.astro";
 import TableOfContents from "../components/TableOfContents.astro";
-const { title, source } = Astro.props;
+const { title, source } = Astro.props.frontmatter;
 
 const allSessions = Object.entries(
   import.meta.glob("../pages/teleseminar/*.md", { eager: true }),
@@ -25,7 +25,12 @@ const nextEntry =
     <h2 class="text-lg font-medium">{title}</h2>
     <slot />
   </article>
-  <a href={source} target="_blank" class="text-xs mt-4">Source</a>
+  <a
+    href={source}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="text-xs mt-4 underline">Source</a
+  >
 
   <DocumentNav prev={prevEntry} next={nextEntry} basePath="teleseminar" />
 

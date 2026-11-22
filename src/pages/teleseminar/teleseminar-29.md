@@ -259,7 +259,7 @@ gastroparesis.
 So number one, if you can possibly get an RR study done, do that. I wrote an article on that, I
 believe, in diabetes care, in the Journal of Diabetes Care many years ago and you could find it by
 doing a search, a Google search for it, how to do an
-<a href="https://diabetesjournals.org/care/article-abstract/7/5/510/30959/R-R-Interval-Studies-A-Simple-Office-Protocol-for" class="underline" target="_blank" rel="noopener noreferrer">RR integral study by Bernstein</a>. And if you read
+[RR integral study by Bernstein](https://diabetesjournals.org/care/article-abstract/7/5/510/30959/R-R-Interval-Studies-A-Simple-Office-Protocol-for). And if you read
 my book Diabetes Solution, the chapter on gastroparesis, it will give you treatments for
 gastroparesis.
 

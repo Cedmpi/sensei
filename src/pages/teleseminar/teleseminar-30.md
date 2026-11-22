@@ -155,7 +155,7 @@ nerve because your digestive problems might be due to something else. You could 
 problem like a hiatal hernia. So an RR interval study would be very desirable if you can find a
 physician in Australia who can figure out how to do it.
 
-Now I had an article in the <a href="https://diabetesjournals.org/care/article-abstract/7/5/510/30959/R-R-Interval-Studies-A-Simple-Office-Protocol-for" class="underline" target="_blank" rel="noopener noreferrer">journal Diabetes Care probably</a> about 15 years ago, maybe 20 years ago.
+Now I had an article in the [journal Diabetes Care probably](https://diabetesjournals.org/care/article-abstract/7/5/510/30959/R-R-Interval-Studies-A-Simple-Office-Protocol-for) about 15 years ago, maybe 20 years ago.
 You could do a search on the internet of the journal Diabetes Care published by the American
 Diabetes Association and it tells how to do an RR study.
 
@@ -425,8 +425,7 @@ Now you have to modify the letter to your own needs and quite honestly, if you'r
 requires general anesthesia so that you're unconscious, you are in jeopardy.
 
 I published an article about two years ago in the Journal of the American Medical Association.   
-<a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1863927" class="underline" target="_blank" rel="noopener noreferrer">
-You can look in their archives.</a>
+[You can look in their archives.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1863927)
 
 I was almost killed five or more times during the course of this simple surgery. They connected me
 to glucose, they had an anesthesiologist who was not authorized to check blood sugars, etc., etc. If

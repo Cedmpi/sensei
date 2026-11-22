@@ -1,13 +1,8 @@
 ---
 layout: ../../layouts/UniversityLayout.astro
 title: 7. Value and Methods of Exercise, Part 2
-
+source: https://www.youtube.com/watch?v=z8rK4out2ko
 ---
-
-[Session 7. Value and Methods of Exercise, Part 2. - Dr. Bernstein's Diabetes University](https://www.youtube.com/watch?v=z8rK4out2ko)
-
----
-
 
 This is Dr. Bernstein's Diabetes University, session number seven.
 

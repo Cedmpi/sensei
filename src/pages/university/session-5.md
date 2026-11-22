@@ -1,11 +1,7 @@
 ---
 layout: ../../layouts/UniversityLayout.astro
 title: 5. Dehydrating Illness, Part 1, Vomiting
-
----
-
-[Session 5. Dehydrating Illness, Part 1, Vomiting. - Dr. Bernstein's Diabetes University](https://www.youtube.com/watch?v=um0Ly12Wia8)
-
+source: https://www.youtube.com/watch?v=um0Ly12Wia8
 ---
 
 Welcome to session five of Dr. Bernstein's Diabetes University.

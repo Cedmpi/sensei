@@ -1,10 +1,7 @@
 ---
 layout: ../../layouts/UniversityLayout.astro
 title: 4. Ketones, Ketoacidosis, and Hyperglycemia
-
----
-
-[Session 4. Ketones, Ketoacidosis, and Hyperglycemia. - Dr. Bernstein's Diabetes University](https://www.youtube.com/watch?v=3xdlzHyysNk)
+source: https://www.youtube.com/watch?v=3xdlzHyysNk
 
 ---
 

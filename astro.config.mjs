@@ -4,6 +4,7 @@ import { unified } from "@astrojs/markdown-remark";
 
 import tailwindcss from "@tailwindcss/vite";
 import rehypeShortHeading from "./src/plugins/rehype-short-heading.mjs";
+import rehypeLinkAttrs from "./src/plugins/rehype-link-attrs.mjs";
 import pagefind from "astro-pagefind";
 
 // https://astro.build/config
@@ -14,7 +15,7 @@ export default defineConfig({
   },
   markdown: {
     processor: unified({
-      rehypePlugins: [rehypeShortHeading],
+      rehypePlugins: [rehypeShortHeading, rehypeLinkAttrs],
     }),
   },
   integrations: [pagefind()],

@@ -17,7 +17,7 @@ Also a little warning that if you submit several questions as if they are one, I
 out all but the first question.
 So don't ask three questions in a row because I'm only going to answer one of them.
 
-Before we begin, I want to remember our friend David Mendosa, whose blog <a href="https://web.archive.org/web/20260123000904/https://mendosa.com/" class="underline" target="_blank" rel="noopener noreferrer">Mendosa.com</a> you may be familiar with.
+Before we begin, I want to remember our friend David Mendosa, whose blog [Mendosa.com](https://web.archive.org/web/20260123000904/https://mendosa.com/) you may be familiar with.
 
 He became a type 2 diabetic about 20 years ago, but he was interested in weight loss
 and diabetes as a freelance medical writer for many years.  
@@ -160,7 +160,7 @@ Crestor is one of the drugs that lowers certain cholesterol and LDL.
 Now this individual has really been subject to the misinformation that permeates the medical
 profession.
 
-There was a big article about this in the <a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255" class="underline" target="_blank" rel="noopener noreferrer">Journal of the American Medical Association</a>
+There was a big article about this in the [Journal of the American Medical Association](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255)
 about six months ago how bribery has gotten researchers, academic institutions, medical
 societies to withhold true information about causation of disease, in particular the myth
 that fat causes high cholesterol which causes heart attacks when the truth is that carbohydrate

@@ -576,8 +576,7 @@ Well, this is pretty much nonsense. Number one,
 the whole world seems to know by now that the fat causing coronary artery disease was a myth
 that was perpetuated by the sugar industry and the grain industry and the snack food industry.
 
-Major cases of bribery were described in the <a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255" class="underline" target="_blank" rel="noopener noreferrer">
-Journal of the American Medical Association</a> a
+Major cases of bribery were described in the [Journal of the American Medical Association](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255) a
 few months ago. So we don't have to worry about the fat on the one hand but avoiding protein is
 extremely dangerous.
 

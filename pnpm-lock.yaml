@@ -20,6 +20,9 @@ importers:
       astro-pagefind:
         specifier: ^2.0.1
         version: 2.0.1(astro@7.4.4(@astrojs/markdown-remark@7.3.5)(esbuild@0.28.1)(jiti@2.7.0)(yaml@2.9.1))
+      rehype-raw:
+        specifier: ^7.0.0
+        version: 7.0.0
       tailwindcss:
         specifier: ^4.3.1
         version: 4.3.1

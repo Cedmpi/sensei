@@ -308,7 +308,7 @@ United Kingdom.
 Well first I would suggest that you go to the search engine
 on your computer Google or whatever and search for Lantus plus cancer and you'll
 find many articles probably about studies of the incidence of cancer in
-Lantus users or you can go to the internet site of the <a href="https://diabetologia-journal.org/" target="_blank" rel="noopener noreferrer" class="underline"> journal diabetologia </a>
+Lantus users or you can go to the internet site of the [journal diabetologia](https://diabetologia-journal.org/)
 this is probably the best diabetes scientific
 journal being published it's published by the European Association for the
 Study of diabetes

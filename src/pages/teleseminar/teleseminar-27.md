@@ -338,7 +338,7 @@ by the lower level doctors in the study who did the actual work.
 
 The big shots at the top of the study, who drew the conclusions, gave an ADA conclusion
 claiming that there were more deaths at lower blood sugars, where indeed there were more
-deaths at higher blood sugars, and the <a href="https://diabetesjournals.org/care/article/33/5/983/27086/Epidemiologic-Relationships-Between-A1C-and-All" target="_blank" rel="noopener noreferrer" class="underline"> retraction appeared in the Journal of Diabetes Care</a> so
+deaths at higher blood sugars, and the [retraction appeared in the Journal of Diabetes Care](https://diabetesjournals.org/care/article/33/5/983/27086/Epidemiologic-Relationships-Between-A1C-and-All) so
 you could show that to your endo.
 
 Now if he's not willing to believe what he reads, then you probably have to do what so
@@ -625,7 +625,7 @@ of carbohydrate.
 
 And we now know that the real culprit is carbohydrate and there have been big payoffs.
 
-This was documented by an article in the <a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255" class="underline" target="_blank" rel="noopener noreferrer">Journal of the American Medical Association</a> about
+This was documented by an article in the [Journal of the American Medical Association](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255) about
 a year ago and it's well near forgotten by now but the world had a rude awakening when
 that was published.
 

@@ -64,8 +64,7 @@ you know this person is diabetic.
 Anyway, we'll get on to the importance of C-peptide
 over and above being an indicator that you're making insulin.
 
-There's an article in a <a href="https://diabetesjournals.org/care/article/27/6/1506/22660/Diabetes-Complications" class="underline" target="_blank" rel="noopener noreferrer">
-2004 issue of the journal Diabetes Care</a>
+There's an article in a [2004 issue of the journal Diabetes Care](https://diabetesjournals.org/care/article/27/6/1506/22660/Diabetes-Complications)
 that lists some of the functions of C-peptide by itself.
 In other words, when insulin is made, C-peptide is made,
 and the C-peptide does a lot of things that are important.
@@ -99,7 +98,7 @@ is normal blood sugars,
 because high glucose is toxic to beta cells that make insulin.
 
 But there was another
-<a href="https://diabetesjournals.org/care/article/36/7/1842/32976/Nutritional-Factors-and-Preservation-of-C-Peptide" class="underline" target="_blank" rel="noopener noreferrer"> article in Diabetes Care in the year 2013 </a>
+[article in Diabetes Care in the year 2013](https://diabetesjournals.org/care/article/36/7/1842/32976/Nutritional-Factors-and-Preservation-of-C-Peptide)
 that demonstrated that fish oil or omega-3 fatty acids
 can improve the C-peptide, can preserve C-peptide in youth
 with recently diagnosed type 1 diabetes.

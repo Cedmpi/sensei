@@ -30,7 +30,7 @@ const nextEntry =
     <h1 class="font-semibold text-xl">{title}</h1>
     <slot />
   </article>
-  <a href={source} target="_blank" class="text-xs mt-4">Source</a>
+  <a href={source} target="_blank" rel="noopener noreferrer" class="text-xs mt-4 underline">Source</a>
 
   <DocumentNav prev={prevEntry} next={nextEntry} basePath="university" />
   {toc && <TableOfContents slot="sidebar" />}

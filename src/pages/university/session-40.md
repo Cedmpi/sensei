@@ -15,7 +15,7 @@ glucose in the meal. And if you don't take these huge amounts of insulin, which 
 your blood sugar can go extremely high and the elevation of blood sugar indirectly brings about
 the metabolism of fat and severe dehydration.
 
-See Session 4. <a href="/university/session-4" target="_blank" rel="noopener noreferrer" class="underline">Ketones, Ketoacidosis, and Hyperglycemia</a>, 
+See Session 4. [Ketones, Ketoacidosis, and Hyperglycemia](/university/session-4),
 it goes into great detail of the mechanisms by
 which anything that raises blood sugar, illness, failure to take insulin, high carbohydrate foods,
 anything that raises blood sugar dramatically can cause ketosis, but more so than just ketosis,

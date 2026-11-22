@@ -208,7 +208,7 @@ I've asked radiologists how it can be done, and they can't answer it for me.
 We used to think that Mönckeberg's atherosclerosis had no adverse effects, but we now know that
 it does.
 
-And in <a href="https://pubmed.ncbi.nlm.nih.gov/11473102/" target="_blank" rel="noopener noreferrer" class="underline">my article</a>, I point out a
+And in [my article](https://pubmed.ncbi.nlm.nih.gov/11473102/), I point out a
 recent study that occurred just after I submitted the article, that the smooth muscle cells
 in the blood vessels, in the arteries, produce a substance that stabilizes plaque in the
 coronary arteries.

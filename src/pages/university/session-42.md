@@ -91,4 +91,4 @@ show it to people and it's all there so please take a look and try to understand
 that controlling blood sugar following a low carbohydrate diet does not make you
 depressed it does exactly the opposite.
 
-<small> Article: <a href="https://pubmed.ncbi.nlm.nih.gov/8495633/" target="_blank" rel="noopener noreferrer" class="underline">Depression in adults with diabetes </a> </small>
+<small> Article: [Depression in adults with diabetes](https://pubmed.ncbi.nlm.nih.gov/8495633/) </small>
