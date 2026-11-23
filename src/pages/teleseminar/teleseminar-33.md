@@ -37,7 +37,7 @@ book, we had not only steady, near-normal blood sugars, in fact, according to th
 blood sugars, but far less hypoglycemia, far less ketoacidosis, but almost non-existent. Major
 changes in the well-being of the patients, new growth amongst the children, etc., etc. This appeared
 in the Science Times, which is a section of the [New York Times](https://www.nytimes.com/2018/05/07/well/live/low-carb-diet-type-1-diabetes.html) on May 15th, 2018, and may still be
-probably found on their website. The actual article would be found on the [website of the journal Pediatrics](https://publications.aap.org/pediatrics/article-abstract/141/6/e20173349/37619/Management-of-Type-1-Diabetes-With-a-Very-Low?redirectedFrom=fulltext).
+probably found on their website. The actual article would be found on the [website of the journal Pediatrics](https://publications.aap.org/pediatrics/article-abstract/141/6/e20173349/37619/Management-of-Type-1-Diabetes-With-a-Very-Low).
 
 Now to our first question.
 
