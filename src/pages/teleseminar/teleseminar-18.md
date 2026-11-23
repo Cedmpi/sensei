@@ -474,10 +474,10 @@ And today I spoke to several supposed type 2 diabetics who I'm giving small dose
 diluted regular insulin or diluted humalog insulin to cover their meals because we've
 added a lot of protein and they're gaining weight.
 
-### Tresiba works very well for me in leveling my blood sugar numbers. However, I've gained 16 pounds (7 kg) since I switched from Lantus. Would Viator or Simlin help shedding the pounds without affecting my gastrointestinal system? I have Crohn's disease. [short: Can Victoza or Symlin help with weight gain after switching from Lantus to Tresiba with Crohn's disease?]
+### Tresiba works very well for me in leveling my blood sugar numbers. However, I've gained 16 pounds (7 kg) since I switched from Lantus. Would Viator or Symlin help shedding the pounds without affecting my gastrointestinal system? I have Crohn's disease. [short: Can Victoza or Symlin help with weight gain after switching from Lantus to Tresiba with Crohn's disease?]
 
-Oh boy, this is complicated.
-Well, first of all, you should read my book.
+Oh boy, this is complicated.  
+Well, first of all, you should read my book.  
 And one point that I'd like to make is that if you have historically had high blood sugars
 when you were taking Lantus insulin, you'll be peeing away calories and losing weight
 or not gaining weight.
@@ -486,7 +486,7 @@ And then if you take Tresiba and your blood sugars are normalized and you stop p
 away glucose, you might gain weight.
 So you really have to very carefully follow the guidelines in the book.
 
-It could be that your doses of Tresiba are too high.
+It could be that your doses of Tresiba are too high.  
 It could be that you're above a basal dose, that you're forcing yourself to eat by having
 too much insulin on board.
 So it's a matter of trial and error.
