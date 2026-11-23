@@ -160,6 +160,11 @@ discuss food cravings in my book, and there are some tips on what you might do.
 I doubt it very much. I think that you should read my book, and if the child has diabetes, you
 better start controlling blood sugars.
 
+We spoke about an experimental study with the drug Verapamil and this may or may not work.
+
+Your doctor may want to experiment with Verapamil, it's a reasonably benign drug but may not come in
+doses small enough for a small child, it's a matter of experimentation.
+
 ### Can my husband go on insulin for a short time to lose weight, and then go back to Metformin, Glimepiride, and Victoza after the weight loss safely? [short: Using insulin briefly to lose weight?]
 
 Going on to insulin, especially if it's used to cover carbohydrate, is going to gain weight.
