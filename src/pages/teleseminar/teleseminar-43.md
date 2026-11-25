@@ -569,6 +569,23 @@ Anyway, those are my suggestions.
 
 ### Does low-carb keep type 2 under control? I'm getting very worried. I don't want to go on meds. [short: Type 2 without medications?]
 
+This is a patient who claims to be on a low-carb, high-fat diet and my regular listeners know that
+this is something that I do not advocate. I advocate a low-carb diet and a normal amount of protein. 
+By normal, I mean what our ancestors would have eaten in the wild. I'm not pushing fats.
+
+Well, low-carb may or may not be the only treatment that you require. It depends how much in the way
+of beta cell loss you've suffered already. If you've lost all your beta cells, you're no longer a
+type 2. You've become a type 1 and you certainly need injected insulin and then there's a whole
+spectrum between very mild type 2 diabetes and type 1 and somewhere along the line, people need
+medication.
+
+The American Diabetes Association wisely recommends that the first medication that you try should be
+metformin and that happens to be the same one that I recommend as a trial. But why you don't want to
+take meds, I don't know. You should do whatever it takes to preserve your beta cells and since high
+serum glucose is toxic to beta cells, you want to do whatever it is that you need to keep them
+alive. You want to minimize blood sugar, not minimize but normalize blood sugar.
+
+
 I assume that meds are medications. A lot of people are afraid of medications, but elevated blood
 sugars over the long pull can be a lot more harmful than many medications.
 
