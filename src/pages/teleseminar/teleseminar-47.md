@@ -123,7 +123,7 @@ possibly do the trick.
 
 ### What do you recommend for Type 2 diabetes when Metformin is not enough? Victoza, Jardiance, other? [short: Other Type 2 diabetes medication?]
 
-Well, first of all, I do not recommend the SGL2 inhibitors, which would include the Jardiance. The
+Well, first of all, I do not recommend the SGLT2 inhibitors, which would include the Jardiance. The
 Victoza, Byetta, and Symlin have their major effects on curbing overeating. Their effects on blood
 sugar per se are relatively small. So if you are an overeater, then Victoza, Byetta, or Symlin, which
 are all related to GLP1 production in the intestines, might be of value.

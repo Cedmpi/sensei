@@ -164,7 +164,7 @@ appetite. You're getting their effect all day long and you're going to be develo
 much more rapidly.
 
 Another oral diabetic, anti-diabetic agent is the class of agents
-called SGL-2 inhibitors. These include Invokana and are agents that cause you to release glucose
+called SGLT2 inhibitors. These include Invokana and are agents that cause you to release glucose
 into the urine at a relatively low blood sugar. So instead of the renal threshold for glucose being,
 let's say, 160 mg/dl, you may start peeing away glucose at a blood sugar of 130
 or 120 or 110 mg/dl, thereby eliminating sugar from your bloodstream via the

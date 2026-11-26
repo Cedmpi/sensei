@@ -414,7 +414,7 @@ I've been on a low carbohydrate diet for 45 years now, 84 years old, and I never
 ketones. Having ketones in your blood is part of humanity. It certainly is not adversely affecting
 me nor my patients.
 
-### I've lost 60 pounds (27 kg) and reduced A1c from 14.2 to 5.9 eating a low carb diet and only eating between 10 a.m. and 6 p.m. I stopped taking Invokana, which is an SGL-2 inhibitor that causes you to pee excess glucose into your urine. I stopped taking Invokana many months ago, and my doctor stopped Metformin 2 months ago, but now my fasting number is up to 120, and I have to walk at least three miles to get my numbers under 100 at all. I have no problems with Metformin if my next A1c is up again. How can I convince my doctor to prescribe Metformin again? [short: How can I get my doctor to restart metformin?]
+### I've lost 60 pounds (27 kg) and reduced A1c from 14.2 to 5.9 eating a low carb diet and only eating between 10 a.m. and 6 p.m. I stopped taking Invokana, which is an SGLT2 inhibitor that causes you to pee excess glucose into your urine. I stopped taking Invokana many months ago, and my doctor stopped Metformin 2 months ago, but now my fasting number is up to 120, and I have to walk at least three miles to get my numbers under 100 at all. I have no problems with Metformin if my next A1c is up again. How can I convince my doctor to prescribe Metformin again? [short: How can I get my doctor to restart metformin?]
 
 Ask him why he stopped it.
 

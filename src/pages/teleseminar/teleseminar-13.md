@@ -87,11 +87,11 @@ And then when the blood sugars were controlled, they went back to their old curv
 
 Best way is to read the book. And the book advises you to do it instantly, not gradually. But when you do it, you have to lower medications frequently, dramatically. But it's all there in the book. Diabetes Solution.
 
-### Thoughts on SGL2 inhibitors?
+### Thoughts on SGLT2 inhibitors?
 
-*Diagnosed with autoimmune Graves' disease in 2009 and type 2 diabetes. What are your thoughts on SGL2 inhibitors? I was in ICU with euglycemic diabetic ketoacidosis from Invokana.*
+*Diagnosed with autoimmune Graves' disease in 2009 and type 2 diabetes. What are your thoughts on SGLT2 inhibitors? I was in ICU with euglycemic diabetic ketoacidosis from Invokana.*
 
-Well, Invokana is a class of drugs called SGL2 inhibitors. These are things that cause you to pee away glucose. Well, they lower the renal threshold for glucose, which means that where a normal person or even a diabetic might start peeing substantial amounts of glucose in their urine with a blood sugar of 165 or 70, it might lower it to 120.
+Well, Invokana is a class of drugs called SGLT2 inhibitors. These are things that cause you to pee away glucose. Well, they lower the renal threshold for glucose, which means that where a normal person or even a diabetic might start peeing substantial amounts of glucose in their urine with a blood sugar of 165 or 70, it might lower it to 120.
 
 So that when your blood sugar is 120, you start peeing away a lot of glucose, thereby lowering your blood sugar. There are a host of potential adverse effects from this, because it can dehydrate you, can cause problems if you have kidney disease already. And the medical profession has erroneously called a syndrome that this causes that this can cause diabetic ketoacidosis.
 

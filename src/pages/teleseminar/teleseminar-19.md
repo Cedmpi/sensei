@@ -210,7 +210,7 @@ finger sticks. So it's important to us to not require a lot of blood.
 
 ### Stop the Metformin or the Galvas?
 *Recently diagnosed type 2 with an A1C of 9.7% was put on Metformin 2000 milligrams a day
-and Galvas 50 milligrams. By the way, Galvas is a mixture of vidagliptin, which is an SGL2
+and Galvas 50 milligrams. By the way, Galvas is a mixture of vidagliptin, which is an SGLT2
 inhibitor and Metformin. So it's a mixture of two drugs. And this patient's doctor is giving her
 both a mixture of Metformin and vidagliptin plus additional Metformin. Why?*
 

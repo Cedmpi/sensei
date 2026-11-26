@@ -255,9 +255,9 @@ going to make it better because you're continuing the damage to the collagen and
 tissue in your shoulder. So the game plan should be first control the blood sugars and then you can
 actually normalize the blood sugars and then you can get the frozen shoulder treated.
 
-### You mentioned in your e-book on type 2 diabetes that there is a new medication being developed that would cause the kidneys to excrete glucose at lower blood sugar levels, thereby reducing the level of sugar in your blood before it gets too high. These SGL-2 inhibitors and do they work? [short: Do SGL-2 inhibitors work?]
+### You mentioned in your e-book on type 2 diabetes that there is a new medication being developed that would cause the kidneys to excrete glucose at lower blood sugar levels, thereby reducing the level of sugar in your blood before it gets too high. These SGLT2 inhibitors and do they work? [short: Do SGLT2 inhibitors work?]
 
-Yes, I was talking about SGL-2 inhibitors which are heavily marketed right now. Many claims are
+Yes, I was talking about SGLT2 inhibitors which are heavily marketed right now. Many claims are
 being made for them, for example, that they lower the incidence of heart attacks and things like
 that. I seriously question the claims outside of those relating to blood sugar because anything that
 lowers blood sugar is going to reduce the rate of heart attacks.
@@ -272,7 +272,7 @@ result of these drugs and therefore, I do not use them routinely. I'll use them 
 
 For example, if I have a patient who is a flyer, who flies airplanes and will not be permitted to
 fly if he takes insulin, I might have him on a combination of medications in addition to a very low
-carb diet and exercise and we might have one of these SGL-2 inhibitors along with the other meds,
+carb diet and exercise and we might have one of these SGLT2 inhibitors along with the other meds,
 but we'd have to check frequent hematocrits, electrolyte levels and he'd have to drink a lot of
 water.
 
