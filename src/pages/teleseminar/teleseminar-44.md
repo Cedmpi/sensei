@@ -402,13 +402,6 @@ after the meal.
 Another trick we use for gastroparesis is to mix a little bit of NPH in with the regular to slow
 down the regular. We have a whole chapter on gastroparesis in my book, Diabetes Solution.
 
-### I've looked over your list of prohibited foods as it is overwhelming. Is there a list of what can be eaten? [short: List of what can be eaten]
-
-I suggest you read my book, Diabetes Solution, and it tells you what can be eaten.
-
-In fact, we have a list of about 30 or 35 vegetables, plus many protein foods, eggs, fish, fowl,
-meat, cheese.
-
 ### I just picked up Yoplait Plain Yogurt in the store. The label states that it's made with ultra-filtered milk. The entire container of 150 grams has only 2 grams of carbs. I find it unusual. [short: Yoplait Plain Yogurt]
 
 Well, I looked it up, too, and it said that it had 17 grams of protein in a 3-ounce serving, which
