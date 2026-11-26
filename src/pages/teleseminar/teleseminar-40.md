@@ -115,7 +115,7 @@ the sudden switch to Tresiba.
 Well, first of all, I doubt that eating fat was the cause of the pancreatitis.
 
 The most common cause nowadays in diabetics could be the use of GLP-1 agonists.
-These are medications for type 2 diabetes, and they include Byetta, Victoza, Simlin, and
+These are medications for type 2 diabetes, and they include Byetta, Victoza, Symlin, and
 that's an adverse effect that rarely occurs, but I've seen it in several patients who are
 taking these drugs.
 The pancreatitis reversed when they stopped these drugs.
