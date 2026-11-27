@@ -380,7 +380,7 @@ And I don't know how to predict which patients are going to respond to the coffe
 blood sugars and which are not.
 But I believe what this lady says in her question.
 
-### My new doctor says my diabetes is too controlled with an A1c of 6%.
+### My new doctor says my diabetes is too controlled with an A1C of 6%.
 *I am 68 years old.
 He says it should be above 7 for older people.
 Is this true?*

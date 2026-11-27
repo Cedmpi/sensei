@@ -22,7 +22,7 @@ Medicare will pay for 3 strips a day, is a waste of money and may be harmful in 
 
 The reason they have this article is because there was a report in one of the diabetes journals to
 the effect that for type 2 diabetics, number one, measuring blood sugar doesn't seem to make a
-difference in their hemoglobin A1c, and number two, even though Medicare may pay them to buy strips,
+difference in their hemoglobin A1C, and number two, even though Medicare may pay them to buy strips,
 most of the type 2 diabetics don't use the strips anyway.
 
 In fact, many type 2 diabetics are actually selling the strips that Medicare pays for, selling them
@@ -376,7 +376,7 @@ If you're drinking a lot of alcohol, you're going to prevent this from happening
 prevent the conversion of protein to glucose, and your blood sugar can drop too low. That's the
 likely cause of your new problem.
 
-### I am 38 and a maturity-onset diabetic type 3 (that's a monogenetic defect that affects mostly Eastern European Jews and has its own interesting characteristics). My last A1c was improved down to 4.9%. I follow a low-carb diet, exercise, and take Genvoya 500 mg once every 3 days. I'd like to put a bit more weight on. What would you recommend? [short: How can I gain weight with maturity-onset diabetes?]
+### I am 38 and a maturity-onset diabetic type 3 (that's a monogenetic defect that affects mostly Eastern European Jews and has its own interesting characteristics). My last A1C was improved down to 4.9%. I follow a low-carb diet, exercise, and take Genvoya 500 mg once every 3 days. I'd like to put a bit more weight on. What would you recommend? [short: How can I gain weight with maturity-onset diabetes?]
 
 First of all, I'd recommend that you have your doctor read my book and that he increase the protein
 in your diet. You may not be getting enough.
@@ -400,7 +400,7 @@ You're going to get not only impaired absorption, but depending upon whether you
 sitting or walking, you'll get variable absorption or unpredictable absorption. There's very good
 reasons not to inject into the bottom of your feet.
 
-### Had an A1c of 9 to 10 until a few weeks back (that would be average blood sugars of about 300 mg/dL). Recently I learned about you and your book. The first time in my diabetes life, it's been a few weeks that I have some control over my own blood sugar. I'm running between 70 and 130. I have very low energy, palpation when climbing the stairs or get up quickly. I wonder why I'm now feeling this way. Did I change my diet too rapidly? [short: Why do I feel unwell after lowering my blood sugar?]
+### Had an A1C of 9 to 10 until a few weeks back (that would be average blood sugars of about 300 mg/dL). Recently I learned about you and your book. The first time in my diabetes life, it's been a few weeks that I have some control over my own blood sugar. I'm running between 70 and 130. I have very low energy, palpation when climbing the stairs or get up quickly. I wonder why I'm now feeling this way. Did I change my diet too rapidly? [short: Why do I feel unwell after lowering my blood sugar?]
 
 There are several things that I think of.
 
@@ -496,7 +496,7 @@ So I think that you are lucky that they were trying to keep you between 100 and 
 there for only a few days, it wouldn't kill you and you are lucky they didn't shoot for 300 or just
 give you large amounts of glucose without even measuring your blood sugar.
 
-### My son is almost 3 years old. He just got diagnosed 3 months ago. Can you please give me advice on optimal blood sugar range for three years old? We are also slowly moving for low carbohydrate diet and already see big improvements in his A1c. [short: What blood sugar range is suitable for a 3 year old?]
+### My son is almost 3 years old. He just got diagnosed 3 months ago. Can you please give me advice on optimal blood sugar range for three years old? We are also slowly moving for low carbohydrate diet and already see big improvements in his A1C. [short: What blood sugar range is suitable for a 3 year old?]
 
 Well, first of all, I'd advise you to read my book, Diabetes Solution. I'd advise you to visit the
 website for TypeOneGrit, and see what other parents of diabetic kids are doing and
@@ -516,7 +516,7 @@ way and you'll have the hazard of going too low, so you have to stick in a safet
 You might want to shoot for 120 initially and then as the blood sugars get better controlled due to
 your fine-tuning of diet and insulin, you can eventually shoot for somewhere around 70.
 
-### I've had type 1 diabetes for 28 years. I'm 36 years old and presently have proliferative diabetic retinopathy in both eyes. My A1c is 6.5. With better control and lowering A1c, have you seen severe cases of eye disease been reversed in your patients? [short: Can severe diabetic eye disease be reversed?]
+### I've had type 1 diabetes for 28 years. I'm 36 years old and presently have proliferative diabetic retinopathy in both eyes. My A1C is 6.5. With better control and lowering A1C, have you seen severe cases of eye disease been reversed in your patients? [short: Can severe diabetic eye disease be reversed?]
 
 Yes, I have, but not after they've become blind or near blind. I've repeatedly seen normalization of
 macular edema, proliferative retinopathy, which is the production of small, fragile blood vessels

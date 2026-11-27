@@ -234,7 +234,7 @@ reproductive endocrinologist who can work you up to see what's going on.
 
 ### I would like to know what you think about the recent publication in Nature about reduction in glucose levels with the BCG vaccine. Is this something to be hopeful for? [short: Is the BCG vaccine a hopeful cure?]
 
-In that report, the report that you're referring to, the A1c that was achieved was 6.65, which is an
+In that report, the report that you're referring to, the A1C that was achieved was 6.65, which is an
 average blood sugar of 166, which is double normal.
 
 If the authors claim to have cured diabetes, based on their own numbers, they didn't cure diabetes.
@@ -245,7 +245,7 @@ come out in the past from one laboratory, and when other laboratories try to dup
 they were unable to.
 
 The report of other laboratories came out in the Journal of Science many years ago, maybe it was 10
-years ago. I certainly don't think that an A1c of 6.65 is a cure for diabetes.
+years ago. I certainly don't think that an A1C of 6.65 is a cure for diabetes.
 
 ### Have you examined and analyzed Dr. Steven Grundy's plant paradox diet? What would you endorse and what would you caution against? [short: What do you think of Dr. Grundy's Plant Paradox diet?]
 
@@ -256,7 +256,7 @@ probably to be avoided. Take a look at his website, see what he's selling.
 I might be wrong, he might be selling nothing. He might be just sending you out recipes and charging
 you for them. I don't know, but getting magical results occurs pretty rarely in this day and age.
 
-### 20 years old diagnosed with diabetic gastroparesis. Despite eating only once a day, I still get very bad nausea and feeling of lightness in my chest. I've been diabetic for 6 years and my A1c is 7%. [short: What should I do about gastroparesis nausea?]
+### 20 years old diagnosed with diabetic gastroparesis. Despite eating only once a day, I still get very bad nausea and feeling of lightness in my chest. I've been diabetic for 6 years and my A1C is 7%. [short: What should I do about gastroparesis nausea?]
 
 Right off the bat, this person is doing just the opposite of what someone with gastroparesis should
 be doing. Those of you who listen to my teleseminars know what it is, if you don't know what it is,
@@ -306,7 +306,7 @@ Lantus. The Tresiba is much longer acting than Lantus.
 You might try, let's say you go to bed at 10 p.m., you try taking Tresiba at 10 p.m. and when you
 arise in the morning. And again, read my book.
 
-### After a recent high 8.3 A1c (which is an average blood sugar of about, let's see, 252), I began to follow your diet recommendations with some success. My random blood sugars have improved, however, notice a large spike when I weight lift over 50. When I weight lift, the spike is 50 mg/dL or more. They had pushed me up to 171. My doctor will not prescribe insulin. Is there an alternate way to address the exercise and do spikes? Am I better off to forego the weight training in general or should I accept the spikes? [short: Can I prevent weight-lifting spikes without insulin?]
+### After a recent high 8.3 A1C (which is an average blood sugar of about, let's see, 252), I began to follow your diet recommendations with some success. My random blood sugars have improved, however, notice a large spike when I weight lift over 50. When I weight lift, the spike is 50 mg/dL or more. They had pushed me up to 171. My doctor will not prescribe insulin. Is there an alternate way to address the exercise and do spikes? Am I better off to forego the weight training in general or should I accept the spikes? [short: Can I prevent weight-lifting spikes without insulin?]
 
 My random blood sugars, by the way, here again, is a person who's following the diet recommendations
 but not the whole system for controlling blood sugars.

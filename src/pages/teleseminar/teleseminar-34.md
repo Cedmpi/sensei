@@ -90,7 +90,7 @@ sugars he's ever had have been while he's taking Invokana. So, but he needs very
 he's a type 2 diabetic, and because he needs so little injected insulin, the Invokana makes a
 proportionately greater effect.
 
-### I am a 39 year wold type 1 with hypothyroidism and obese on an insulin pump. I have a suspicion of insulin resistance, and my diabetic team suggested Metformin. A1c is now 7.5 %, which is an average blood sugar of about 200 mg/dL. I exercise twice a week in the hope to lose weight. Is there anything else I can do? [short: What else can I do about insulin resistance?]
+### I am a 39 year wold type 1 with hypothyroidism and obese on an insulin pump. I have a suspicion of insulin resistance, and my diabetic team suggested Metformin. A1C is now 7.5 %, which is an average blood sugar of about 200 mg/dL. I exercise twice a week in the hope to lose weight. Is there anything else I can do? [short: What else can I do about insulin resistance?]
 
 Well, first of all, we find that people who are on insulin pumps are frequently obese because the
 message that both the manufacturers who make the pumps and the physicians who prescribe the pumps
@@ -429,7 +429,7 @@ tricks mentioned in the book. We tried auto-hypnosis, but many patients are not 
 are other experimental techniques that we're investigating right now. We're not yet ready to report
 on them, so read the book because we do attempt to deal with overeating in the book.
 
-### In June 2016, I was diagnosed with type 1 at age 34. I also had my thyroid removed and am on levothyroxine. At my appointment this week after being on a low-carb diet since September, I'm thrilled to share my A1c is 5.0, and I asked my doctor to check my C-peptide, as I remember you saying that this can improve if you get sugars under control quickly. It went from 0.58 at diagnosis to 1.08. I know that I am still in the honeymoon phase, but wondering how long it will continue to make. I will continue to make insulin. I am currently only on three units of Levemir at night. [short: How long will the honeymoon phase last?]
+### In June 2016, I was diagnosed with type 1 at age 34. I also had my thyroid removed and am on levothyroxine. At my appointment this week after being on a low-carb diet since September, I'm thrilled to share my A1C is 5.0, and I asked my doctor to check my C-peptide, as I remember you saying that this can improve if you get sugars under control quickly. It went from 0.58 at diagnosis to 1.08. I know that I am still in the honeymoon phase, but wondering how long it will continue to make. I will continue to make insulin. I am currently only on three units of Levemir at night. [short: How long will the honeymoon phase last?]
 
 I have one patient who's been making insulin for about 30 years who we caught very early and got her
 blood sugars normalized within hours of diet.

@@ -119,12 +119,12 @@ to rather suddenly change everything, change your carb and your insulin or whate
 other medications are at the same time.
 
 If you are writing from the United Kingdom and happen to be in London, I have a patient
-who goes to St. Thomas' Hospital where he has the lowest hemoglobin A1c that any of
+who goes to St. Thomas' Hospital where he has the lowest hemoglobin A1C that any of
 their staff have seen in diabetics and they are so impressed that his physician there
 goes along with whatever he requests.
 
 I can't tell you his last name but if you go to St. Thomas' Hospital and say you want
-the physician who treats Simon with the low A1cs and if you are very lucky, you will get
+the physician who treats Simon with the low A1Cs and if you are very lucky, you will get
 a physician who will cooperate with you.
 
 This is a universal problem.  
@@ -154,7 +154,7 @@ sugar.
 It may be inconvenient but it's pretty dangerous to be scuba diving and not knowing your blood
 sugars.
 
-### My son is 25 years old and has been diabetic for 11 years. His doctor told us to eat what you want but take your insulin dosage to cover as needed. His A1c is now so high, it won't even register and he's already having neuropathy. A new doctor says that within a year, he will be on dialysis if we don't get it under control. When asked how to do all this, all they say is eat better. [short: What do to about high A1c?]
+### My son is 25 years old and has been diabetic for 11 years. His doctor told us to eat what you want but take your insulin dosage to cover as needed. His A1C is now so high, it won't even register and he's already having neuropathy. A new doctor says that within a year, he will be on dialysis if we don't get it under control. When asked how to do all this, all they say is eat better. [short: What do to about high A1C?]
 
 This is a classic case for reading my book, Diabetes Solution.
 

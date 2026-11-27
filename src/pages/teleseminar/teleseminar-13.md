@@ -8,7 +8,7 @@ Hi, this is Dr. Bernstein with our September 2016 Teleseminar. This time around 
 no special subject because we have a large backlog of questions that I'd like to get
 to. So we'll start right off with the first question.
 
-### Why do some people with low hemoglobin A1Cs less than 5.3% get complications? [short: Low HbA1c  less complications]
+### Why do some people with low hemoglobin A1Cs less than 5.3% get complications? [short: Low HbA1C  less complications]
 
 That's a good question. I don't know where you got this information from, but it really depends on how long the A1C is elevated. 5.3 is not low relative to our ancestors. If we look at the people from whom we've evolved over the eons, people who had no agriculture, who had no sugars, could not get sweet foods, they probably were walking around with A1Cs between 4.2 and 4.6. And we do know from a number of studies that the effects of glucose on many systems of the body, including the brain, is a continuous one.
 
@@ -221,7 +221,7 @@ So it's hard to get a precise dose whereas one unit of Novolin-R which is regula
 
 So if NovoRapid is the same as NovoLog, it's too potent for low carbohydrate meals. Also, if you have gastroparesis, it works too fast. So there are lots of potential problems.
 
-### 71-year-old, 5'2 (157 cm), 104 pounds (47 kg). Fasting blood sugars 100-107. A1C 6.0. Avoided sugar for years. Started avoiding carbs. Should I be concerned? [short: Is A1c of 6 concerning? ]
+### 71-year-old, 5'2 (157 cm), 104 pounds (47 kg). Fasting blood sugars 100-107. A1C 6.0. Avoided sugar for years. Started avoiding carbs. Should I be concerned? [short: Is A1C of 6 concerning? ]
 
 Well, sure. Again, it depends on how long you plan to live. You're 71 years old. If you're planning on living 20 years, I'd say you should be very concerned and should seek normal blood sugars.
 

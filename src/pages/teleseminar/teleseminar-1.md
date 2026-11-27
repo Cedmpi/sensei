@@ -305,9 +305,9 @@ There's also Cisapride, which you get from Canada, which may also work or help.
 
 Next question.
 
-### Formula for converting A1c to blood sugar [short: A1c to blood sugar conversion]
+### Formula for converting A1C to blood sugar [short: A1C to blood sugar conversion]
 
-Dr. Bernstein's formula for converting A1c to blood sugar,and he gives not my formula,
+Dr. Bernstein's formula for converting A1C to blood sugar,and he gives not my formula,
 but a formula that was scientifically developed by a research team about 15 or so years ago,
 and it was published in Diabetes Care, and I use that formula, it's not mine, I use it.
 According to the ADA, the formula is, and he gives the ADA formula, why such wide discrepancy?
@@ -318,7 +318,7 @@ that ran chronically low to support their research.
 
 The drug company paid the investigators a very large sum of money to use their meter.
 The net result was that they got a lot of low blood sugars lower than they really were,
-and they measured the A1c's, and for example, they'd say that an A1c of 7 might be 140,
+and they measured the A1C's, and for example, they'd say that an A1C of 7 might be 140,
 where in reality a 7 might correspond to an average blood sugar of 180.
 
 So where'd they get the 140 from? From the meter that reads too low.

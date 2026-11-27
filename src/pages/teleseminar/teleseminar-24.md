@@ -453,14 +453,14 @@ we recommend in my book and also low carbohydrate diet.
 
 well those who are diagnosed with prediabetes frequently have diabetes.
 
-For example they'll say that someone with an A1c of 5.9 is prediabetic, well that's
+For example they'll say that someone with an A1C of 5.9 is prediabetic, well that's
 an average blood sugar, an average of 136 mg/dL.
 
 To me as a physician I would treat that patient as if you were diabetic and I would do whatever
-is necessary to get his A1c down and to get his blood sugars all around 83 mg/dL if it's an adult.
+is necessary to get his A1C down and to get his blood sugars all around 83 mg/dL if it's an adult.
 
 Now if they're prediabetic based upon genetics that is they have family who are diabetic
-or the patient is overweight or physically inactive if there are other reasons than A1c
+or the patient is overweight or physically inactive if there are other reasons than A1C
 and blood sugar for calling him prediabetic then I'd recommend diet, exercise if necessary
 weight loss and even there's always the possibility of even using things like Glucophage XR which
 lowers insulin resistance and can facilitate weight loss also for some people reduces appetite.
@@ -632,11 +632,11 @@ And some physicians have protocols where
 they use melatonin at certain times of the day in certain doses to facilitate falling asleep more
 easily.
 
-### Do you ever recommend type 2 drugs off-label for your type 1 patients like a DPP4 SGLT2 inhibitor?
+### Do you ever recommend type 2 drugs off-label for your type 1 patients like a DPP-4 SGLT2 inhibitor?
 
 Well yes and no. Certain of these products have problems associated with them.
 
-The GLP1 agonists are very helpful in controlling appetite and I've used these a lot for type 1
+The GLP-1 agonists are very helpful in controlling appetite and I've used these a lot for type 1
 patients. One problem is that over time many people become tolerant to the appetite effects.
 
 The effects directly on blood sugar are quite small and minuscule in comparison to injected
@@ -647,9 +647,9 @@ of adverse effects, in my experience that I'm loath to use them. I avoid using t
 accelerate dehydration that patients then get all kinds of symptoms of dehydration. I've seen people
 who never had urinary tract infections get urinary tract infections etc. etc.
 
-The DPP4 inhibitors
-don't seem to have as much of an effect on appetite as the GLP1 agonists. They suppose
-theoretically increase the level of GLP1 but in practice they have very little effect on appetite
+The DPP-4 inhibitors
+don't seem to have as much of an effect on appetite as the GLP-1 agonists. They suppose
+theoretically increase the level of GLP-1 but in practice they have very little effect on appetite
 and they do have their own set of adverse effects and until recently there were some indications
 that they increase the incidence of heart attacks.
 

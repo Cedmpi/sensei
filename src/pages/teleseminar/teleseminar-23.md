@@ -164,7 +164,7 @@ work your way up to twice as much.
 You shouldn't be looking at ketones.
 You should be looking at blood sugars.
 
-It's interesting that you didn't mention his hemoglobin A1c.
+It's interesting that you didn't mention his hemoglobin A1C.
 Again, like many endocrinologists, you're not paying attention to blood sugar and only
 looking at ketones when you should be looking at blood sugars.
 And if the blood sugars are normal, not looking at all at ketones.
@@ -310,7 +310,7 @@ my blood sugar to zero. So don't believe this propaganda.
 ### When do you do a correction shot of insulin if your blood sugars are too high? At what level would you take a correction dose? And do you use any formula to adjust for onboard insulin? [short: When to give a correction shot, and what formula?]
 
 Well, all of this is
-covered in my book, Diabetes Solution. Those who get an A1c under 5 do not add corrections onto
+covered in my book, Diabetes Solution. Those who get an A1C under 5 do not add corrections onto
 corrections. They allow the prior doses of insulin to work before they make another correction.
 
 It's playing it safe and it prevents the wild blood sugar swings that you're going to get
@@ -438,14 +438,14 @@ go into clinical trials, I would say clinical trials would be 10 to 15 years awa
 maybe 20 years away, maybe 15 years away. Those are all my guesses. I could be totally
 wrong. Someone might come up with something magical.
 
-### Diagnosed type 1 last January, age 54. Exercised regularly. Went on the paleo diet and decreased my A1c from 13 down to 6. My doctor thinks it is honeymoon period. Is there any way to tell if this is honeymoon period or due to my changing lifestyle? [short: Honeymoon period or a lifestyle change?]
+### Diagnosed type 1 last January, age 54. Exercised regularly. Went on the paleo diet and decreased my A1C from 13 down to 6. My doctor thinks it is honeymoon period. Is there any way to tell if this is honeymoon period or due to my changing lifestyle? [short: Honeymoon period or a lifestyle change?]
 
 Well, first of all, although I would advocate a
 true paleo diet, that is a meal plan that mimicked what our ancient prehistoric ancestors
 ate, the paleo diets that are being marketed today are high in carbohydrates. They're high
 in fruit.
 
-You got your A1c down to 6, which is still an average blood sugar of 140, which
+You got your A1C down to 6, which is still an average blood sugar of 140, which
 is almost double normal. I doubt that you're going to do much better on a regular paleo
 diet. I suggest that you read my book, Diabetes Solution.
 

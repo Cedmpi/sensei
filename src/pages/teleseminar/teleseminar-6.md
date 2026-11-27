@@ -539,9 +539,9 @@ own products by many of the manufacturers the people who design the
 products aren't the people who use them.
 
 ###  Type 1 or type 2 diabetes?
-*I recently had these blood tests insulin C-peptide (0.67) and hemoglobin a1c (11.9), would these numbers represent type 1 or type 2 diabetes?*
+*I recently had these blood tests insulin C-peptide (0.67) and hemoglobin A1C (11.9), would these numbers represent type 1 or type 2 diabetes?*
 
-The hemoglobin a1c by the way was 11.9
+The hemoglobin A1C by the way was 11.9
 which is something like an average of around 340 mg/dL
 Well the C-peptide which is a measure of the amount of insulin
 you're making is well it really depends upon when you ate and what your blood
@@ -601,7 +601,7 @@ studies and seeing that these people had very abnormal tests for autonomic
 neuropathy and that they had other signs of neuropathy and I don't think I found
 one case of erectile dysfunction due to a psychiatric ailment.
 
-### Aside from the H hemoglobin a1c test is there any other test for estimating blood sugar [short: Test for blood sugar estimation]
+### Aside from the H hemoglobin A1C test is there any other test for estimating blood sugar [short: Test for blood sugar estimation]
 
 Well the
 best test is to test your blood sugar with a good meter and use one of the
@@ -610,7 +610,7 @@ the fructosamine test and there's the
 glycated albumin test
 
 these are other glycosylated proteins that have
-half-lives much shorter than the a1c so they will reflect the average blood
+half-lives much shorter than the A1C so they will reflect the average blood
 sugar over let's say the past two weeks where they are of value is in pregnancy
 where the blood sugar status or the severity of the diabetes may be changing
 every week in the pregnant woman or every two weeks and you want to track
@@ -624,7 +624,7 @@ don't have numbers that correlate glucosamine or glycated albumin with
 blood sugar so we can't really say what the average blood sugar was.
 
 ###  Fasting and low carb weight loss
-*72 year old with an a1c of 5.6% type 2 on metformin.
+*72 year old with an A1C of 5.6% type 2 on metformin.
 What are
 your thoughts on fasting two days a week and using your diet for five days a week
 to prevent being diagnosed with diabetes and to lose 25 pounds and get rid of
@@ -634,7 +634,7 @@ Now right away I always ask are you
 getting generic metformin or the real stuff the glucophage because we find
 that the generic metformins don't work nearly as well as the glucophage
 
-Well if this person is has an a1c of 5.6 which is an average blood
+Well if this person is has an A1C of 5.6 which is an average blood
 sugar of 124 is already on a low carbohydrate diet and is already taking
 metformin this person is probably a type 2 diabetic if she is not on a low
 carb diet she should read my book and should be on a low carb diet and it's a

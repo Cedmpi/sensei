@@ -121,7 +121,7 @@ blood sugars are more predictable and more stable.
 
 So we get more predictability with the birth control pills. It's trial and error.
 
-### How do you treat LADA diabetes (that's latent autoimmune diabetes of adults), when the patient is continuing to lose weight? A1c is 5.5, insulin levels are low, patient is 67 years old, bone-thin woman. There is limited information in your book about this type of diabetes. [short: How can someone with LADA gain weight?]
+### How do you treat LADA diabetes (that's latent autoimmune diabetes of adults), when the patient is continuing to lose weight? A1C is 5.5, insulin levels are low, patient is 67 years old, bone-thin woman. There is limited information in your book about this type of diabetes. [short: How can someone with LADA gain weight?]
 
 The same guidelines that we would use for any form of diabetes would be applicable here and that
 would be protein plus insulin.
@@ -261,7 +261,7 @@ My hypothyroidism came on about five years after I developed diabetes. For anoth
 be 25 years after they developed diabetes, or they might become hypothyroid prior to the development
 of diabetes.
 
-### I am a male LADA type 1.5 diabetic, my A1c is 7.2, so that's pretty high, diagnosed three years ago at age 44. I went on a pump and insulin shortly after, but I've had terrible side effects, such as shortness of breath, facial and throat swelling, visual disturbances, and migraines and body aches since starting on insulin. I've tried all of the short and long-acting insulins, but I'm having worse and worse reactions. It is very scary, and my doctors don't know what to do. Allergists, endos, cardiologists, ENTs, et cetera. How do I get my immune system to calm down? [short: How can I manage insulin reactions?]
+### I am a male LADA type 1.5 diabetic, my A1C is 7.2, so that's pretty high, diagnosed three years ago at age 44. I went on a pump and insulin shortly after, but I've had terrible side effects, such as shortness of breath, facial and throat swelling, visual disturbances, and migraines and body aches since starting on insulin. I've tried all of the short and long-acting insulins, but I'm having worse and worse reactions. It is very scary, and my doctors don't know what to do. Allergists, endos, cardiologists, ENTs, et cetera. How do I get my immune system to calm down? [short: How can I manage insulin reactions?]
 
 I object to the terms type 1.5, and I think LADA is overused.
 It seems like doctors like to use the term LADA for any person
@@ -378,7 +378,7 @@ Well, the goal should be to normalize blood sugar, not to get rid of medications
 and my diet alone may not be enough. A low-carbohydrate diet, in my experience, is the biggest thing
 we could do.
 
-Let's say a patient has an A1c of 13. You might get the A1c from 13 down to 9 with just diet, but
+Let's say a patient has an A1C of 13. You might get the A1C from 13 down to 9 with just diet, but
 then to get it from 9 down to 4.9, you might need medications, so you do whatever it takes to get
 the blood sugars down in a safe fashion, and I suggest you read the book for the guidelines.
 

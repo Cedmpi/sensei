@@ -573,7 +573,7 @@ It has nothing to do with pancreatic cancer.
 It's not like Lantus insulin, and Metformin has nothing to do with pancreatic cancer.
 
 In fact, there are some studies that show that it reduces the incidence of cancer.
-He says that his A1c is 7.4, which is an average blood sugar of 196, and I would suggest that
+He says that his A1C is 7.4, which is an average blood sugar of 196, and I would suggest that
 you get your blood sugar way down, read my book, Diabetes Solution.
 Having such high blood sugars is going to wreak major havoc in your life sooner or later.
 

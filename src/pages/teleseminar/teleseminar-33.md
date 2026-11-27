@@ -41,7 +41,7 @@ probably found on their website. The actual article would be found on the [websi
 
 Now to our first question.
 
-### I'd like to get your input on wound healing for Type 1 diabetes. It seems my wounds heal slower and tend to leave scars. Is there anything you could recommend besides reducing my hemoglobin A1c? [short: How can I improve wound healing?]
+### I'd like to get your input on wound healing for Type 1 diabetes. It seems my wounds heal slower and tend to leave scars. Is there anything you could recommend besides reducing my hemoglobin A1C? [short: How can I improve wound healing?]
 
 Well, this is a difficult question for me to answer because I served in the wound care clinic of a
 major medical center for 30 plus years, and I was director of the clinic for about 7 years. So
@@ -141,7 +141,7 @@ can't unless I use diluted Humalog. I can estimate a quarter of a unit of regula
 unit of Humalog will still lower me by 30. So I would use diluted Humalog if I wanted to use a faster
 insulin. And indeed, I use diluted Humalog for many of my patients.
 
-### My blood sugar is two to three times a day over 200 mg/dL. But not for a long time because I take insulin and bring it to a normal level. But this blood sugar scares me. My doctor says there is not a problem when blood sugar is high for a short time. But every day, my hemoglobin A1c is always good. Maybe because my sugar is often 50 to 60 mg/dL. [short: Are daily highs over 200 dangerous?]
+### My blood sugar is two to three times a day over 200 mg/dL. But not for a long time because I take insulin and bring it to a normal level. But this blood sugar scares me. My doctor says there is not a problem when blood sugar is high for a short time. But every day, my hemoglobin A1C is always good. Maybe because my sugar is often 50 to 60 mg/dL. [short: Are daily highs over 200 dangerous?]
 
 Well, if you're getting... This could be a type 2 diabetic. Probably has not read my book because
 the book does indicate that blood sugar variations might be potentially more long-term hazardous
@@ -274,14 +274,14 @@ To work on the Lp(a), there are some supplements that supposedly reduce it. Also
 female and menopausal, taking estrogen can lower the Lp(a), or if you're female and had your
 ovaries removed, and that's why your Lp(a) is elevated, estrogen replacement can lower the Lp.
 
-### 60 year old female, newly diagnosed, pre-diabetic, with A1c of 7.3. I'm not sure why I'm not diagnosed as diabetic. Without medication, in 3 months, my A1c is 5.3% by diet. Food consumption is 16% carbs, 83 grams. I'm slowly cutting back on carbs to reach a blood level of 83. What should I do when I get dizzy by cutting carbs? [short: What should I do when cutting carbs makes me dizzy?]
+### 60 year old female, newly diagnosed, pre-diabetic, with A1C of 7.3. I'm not sure why I'm not diagnosed as diabetic. Without medication, in 3 months, my A1C is 5.3% by diet. Food consumption is 16% carbs, 83 grams. I'm slowly cutting back on carbs to reach a blood level of 83. What should I do when I get dizzy by cutting carbs? [short: What should I do when cutting carbs makes me dizzy?]
 
 Now 7.3 is an average blood sugar of something like 190 mg/dL. That's clearly
 grossly diabetic. I don't know what kind of doctor told you that you were a pre-diabetic.
 
 Well, you're smarter than a doctor.
 
-So this person cut her carb apparently and got her A1c way down. It's only slightly elevated, an
+So this person cut her carb apparently and got her A1C way down. It's only slightly elevated, an
 average blood sugar of 112.
 
 First of all, you should read my book, Diabetes Solution, and it'll tell you to check your blood
@@ -408,7 +408,7 @@ non-diabetic.
 ### I've been fasting now for eight days. No food at all, just water. My blood sugar is 95, and in the morning 100. Where is all the glucose coming from? How is it possible to lower my fasting glucose to 83? [short: Where is glucose coming from during fasting?]
 
 I would suggest that you read my book. I assume that you haven't been diagnosed as diabetic, but if
-your fasting is 100, it could be that you're mildly diabetic. You could check your hemoglobin A1c.
+your fasting is 100, it could be that you're mildly diabetic. You could check your hemoglobin A1C.
 If it's over 5, you probably have very early diabetes. You could also take a look at your blood
 sugar after meals. That's the most important time to check. So I'd suggest, aside from reading my
 book, the first thing you do is check your blood sugar after meals.
@@ -469,7 +469,7 @@ You could try it and see it's been supposedly used successfully in very high int
 treat neuropathies, but it's so much easier to have normal blood sugars and use that which we know
 for sure reverses neuropathies than to go after something magical and hope.
 
-### Type 1 for 50 years. I gained weight in the past few years, 245 from 180 pounds (81.6 kg to 111 kg). In past few weeks, I've gotten A1c to 5.3 from 6.9 with goal of 4.5. Would you recommend generally for long term Type 1 Victoza for weight loss to help to deal with carb cravings? [short: Would Victoza help with weight loss?]
+### Type 1 for 50 years. I gained weight in the past few years, 245 from 180 pounds (81.6 kg to 111 kg). In past few weeks, I've gotten A1C to 5.3 from 6.9 with goal of 4.5. Would you recommend generally for long term Type 1 Victoza for weight loss to help to deal with carb cravings? [short: Would Victoza help with weight loss?]
 
 This is another survivor.
 
@@ -486,7 +486,7 @@ Some people find that the
 Victoza helps curb their overeating indefinitely, so it's certainly worth trying, but I would read
 the book about treating your diabetes and your likely gastroparesis.
 
-### Recently diagnosed with advanced proliferative retinopathy, pursuing aggressive treatment with a retinal specialist, I also work to bring down blood sugars. My question is how to bring them down safely. A1c currently 8.5 (which is a pretty high average blood sugar). Endocrinologist wants them down to 7.5 in a month, but I worry that's too fast. [short: How fast should I lower my A1c with retinopathy?]
+### Recently diagnosed with advanced proliferative retinopathy, pursuing aggressive treatment with a retinal specialist, I also work to bring down blood sugars. My question is how to bring them down safely. A1C currently 8.5 (which is a pretty high average blood sugar). Endocrinologist wants them down to 7.5 in a month, but I worry that's too fast. [short: How fast should I lower my A1C with retinopathy?]
 
 Ernst Chantelau in Dusseldorf discovered a number of years ago that diabetic patients who had
 proliferative retinopathy and simultaneously elevated IGF-1 levels in their blood, insulin-like
@@ -494,7 +494,7 @@ growth factor number one, would get more severe retinopathy if they rapidly brou
 sugars.
 
 The first thing I would recommend is that you have your doctor check your IGF-1 level. If it's
-elevated, I would say that you bring down your blood sugar slowly, but A1c of 7.5 is not a normal
+elevated, I would say that you bring down your blood sugar slowly, but A1C of 7.5 is not a normal
 blood sugar and will certainly predispose to proliferative retinopathy and also macular edema. 7.5
 corresponds to an average blood sugar of about 190 mg/dL, which is more than double
 normal.

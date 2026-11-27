@@ -51,12 +51,12 @@ to glucose as needed and you could cover it with small doses of insulin.
 
 Our first question
 
-### I have lower extremity neuropathy that started with numbness and has now progressed to coldness. I'm 65, my body mass index is 31 (which is elevated). Never had diabetes, A1c is 5.5 (which is an average blood sugar of about 120) and I have no other medical problems. Nerve conduction studies show definite neuropathy and the neurologist said it was diabetic. Why will weight loss relieve his neuropathy? [short: Why will weight loss relieve my neuropathy?]
+### I have lower extremity neuropathy that started with numbness and has now progressed to coldness. I'm 65, my body mass index is 31 (which is elevated). Never had diabetes, A1C is 5.5 (which is an average blood sugar of about 120) and I have no other medical problems. Nerve conduction studies show definite neuropathy and the neurologist said it was diabetic. Why will weight loss relieve his neuropathy? [short: Why will weight loss relieve my neuropathy?]
 
 So he's a bit obese. So I would call it mild diabetes. So he's wondering.
 
 Well there are several theories that I could think of as to why he has neuropathy. One could be that
-for years he's had an elevated A1c and he only got it down with a low carbohydrate diet perhaps
+for years he's had an elevated A1C and he only got it down with a low carbohydrate diet perhaps
 recently and that could have caused neuropathy or he could have had a deficiency syndrome, he could
 have been deficient in one of many vitamins that can cause neuropathy if you don't get enough of
 them.
@@ -142,7 +142,7 @@ tissue prevents predictable absorption of insulin. So you get inconsistent absor
 inevitable with long term pump therapy. Some people can get away without the scar tissue for the
 first year or so but eventually it comes and is a real problem.
 
-### Is it better to take 1 mg of glimepiride (that's sulfonylurea), and target an A1c of 5 or not take the glimepiride and then the A1c is about 6.2. [short: Is glimepiride better than a higher A1c?]
+### Is it better to take 1 mg of glimepiride (that's sulfonylurea), and target an A1C of 5 or not take the glimepiride and then the A1C is about 6.2. [short: Is glimepiride better than a higher A1C?]
 
 Again, I'd suggest you read my book, Diabetes Solution. Glimepiride is a sulfonylurea. The
 sulfonylureas have been shown to have adverse cardiac effects and also have been associated with
@@ -150,7 +150,7 @@ hypoglycemia but are more concerned with the cardiac effects.
 
 You might be better off with metformin or I should say glucophage or avandia or even a combination
 of glucophage and avandia. Even the possibility of insulin in order to avoid a sulfonylurea drug. I
-don't recommend a higher hemoglobin A1c. That certainly would increase your risk of heart disease.
+don't recommend a higher hemoglobin A1C. That certainly would increase your risk of heart disease.
 
 ### What is your position with respect to seeds? For example, chia seeds, sesame seeds, et cetera. [short: Are seeds okay to eat?]
 
@@ -328,8 +328,8 @@ two days in a row that you'd get slightly different numbers, which is what happe
 not certain.
 
 So you have to contact the radiologist. You also might want to know what's happened to your blood
-sugars in the past year and what's happened to your A1c. If you started off with a very high A1c and
-came down to a high but lesser A1c, you're still damaging your arteries.
+sugars in the past year and what's happened to your A1C. If you started off with a very high A1C and
+came down to a high but lesser A1C, you're still damaging your arteries.
 
 ### Sixty-seven-year-old female. One of my exercise routines is to swim for one hour at a moderately demanding pace. I give my daily Lantus 10 units at 12 noon. I give my pre-swim Novalog 4 units at 7.30 a.m. Some days my BG drops 100 during the swim. Other days it stays constant. Other days it goes up by as much as 70. I have not yet identified the reason for the difference, which may be pre-swim meals or how strenuously I exercise. [short: Why does my blood sugar vary during swimming?]
 
@@ -479,7 +479,7 @@ I'm sorry that I've answered so many questions from people who have not read my 
 more careful in the future.
 
 
-### I would like to know what makes a type 1 have itchy skin? Comes in different areas of my body. My A1c is 5.4 for the last couple of years. [short: What causes itchy skin in type 1 diabetes?]
+### I would like to know what makes a type 1 have itchy skin? Comes in different areas of my body. My A1C is 5.4 for the last couple of years. [short: What causes itchy skin in type 1 diabetes?]
 
 My guess is that you have psoriasis. Almost 100% of my diabetic patients have psoriasis, and
 psoriasis causes itching, and it can itch anywhere in the body.
@@ -534,7 +534,7 @@ have a system that uses a follower, and I need a follower or want a follower.
 
 Is there a payoff somewhere along the line? Very possibly.
 
-### Type 1 diabetic, last A1c 4.7, an Oreo type cookie every one-half hour during moderate physical labor keeps my blood sugar flat. Why does the same cookie increase my blood sugar randomly between 10 and 40 points when I'm not doing physical labor, whereas the same amount of pure glucose predictably increases it by 15 points? [short: Why does the same cookie affect my blood sugar differently?]
+### Type 1 diabetic, last A1C 4.7, an Oreo type cookie every one-half hour during moderate physical labor keeps my blood sugar flat. Why does the same cookie increase my blood sugar randomly between 10 and 40 points when I'm not doing physical labor, whereas the same amount of pure glucose predictably increases it by 15 points? [short: Why does the same cookie affect my blood sugar differently?]
 
 My guess is that you have gastroparesis. Unfortunately the digestion of the cookies is happening at
 different rates, and that's my guess. I could be totally wrong. You can have your doctor do an RR

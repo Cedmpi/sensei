@@ -152,7 +152,7 @@ and want blood sugars to be high, and there you might speak frankly with your do
 that you know that high blood sugars cause the complications of diabetes. Why does she want your
 blood sugars to be high, if that's the case?
 
-### Type 1 for 30 years, I've read your book and I brought my A1c down to 4.6 (which is normal). I recently noticed the change in my metabolism, slowing down and struggled for months to stabilize. What advice do you have for women to make the transition to menopause easier? [short: Advice do you have for menopause transition?]
+### Type 1 for 30 years, I've read your book and I brought my A1C down to 4.6 (which is normal). I recently noticed the change in my metabolism, slowing down and struggled for months to stabilize. What advice do you have for women to make the transition to menopause easier? [short: Advice do you have for menopause transition?]
 
 I don't know how this person knows that.
 
@@ -234,7 +234,7 @@ etc.
 It's not a simple matter and the treatment is based upon what your blood sugars are over the course
 of the day, throughout the day at different times. So the most important thing is the blood sugar.
 
-You could also look at the hemoglobin A1c which gives you a rough idea of what your average blood
+You could also look at the hemoglobin A1C which gives you a rough idea of what your average blood
 sugar has been over the past three or four months but it doesn't tell you – give you clues as to
 what to do about it.
 
@@ -276,7 +276,7 @@ carb diet and exercise and we might have one of these SGLT2 inhibitors along wit
 but we'd have to check frequent hematocrits, electrolyte levels and he'd have to drink a lot of
 water.
 
-### Type 2 male, I've been on the low carb diet and max dose of Glucophage for the last 5 years. I lowered my A1c from 15.6 to 7 (15.6 is about the highest hemoglobin A1c I ever heard of). Two months ago, I started taking 16 units a day of regular insulin to cover my meals. My BG is between 78 and 90 all the time. If I maintain normal blood sugar, will my high Lp(a) normalize? How long might it take? [short: Will Lp(a) normalize with normal blood sugar?]
+### Type 2 male, I've been on the low carb diet and max dose of Glucophage for the last 5 years. I lowered my A1C from 15.6 to 7 (15.6 is about the highest hemoglobin A1C I ever heard of). Two months ago, I started taking 16 units a day of regular insulin to cover my meals. My BG is between 78 and 90 all the time. If I maintain normal blood sugar, will my high Lp(a) normalize? How long might it take? [short: Will Lp(a) normalize with normal blood sugar?]
 
 Lp(a) is what's amongst other things is an acute phase reactant. It goes up when you have
 inflammation in the body. Inflammation can be caused by a host of things. It could be from
@@ -306,7 +306,7 @@ So if you're a type 1 diabetic, any carbohydrate they eat is going to raise your
 she's in effect done the calculations for me without knowing it and you can see that she's getting
 what she should expect.
 
-### I reduced my carb intake, A1c down to 5.7, once daily finger stick before dinner anywhere between 94 and 112, was 178 pounds, now 162 (80.7 to 73.5 kg). Doctor tried to put me on Metformin. I am trying to hold off on taking any medication, wondering if you think this is a good idea, always wondering how long I can hold off. [short: Should I hold off on Metformin?]
+### I reduced my carb intake, A1C down to 5.7, once daily finger stick before dinner anywhere between 94 and 112, was 178 pounds, now 162 (80.7 to 73.5 kg). Doctor tried to put me on Metformin. I am trying to hold off on taking any medication, wondering if you think this is a good idea, always wondering how long I can hold off. [short: Should I hold off on Metformin?]
 
 Well Metformin years ago before it became available in the USA was touted as the fountain of youth
 that it would extend the lives of non-diabetics who took Metformin and there have been found a
@@ -318,7 +318,7 @@ malabsorption of vitamin B12 but there are ways around that.
 
 So I don't think that there's strong reason to avoid the Metformin and this person is checking blood
 sugar before dinner. He should be checking one or two hours after dinner and I'm willing to bet that
-his blood sugars are much higher than he's stated or than it is before and an A1c of 5.7 is an
+his blood sugars are much higher than he's stated or than it is before and an A1C of 5.7 is an
 average blood sugar of about 128 but in all likelihood he's going much higher and also lower than
 128 and averaging 128.
 
@@ -350,7 +350,7 @@ If you're asking for how much weight of vegetables, I can't do it over the teles
 take a lot to write a new book I probably do not have time for right now, I'm certain I don't have
 time for.
 
-### Cleaning up chronic DVTs with your diabetic diet. My dad is 68, diabetic since 27 and was told that he has chronic non-symptomatic clots in his legs and abdomen. I have gotten him eating low carb, reduced overall insulin needs, reduced A1c, last was 8.1 (which is pretty high, that's an average blood sugar of, let's see, about 220 mg/dL, so it's like two and a half times normal) and he lost 26 pounds (11.8 kg). My goal is to get him more active but he is always fatigued. On your diet, help clear up these boulders, that's as the vascular surgeon calls them. [short: Can a low-carb diet clear chronic DVTs?]
+### Cleaning up chronic DVTs with your diabetic diet. My dad is 68, diabetic since 27 and was told that he has chronic non-symptomatic clots in his legs and abdomen. I have gotten him eating low carb, reduced overall insulin needs, reduced A1C, last was 8.1 (which is pretty high, that's an average blood sugar of, let's see, about 220 mg/dL, so it's like two and a half times normal) and he lost 26 pounds (11.8 kg). My goal is to get him more active but he is always fatigued. On your diet, help clear up these boulders, that's as the vascular surgeon calls them. [short: Can a low-carb diet clear chronic DVTs?]
 
 Well, a DVT is a deep vein thrombosis and I don't quite understand how my diet is going to reverse
 deep vein thrombosis. These are plots in deep veins.
@@ -448,13 +448,13 @@ Now most doctors don't give Metformin for type 1 diabetes but I use it for a num
 type 1 diabetics and also for special other situations with type 1 diabetics but you should ask your
 doctor to have this study.
 
-### I am a newly diagnosed LADA, latent autoimmune diabetes of adulthood. With a hemoglobin A1c of 9.6, should I go on insulin or should I try a radical diet at this stage? [short: Should I go on insulin or try a radical diet?]
+### I am a newly diagnosed LADA, latent autoimmune diabetes of adulthood. With a hemoglobin A1C of 9.6, should I go on insulin or should I try a radical diet at this stage? [short: Should I go on insulin or try a radical diet?]
 
 As I pointed out before I think this condition is being over diagnosed. The people whom I've seen
 with type 1 diabetes developed at a later age usually just had plain type 1 diabetes and there was
 nothing special about it.
 
-A1c is an average blood sugar of 280 mg/dL so my guess is that unless you're eating a lot of sweet foods,
+A1C is an average blood sugar of 280 mg/dL so my guess is that unless you're eating a lot of sweet foods,
 you're going to need insulin and I suggest that you read my book. If you want to go to a low carb
 diet and you're already on a high carb diet, you go for a few days and you should see a dramatic
 drop of your blood sugars and if your blood sugars come down to normal just by cutting out all the
@@ -469,7 +469,7 @@ I think that you should do whatever it takes to keep blood sugars absolutely nor
 basically it. If the diet and the metformin give you normal blood sugars around the clock, fine but
 if they don't, you should read the book and there are many options for type 2 diabetes.
 
-### My son 10 years old just hit his one year since his diagnosis. We needed insulin for the first couple of weeks and then started low carb and healthy eating and have not needed insulin for almost a year. A1c was 8.5 at diagnosis. Have you heard of people being type 1 and not needing insulin? He has the antibody for type 1. All his doctors mentioned possibly having MODY (maturity onset diabetes of youth) but then told us no because of the present antibody. A1c now 5.2 (it's an average blood sugar around 108), ranges between 4.8 and 5.2. [short: Can a type 1 child not need insulin?]
+### My son 10 years old just hit his one year since his diagnosis. We needed insulin for the first couple of weeks and then started low carb and healthy eating and have not needed insulin for almost a year. A1C was 8.5 at diagnosis. Have you heard of people being type 1 and not needing insulin? He has the antibody for type 1. All his doctors mentioned possibly having MODY (maturity onset diabetes of youth) but then told us no because of the present antibody. A1C now 5.2 (it's an average blood sugar around 108), ranges between 4.8 and 5.2. [short: Can a type 1 child not need insulin?]
 
 I would do whatever it takes to keep blood sugars normal and for 10 year old kids, normal blood
 sugars are in the 70s, not 108. So this kid is running about 40% above normal.

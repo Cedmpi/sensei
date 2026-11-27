@@ -200,7 +200,7 @@ recommending low carb and pushing whole grains, fruits, and other high carb food
 So it could be that you should read my books
 and use the kind of low carb diet that we advocate.
 
-### I'm a type 1 very brittle diabetic. I'm a brittle diabetic since I was 12 years old. I'm now 47. A1c is currently 8.1. What should I do? [short: What todo about brittle diabetes and A1c of 8.1?]
+### I'm a type 1 very brittle diabetic. I'm a brittle diabetic since I was 12 years old. I'm now 47. A1C is currently 8.1. What should I do? [short: What todo about brittle diabetes and A1C of 8.1?]
 
 Now, when I hear the term very brittle, I right away challenge it
 because aside from gastroparesis or infections,
@@ -215,7 +215,7 @@ So back to the question.
 So this person is a survivor.
 
 Well, 8.1 is an average blood sugar of about 220 mg/dL.
-And I might point out, don't use the ADA's translation of A1c to blood sugar.
+And I might point out, don't use the ADA's translation of A1C to blood sugar.
 It's not correct.
 
 Anyway, read my book. It tells you how to normalize your blood sugars.
@@ -316,7 +316,7 @@ My guess is if people are experiencing weight gain that they're getting too much
 Remember that most diabetics are getting too much basal insulin.
 Sometimes they're getting twice as much as they really need.
 
-### What prognosis do you foresee for prediabetics who can keep A1C blood sugars under 5 with 80 grams of carbs per day? [short: Prognosis for prediabetics keeping A1c under 5 on 80 grams of carbs?]
+### What prognosis do you foresee for prediabetics who can keep A1C blood sugars under 5 with 80 grams of carbs per day? [short: Prognosis for prediabetics keeping A1C under 5 on 80 grams of carbs?]
 
 Well, I guess this is a person who's eating 80 grams of carbs per day and is keeping his or her A1C under 5.
 
@@ -433,7 +433,7 @@ It could be that you should be on insulin. I don't know.
 A type 1 diabetic who's not getting enough basal insulin might go up after exercise at any time of the day.
 So there's not enough history here to really figure out what's going on.
 
-### Type 1 female for 24 years. A1C since diagnosis never really has reflected blood glucose levels. And it has always been lower than expected, judging from blood sugars. Currently at 4.4% with average blood sugar on the meter 131. What could be the cause of such a low A1C? [short: Why is my A1c so low compared with my blood sugars?]
+### Type 1 female for 24 years. A1C since diagnosis never really has reflected blood glucose levels. And it has always been lower than expected, judging from blood sugars. Currently at 4.4% with average blood sugar on the meter 131. What could be the cause of such a low A1C? [short: Why is my A1C so low compared with my blood sugars?]
 
 Fructosamine, that's another way of measuring average blood sugar. It's a two-week moving average.
 Fructosamine is more reliable and when converted shows a significant discrepancy from A1C.

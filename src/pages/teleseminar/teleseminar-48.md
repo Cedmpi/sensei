@@ -51,7 +51,7 @@ on him, so I guess at an answer based on my knowledge of other people. My answer
 apply to Mr. Y and might not even apply to Mr. X, but might apply to the other guy who didn't ask a
 question.
 
-### I'm a 63 year old male who exercises regularly, lifts weight, and wants to lower his A1c, which is currently at 5.8%. I have cut out added sugars as much as possible and recently cut way down on carbs. Problem is I don't want to lose any more weight. What diet should I follow to accomplish both goals? [short: What diet can lower A1C without further weight loss?]
+### I'm a 63 year old male who exercises regularly, lifts weight, and wants to lower his A1C, which is currently at 5.8%. I have cut out added sugars as much as possible and recently cut way down on carbs. Problem is I don't want to lose any more weight. What diet should I follow to accomplish both goals? [short: What diet can lower A1C without further weight loss?]
 
 Well, first of all, you should read my book because we do talk about both goals. You may have
 lowered your carbohydrate, but you may not have lowered it enough. For adults, I usually recommend
@@ -176,17 +176,17 @@ know, I recommend strongly against these drugs for a variety of reasons.
 Getting rid of the sulfonylurea and replacing it with a little bit of insulin can be of great value
 for a variety of reasons that are covered in my book.
 
-### Can an A1c drop too quickly, compromising health in any way? Not to my knowledge except for one situation. My type 1 diabetic daughter went from a 5.1 to a 4.6 in two months. [short: Negative effects from dropping A1c too quickly?]
+### Can an A1C drop too quickly, compromising health in any way? Not to my knowledge except for one situation. My type 1 diabetic daughter went from a 5.1 to a 4.6 in two months. [short: Negative effects from dropping A1C too quickly?]
 
 Well congratulations, you must be using my book. There's only one situation that I know of where the
-A1c, well I can think of two situations.
+A1C, well I can think of two situations.
 
 One is when you adapt to a certain blood sugar, if you suddenly have much lower blood sugars, you
 might feel hypoglycemic even though your blood sugar is not in the hypoglycemic range. You just get
 used, you're not used to truly normal blood sugars.
 
 So for some people, you want to lower the blood sugar slowly. If your daughter is not uncomfortable
-at an A1c of 4.6, don't discourage her.
+at an A1C of 4.6, don't discourage her.
 
 The other problem is for people who have high serum IGF-1 levels, that's insulin-like growth factor.
 It was discovered that if people have high IGF-1 levels and already have diabetic retinopathy,
@@ -243,9 +243,9 @@ The American Diabetes Association suggests that all diabetics take an ACE inhibi
 recommend statins and aspirin and a number of other things because they're expecting all diabetics
 to get kidney disease. Why?
 
-Because they're advising that a hemoglobin A1c of 6.7 is normal where it's in reality up in the
+Because they're advising that a hemoglobin A1C of 6.7 is normal where it's in reality up in the
 vicinity of 160 mg/dL, which is double normal. So if you're going to read my book and
-keep your blood sugars normal, keep your A1c under 5, you don't have to worry about taking ACE
+keep your blood sugars normal, keep your A1C under 5, you don't have to worry about taking ACE
 inhibitors.
 
 ### Since I've switched to a low-carb diet, I've lost a lot of weight. How can I regain this back? [short: Regaining weight on low-carb diet?]

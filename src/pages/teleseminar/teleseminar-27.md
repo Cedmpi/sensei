@@ -114,20 +114,20 @@ at acting, such as Humalog or maybe Novalog, and that works so fast that you mig
 to take it after a meal.
 But it's so potent that it's hard to get a dose that leads to fine control of blood sugar.
 
-### I have a teenage type 1 girl and borderline type 2 myself, kept in control by low carb diet. How can we use hemoglobin A1c to judge our success over time? What is a good target for type 1s? [short: Using A1c to judge success and a target for type 1s?]
+### I have a teenage type 1 girl and borderline type 2 myself, kept in control by low carb diet. How can we use hemoglobin A1C to judge our success over time? What is a good target for type 1s? [short: Using A1C to judge success and a target for type 1s?]
 
 Well, as I've said for years, what's important is blood sugars.
-That's more important than the hemoglobin A1c because there are certain catches in the
-accuracy or the significance of the A1c.
+That's more important than the hemoglobin A1C because there are certain catches in the
+accuracy or the significance of the A1C.
 
-If you're typical, you might want to have ideally an A1c in the high 4%, like 4.8 or
+If you're typical, you might want to have ideally an A1C in the high 4%, like 4.8 or
 5%.
 
 But I would concentrate on blood sugars.
 
 If you're checking your blood sugars frequently, including in the middle of the night from
 time to time, you'll have a more accurate picture of your blood sugar picture than a
-hemoglobin A1c can give you.
+hemoglobin A1C can give you.
 
 ### What do you recommend for cramps? I'm type 2 on Tresiba, 35 units a day in Glucophage, 2,000 milligrams a day, getting feet and hand cramps since recently starting Tresiba. [short: What do you recommend for cramps?]
 
@@ -294,7 +294,7 @@ When you get out of the normal range like all the others loses accuracy.
 So we do have better than 15% but that's only if you keep your blood sugars in the normal
 range.
 
-### Why does Dr. B equate hemoglobin A1c levels of 6% to a blood sugar of 140? Nearly twice his stated good target of 80. When charts I see online equate 6% to only 126. [short: Why equate an A1c of 6% to a blood sugar of 140?]
+### Why does Dr. B equate hemoglobin A1C levels of 6% to a blood sugar of 140? Nearly twice his stated good target of 80. When charts I see online equate 6% to only 126. [short: Why equate an A1C of 6% to a blood sugar of 140?]
 
 The reference that I use which was a very good study is cited in my book Diabetes Solution.
 
@@ -438,7 +438,7 @@ since.
 This person, he should read my book and he'll see that we certainly recommend what he's
 recommending or she.
 
-### I was recently diagnosed with prediabetes with an elevated fasting blood sugar of 106. Blood work shows fasting glucose down to 92 and a 5.3% A1c. However, my anion gap is elevated. Should this be concerned, will I develop diabetic ketoacidosis with lower carb intake? [short: Elevated anion gap on a lower carb intake?]
+### I was recently diagnosed with prediabetes with an elevated fasting blood sugar of 106. Blood work shows fasting glucose down to 92 and a 5.3% A1C. However, my anion gap is elevated. Should this be concerned, will I develop diabetic ketoacidosis with lower carb intake? [short: Elevated anion gap on a lower carb intake?]
 
 I don't know why your anion gap is elevated.
 

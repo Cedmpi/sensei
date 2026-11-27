@@ -101,8 +101,8 @@ written, I believe, before I learned that children, non-diabetic children, have 
 sugars usually quite a bit lower than 83, usually in the 70s, even high 60s.
 So children, normal for children is lower than 83.
 
-###  What else can I do to get my A1c lower?
-*I was on Dr. B's diet for three months and my A1c went down from 5.6 to 5.4. What else can I do to get my A1c lower?*
+###  What else can I do to get my A1C lower?
+*I was on Dr. B's diet for three months and my A1C went down from 5.6 to 5.4. What else can I do to get my A1C lower?*
 
 Well first of all, I'd recommend you read my book because the book has all the other
 techniques for getting blood sugar down and if you're diabetic, you may need insulin.
@@ -116,7 +116,7 @@ Is this the safest, best insulin I could be using, that is Humalog?*
 
 Now I've seen many patients who claim they were well controlled and have blood sugars
 in the range that the American Diabetes Association likes, which as you know is very high.
-They say that normal is 6.5 or 7, 6.5 is an average, that's on the A1c, 6.5 is an average
+They say that normal is 6.5 or 7, 6.5 is an average, that's on the A1C, 6.5 is an average
 of 160 mg/dL, 7 is an average of 180 and that's called well controlled.
 So I don't know if this patient is well controlled.
 
@@ -261,7 +261,7 @@ The game plan is to keep blood sugars normal, so you read the book and figure ou
 it take to do this.
 
 It may be that you have a newly diagnosed type 1 diabetic where going on a low carbohydrate
-diet makes a big difference and you give some basal insulin and it gets their A1c or
+diet makes a big difference and you give some basal insulin and it gets their A1C or
 let's say it gets their steady state blood sugar down to the 80s, but you're going up
 after meals a little bit.
 
@@ -314,7 +314,7 @@ to be low, you could do some other tests which we've already talked about and I 
 discussed in my book.
 
 ### Low carb diet, fasting glucose is still always above 100 mg/dl.
-*What are your recommendations for someone who follows your 30 grams of carbohydrate per day but who's fasting glucose is still always above 100 and her A1c is 4.9?*
+*What are your recommendations for someone who follows your 30 grams of carbohydrate per day but who's fasting glucose is still always above 100 and her A1C is 4.9?*
 
 First of all, I don't recommend 30 grams of carbohydrates per day.
 I recommend a maximum of so much per meal for adults that may total to a maximum of
@@ -328,9 +328,9 @@ There are things like insulin, there are things like metformin and there's also 
 matter of body weight, there's exercise, so the book goes through dozens probably of steps
 that can be taken to bring blood sugar down.
 
-### Cardiologist want A1c higher to lose weight?
+### Cardiologist want A1C higher to lose weight?
 
-*My new cardiologist is pleased with my A1c of 5.2 but because I need to lose about 20 pounds (18 kg) has suggested that I let my blood sugar run a bit higher for a while to lessen my insulin needs. He suggested 6.5 would be good to shoot for a few months until the weight is lost. What do you think?*
+*My new cardiologist is pleased with my A1C of 5.2 but because I need to lose about 20 pounds (18 kg) has suggested that I let my blood sugar run a bit higher for a while to lessen my insulin needs. He suggested 6.5 would be good to shoot for a few months until the weight is lost. What do you think?*
 
 
 I think this is absolutely bizarre but of course jibes with what the ADA teaches.

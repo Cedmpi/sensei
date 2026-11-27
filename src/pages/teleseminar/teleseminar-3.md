@@ -415,7 +415,7 @@ that's rare
 ### Freestyle light meter reads 20 points below my provider's meter [short: Meter accuracy]
 
 *My freestyle light meter seems to read almost 20 points below my provider's meter
-and leads to a calculated a1c lower than my lab values is this accurate*
+and leads to a calculated A1C lower than my lab values is this accurate*
 
 well there are several things to consider first of all in my experience most providers
 recommend meters that are inaccurate they recommend the meter that gets the most promotion
@@ -435,7 +435,7 @@ and do a meter reading at the same time but do several meter readings because yo
 should be all in the same vicinity and also this whole game of checking accuracy is only valid if
 
 you're in the normal range really below 100 or below 110 now another thing to look at is an
-accurate formula for the hemoglobin a1c the formula being used by the american diabetes
+accurate formula for the hemoglobin A1C the formula being used by the american diabetes
 association is not accurate I'm not going to go into the details of why it isn't but we explained
 this several years ago it's a shameful situation but the formula that's more
 most likely to be accurate is in my book diabetes solution it was published by the american
@@ -563,13 +563,13 @@ large insulin doses which are unpredictably absorbed so read the book
 100 mg/dL averaging in the mid 90s*
 
 now right away one wonders what meter
-is this person using because meters can be 100 off on their numbers *a1c in june was
+is this person using because meters can be 100 off on their numbers *A1C in june was
 6.3 percent* which is an average blood sugar I might add of 152 mg/dL
 so that doesn't jibe with blood sugars being between 80 and 120 something is wrong
 
 I lost 35 pounds since last october and am now 259 pounds what can I do to keep losing weight
 well first of all you should really follow my book and right now there's something wrong that
-you're doing if your blood sugars are so different from your hemoglobin a1c
+you're doing if your blood sugars are so different from your hemoglobin A1C
 you may be you may be eating more carbohydrate than the book recommends
 certainly the 6, 12 and 12 grams of carbohydrate for the three meals
 would apply to you and um my guess is that you're not following that

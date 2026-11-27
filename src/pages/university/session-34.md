@@ -41,26 +41,26 @@ study carefully you'll see that his analysis was far more correct and this
 is what he says, published in the same issue of the journal Diabetes Care, but
 at the end of the issue, where you'll only get to it if you're exhausted from
 reading everything else, if you're not exhausted from reading everything else,
-overall they found no evidence to suggest that lower average A1c was
+overall they found no evidence to suggest that lower average A1C was
 associated with higher mortality as would have been expected if hypoglycemia
 had been the cause of death.
 
 Now the ADA conclusion, of course, was just the
 opposite of what the data said. In fact, a higher mortality rate was observed in
 both the intensive and standard therapy arms for individuals with a higher
-average and average and last recorded A1c.
+average and average and last recorded A1C.
 
-In other words, if the last A1c in
-the study was high or if the average A1c was high, those are the patients who
+In other words, if the last A1C in
+the study was high or if the average A1C was high, those are the patients who
 died. 
 
-The patients with A1cs at the low end were the ones who survived.
+The patients with A1Cs at the low end were the ones who survived.
 
 So the study, even though it was something like three and a half years long, was not very
-long, did demonstrate that lowering the A1c provides cardiac benefits. Now this
+long, did demonstrate that lowering the A1C provides cardiac benefits. Now this
 accord study, because of the erroneous press release by the ADA, and that's what
 hit the newspapers, we have endocrinologists, regular doctors, all
-kinds of people concluding that low A1cs are bad for the heart and are
+kinds of people concluding that low A1Cs are bad for the heart and are
 to be avoided.
 
 Now why do you think erroneous conclusions were drawn? Are

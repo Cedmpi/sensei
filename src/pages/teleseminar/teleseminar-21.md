@@ -153,7 +153,7 @@ been successful speaking on this subject on Dr. Bernstein's Diabetes University 
 the near I hope future, but in the meanwhile take a look at these references and show them
 to her.
 
-### Since going on your diet A1c of 5.4, my LDL and cholesterol went up, triglycerides came down and it's my guess that the HDL probably went up. Don't want to go on Crestor.[short: Rising LDL and cholesterol on low carb diet?]
+### Since going on your diet A1C of 5.4, my LDL and cholesterol went up, triglycerides came down and it's my guess that the HDL probably went up. Don't want to go on Crestor.[short: Rising LDL and cholesterol on low carb diet?]
 
 Crestor is one of the drugs that lowers certain cholesterol and LDL.
 
@@ -183,7 +183,7 @@ So one should look at C-reactive protein and other markers of inflammation if yo
 worried about cardiac risk and of course if you want the best possible test would be an
 imaging test to look at your coronary artery calcium score or coronary angiography.
 
-### Type 1, 6 years old, diagnosed two years ago on your program 18 months, we use the Dexcom and still finger stick five to six times a day, thyroid normal but we cannot get her A1c below 5.7%. [short: A1c won't go below 5.7%?]
+### Type 1, 6 years old, diagnosed two years ago on your program 18 months, we use the Dexcom and still finger stick five to six times a day, thyroid normal but we cannot get her A1C below 5.7%. [short: A1C won't go below 5.7%?]
 
 Well the very first thing I would look at would be what meter are you using to check
 your blood sugars and to verify and reset the Dexcom.
@@ -274,7 +274,7 @@ that we studied reversed in a matter of a few months,
 so also certain chemicals you measure in
 the blood like fibrinogen so these early changes apparently probably can happen very rapidly.
 
-How long does it take to go blind it depends how high your A1c, goes how much your blood sugar is varying
+How long does it take to go blind it depends how high your A1C, goes how much your blood sugar is varying
 up and down and so on and so forth so we can't be certain about this
 
 ### Is there a best time to exercise if you're a type 1 diabetic?
@@ -295,10 +295,10 @@ breakfast in the morning because it's convenient and during the week I exercise 
 have a gym at home and that's more convenient during the week.
 
 ### Thoughts on Farxiga for a type 1?
-*What are your thoughts on Farxiga for a type 1 since 1949* wow this person is a survivor had diabetes almost as long as I've had it *with all the complications and an A1c of 8% doctor wants to add it to lower my A1c*
+*What are your thoughts on Farxiga for a type 1 since 1949* wow this person is a survivor had diabetes almost as long as I've had it *with all the complications and an A1C of 8% doctor wants to add it to lower my A1C*
 
 Wow
-well an A1c of 8% is pretty darn high there's no excuse for having that high an a1c I have to think
+well an A1C of 8% is pretty darn high there's no excuse for having that high an A1C I have to think
 for a minute to calculate the average blood sugar it would be about 220 mg/dL.
 
 And the trick it is certainly Farxiga is an SGLT2 inhibitor it lowers the renal threshold for glucose

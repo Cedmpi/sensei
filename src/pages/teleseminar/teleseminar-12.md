@@ -73,7 +73,7 @@ go on to the questions.
 
 ###  Statin because I am diabetic?
 *I'm a 50-year-old female, type one, seven years ago. I have followed
-your plan for years. You've saved my life. Current A1c is 4.8%, and I am very physically
+your plan for years. You've saved my life. Current A1C is 4.8%, and I am very physically
 fit and work out six days a week. My doc ordered a lipid panel. The doctor ordered a statin because I am diabetic,
 and total cholesterol was over 200. What do I do?*
 
@@ -439,7 +439,7 @@ the trick to keep your blood sugars normal around the clock.
 
 ### Dry eyes
 *Type 2 on low-carb, not overweight.
-A1c of 5.3%, and have been dealing with severe dry eyes for almost a year,
+A1C of 5.3%, and have been dealing with severe dry eyes for almost a year,
 and have been taking Restasis (which is cyclosporine),
 for almost a year. I have seen three different ophthalmologists, and I'm still struggling with
 eye pain from dryness that sometimes even wakes me up at night. Fish oil of no help.

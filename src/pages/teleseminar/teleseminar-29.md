@@ -91,9 +91,9 @@ So you cannot get away without doing finger sticks. It's absolutely essential.
 
 Okay, now we'll go to the first question.
 
-### Type 1 diabetic, no nerve damage in my feet. I eat 45 to 50 grams of carbohydrate daily. My A1c is 5.5%. I get itchy skin. What can I do that will help this? [short: What can I do about itchy skin?]
+### Type 1 diabetic, no nerve damage in my feet. I eat 45 to 50 grams of carbohydrate daily. My A1C is 5.5%. I get itchy skin. What can I do that will help this? [short: What can I do about itchy skin?]
 
-Well, right away I advise him to cut back on the carb to 30 grams and lower his A1c a little bit.
+Well, right away I advise him to cut back on the carb to 30 grams and lower his A1C a little bit.
 
 My guess here is that like 98% of diabetics, you probably have psoriasis. It's only recently that
 physicians have been advised that people with psoriasis have a high incidence of diabetes and people
@@ -148,14 +148,14 @@ untreated but even when I got my thyroid treated when my blood sugars were jumpi
 I was chronically tired. I was always exhausted so diabetes can be associated with another its
 own form of chronic fatigue.
 
-### I told my endo I want to get my A1c down to 5. She replied if I achieved this she would know I was having a lot of hypo's which would put my driver's license in jeopardy. How do I handle this attitude? [short: How do I handle my endo's objection to a low A1c?]
+### I told my endo I want to get my A1C down to 5. She replied if I achieved this she would know I was having a lot of hypo's which would put my driver's license in jeopardy. How do I handle this attitude? [short: How do I handle my endo's objection to a low A1C?]
 
 Well I get these questions every month and I'm tempted out of my promise to the listeners not to
 answer it but I feel so sympathetic to this and it's just so prominent like universal that endos
 don't want to see normal blood sugars.
 
 If you search the internet you'll find several articles I believe there are three out there that
-point out that low A1c's are associated with less hyperglycemia not more hyperglycemia. And if
+point out that low A1C's are associated with less hyperglycemia not more hyperglycemia. And if
 you cannot persuade your endo you do what so many other people have done you find a kindly family
 practice physician who will listen to logic and cooperate with the prescriptions you need. As I've
 said many people have done this.
@@ -497,7 +497,7 @@ digestion of fat but also protein.
 So, although I wouldn't change my diet, I would take oral enzymes with meals to help with the
 digestion and again a good gastroenterologist should know what the enzyme products would be best.
 
-### A 68 year old vegan, how can I modify your dietary insulin program to manage my type 1 diabetes? My current A1c is 6.9 percent. [short: Low-carb for vegan with type 1?]
+### A 68 year old vegan, how can I modify your dietary insulin program to manage my type 1 diabetes? My current A1C is 6.9 percent. [short: Low-carb for vegan with type 1?]
 
 Well, that's an average blood sugar of around 175. It's pretty darn high and if your vegan diet
 includes eggs, I would say that you consume a lot of eggs.
@@ -540,8 +540,8 @@ milligrams per day. Every dipstick protein test I had was four plus, it was maxi
 I started a low carbohydrate high protein diet, started blood sugar self-monitoring and pre-meal
 insulin doses normalized my blood sugars.
 
-At the very beginning we didn't have A1c but by the time we had it in say 1973 or 4 I had normal
-A1cs and the proteinuria went away and now I'm 83 years old and I'm almost 84 and I have normal
+At the very beginning we didn't have A1C but by the time we had it in say 1973 or 4 I had normal
+A1Cs and the proteinuria went away and now I'm 83 years old and I'm almost 84 and I have normal
 kidney function.
 
 ### Could you please provide us with a list of the 25 to 30 weightlifting exercises you do every week as a reference point? [short: What weightlifting exercises do you do?]

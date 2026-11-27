@@ -211,9 +211,9 @@ real orange soda I was drinking well not knowing how much I was drinking each ti
 guess at how much insulin to take to bring my blood sugars down and of course my guesses were never
 right.
 
-### How can the kidneys of a diabetic get affected? My A1c remains between 7.5 and 8. [short: Diabetic kidney damage?]
+### How can the kidneys of a diabetic get affected? My A1C remains between 7.5 and 8. [short: Diabetic kidney damage?]
 
-A1c of 8 would be 220 mg/dL and if you
+A1C of 8 would be 220 mg/dL and if you
 read my book it actually has in the appendix a description of how the kidneys are damaged by high
 blood sugars.
 
@@ -223,7 +223,7 @@ urinated that meant that I had a minimum of 1500 mg of protein per day in my uri
 normal goes up to something like 100 mg so I had 15 times as much protein as a normal person
 would have which means pretty significant kidney damage and that took only 10 years.
 
-Now I don't know what my average blood sugar was then because we didn't have a hemoglobin A1c in
+Now I don't know what my average blood sugar was then because we didn't have a hemoglobin A1C in
 those days so perhaps my 10 years was more rapid than it would be for you but sooner or later it's
 going to happen if you have blood sugars averaging 220.
 
@@ -249,7 +249,7 @@ So I certainly advise you to read my book and don't use the pump. You're only ha
 
 Next question.
 
-### In the last six years I've been dealing with autonomic neuropathy. My biggest problems are dangerously low blood pressure and constantly being cold. If this is diabetes related should I see an improvement as my blood sugars remain stabilized? Highest A1c in the past six years has been a 5.7 (which is an average blood sugar of about 128). [short: Will autonomic neuropathy improve with stable blood sugars?]
+### In the last six years I've been dealing with autonomic neuropathy. My biggest problems are dangerously low blood pressure and constantly being cold. If this is diabetes related should I see an improvement as my blood sugars remain stabilized? Highest A1C in the past six years has been a 5.7 (which is an average blood sugar of about 128). [short: Will autonomic neuropathy improve with stable blood sugars?]
 
 Now low blood pressure can be totally independent of autonomic neuropathy. Most of my family my kids
 and my mother and myself have low blood pressure. I had low blood pressure before I became diabetic.
@@ -312,7 +312,7 @@ So you don't file down or cut or attempt to remove calluses in any manner shape 
 callus is an inch thick (2.5 cm) you could grind it down to an eighth of an inch (3 mm) thick but that's almost
 non-existent.
 
-### Type 1 diabetes since I was 12 years old now 47 I have no health insurance and no diabetes doctor. I have many people around me that recommend and use Dr. B. I have a very disabled child of 21 years that I need to outlive. Too many questions to ask here. What should I do? A1c is currently 8.1. [short: Without insurance or diabetes doctor?]
+### Type 1 diabetes since I was 12 years old now 47 I have no health insurance and no diabetes doctor. I have many people around me that recommend and use Dr. B. I have a very disabled child of 21 years that I need to outlive. Too many questions to ask here. What should I do? A1C is currently 8.1. [short: Without insurance or diabetes doctor?]
 
 So this fellow is a survivor.
 
@@ -325,9 +325,9 @@ Now after this many years with poorly controlled diabetes
 you probably have gastroparesis which makes it especially hard to control blood sugars but that's in
 the book and the type 1 people, TypeOneGrit people can possibly help you with that too.
 
-### My A1c level is 5.6 (that's a blood sugar about 124). Is there any possible explanation for how a person might have blood sugar levels that never drop below 90 or rise above 115? How worried should I be? [short: A1c does not match blood sugar levels?]
+### My A1C level is 5.6 (that's a blood sugar about 124). Is there any possible explanation for how a person might have blood sugar levels that never drop below 90 or rise above 115? How worried should I be? [short: A1C does not match blood sugar levels?]
 
-Well I think the complaint here is that the A1c reflects a higher blood sugar than his meter. So I
+Well I think the complaint here is that the A1C reflects a higher blood sugar than his meter. So I
 would suggest that this person get the meter that we usually recommend which is the most accurate
 one we can get in the USA and that's the Freestyle Freedom or the Freedom Lite.
 
@@ -369,7 +369,7 @@ Again read my book. The ones that have feedback according to the literature are 
 swings of blood sugars that is not as extreme but are still not generating normal blood sugars.
 
 They're boasting of more often being within the ADA guidelines which are for high blood
-sugars like the ADA says an A1c of 6.5 is normal or an A1c of 7 which is an average blood sugar of
+sugars like the ADA says an A1C of 6.5 is normal or an A1C of 7 which is an average blood sugar of
 180 is a target for type ones.
 
 So they're still getting high blood sugars and they're still getting

@@ -87,7 +87,7 @@ he was on a low carbohydrate diet.
 
 Okay, the first question.
 
-### Type 2 diabetic gained 30 pounds (14 kg) since taking insulin. Is there any way possible to get off the insulin and control diabetes with just diet and exercise? My A1c averages 8 to 10 percent. [short: Control diabetes with just diet and exercise?]
+### Type 2 diabetic gained 30 pounds (14 kg) since taking insulin. Is there any way possible to get off the insulin and control diabetes with just diet and exercise? My A1C averages 8 to 10 percent. [short: Control diabetes with just diet and exercise?]
 
 That means average blood sugars of about 220 to 300 mg/dL.
 So I would say that this person first of all should read my book Diabetes Solution.
@@ -360,7 +360,7 @@ It's not likely to lower your blood sugar more at any point in time.
 In fact, I've found that most people must take a little bit more Tresiba than Levemir
 because it's spread out over a longer period of time.
 
-### 49-year-old female type 1 for 35 years. A1c is 4.9. Following your diet for four months. My immune system is weak. Keep getting the flu and colds. Took flu and pneumonia shots but keep getting sick. Work in hospital. How can I build my system to be stronger? [short: How to build my system to be stronger?]
+### 49-year-old female type 1 for 35 years. A1C is 4.9. Following your diet for four months. My immune system is weak. Keep getting the flu and colds. Took flu and pneumonia shots but keep getting sick. Work in hospital. How can I build my system to be stronger? [short: How to build my system to be stronger?]
 
 So this lady I guess is a survivor.
 
@@ -499,13 +499,13 @@ Dr. Dikeman.
 Low carb is essential for all diabetic children.
 They're not going to do well on a high carb diet and their brains will not do well.
 
-### A survivor of fifty-eight years with gastroparesis, what hemoglobin A1c level could you live with?
+### A survivor of fifty-eight years with gastroparesis, what hemoglobin A1C level could you live with?
 
-I recommend normal A1c's which would be under five percent for everybody when it's possible.
+I recommend normal A1C's which would be under five percent for everybody when it's possible.
 With gastroparesis it may be impossible but you go for the lowest value you can.
 
 I have seen gastroparesis reversed first in myself and also in my patients when we have
-A1c's under five, even maybe at five percent.
+A1C's under five, even maybe at five percent.
 The game plan is to get blood sugars down.
 
 ### Twenty-two year old diagnosed six years ago take twenty-three to twenty-six units of Lantus. Can I reduce this dosage? Not overweight. Would it be more effective to split the dose before bedtime? [short: Reducing or splitting the Lantus dose?]
@@ -617,7 +617,7 @@ urge you to read my book Diabetes Solution because normal blood sugars are essen
 and you want to preserve your beta cells and we know that high blood sugars are toxic to
 beta cells so read the book Diabetes Solution.
 
-### Can you do quite strenuous exercise while taking very small amounts of insulin? Need to get blood sugar down after exercise? Trained for a half marathon and A1c went from 6.1 to 7.1. Dietitian said snack before exercise. [short: Strenuous exercise while taking small amounts of insulin?]
+### Can you do quite strenuous exercise while taking very small amounts of insulin? Need to get blood sugar down after exercise? Trained for a half marathon and A1C went from 6.1 to 7.1. Dietitian said snack before exercise. [short: Strenuous exercise while taking small amounts of insulin?]
 
 Well here's the problem, the dietitian is probably telling you to eat a lot of carbohydrate
 before exercise, that ain't the way to do it.

@@ -396,7 +396,7 @@ slightly more stable. Its effects have
 worn off. Any suggestions how to restart the positive effects of Victoza? I've been told to
 take time off and restart.*
 
-Well, this is what we found with most patients, namely that the GLP1
+Well, this is what we found with most patients, namely that the GLP-1
 agonist, actually many substances that curb overeating, we found to wear off over time.
 
 Not for everybody, but for many people. And what we do is try substituting an alternate substance
@@ -432,7 +432,7 @@ sensory and motor nerves. My blood flow to feet is extremely low, almost nonexis
 And I wonder how the patient found this out. Did he have Doppler studies? Did they use ossilometry?
 I don't know.
 
-*Seeing A1c of 5.5 a month after the pain started. What can I do?
+*Seeing A1C of 5.5 a month after the pain started. What can I do?
 How long does it take to get blood flow back? What can I do?*
 
 Something is missing here. This person apparently had high blood sugars for many years.
@@ -440,7 +440,7 @@ Something is missing here. This person apparently had high blood sugars for many
 And the fact that he got his blood sugars controlled by a low carbohydrate diet
 makes me suspicious that what he calls control may not be that great.
 
-Now, an A1c of 5.5 is slightly elevated, an average blood sugar of about 120.
+Now, an A1C of 5.5 is slightly elevated, an average blood sugar of about 120.
 And the circulation doesn't magically improve when you control blood sugars.
 
 It may stop getting worse. But I was director of the Peripheral Vascular Disease Laboratory
@@ -473,7 +473,7 @@ uh, increase dietary protein and increase the mealtime insulin to cover the diet
 
 ### Random heart palpitations
 *Type 1, 64-year-old female. I switched from using a Medtronic pump
-to Tresiba insulin to hopefully gain higher control, tighter control. My A1c was 5.6
+to Tresiba insulin to hopefully gain higher control, tighter control. My A1C was 5.6
 prior to switching. However, I am experiencing random heart palpitations,
 often waking in the middle of the night.*
 
@@ -483,7 +483,7 @@ even if your blood sugars are in the normal range. Or even if they're higher tha
 but below, significantly below what they had been before. So you get a pseudo-hypoglycemia
 because you got used to higher blood sugars. That's a real possibility.
 
-The A1c was 5.6 prior to switching, which means an average blood sugar of 124.
+The A1C was 5.6 prior to switching, which means an average blood sugar of 124.
 
 And if it came down to an average of, let's say, 83,
 that's enough of a drop that you could experience these symptoms.
@@ -593,7 +593,7 @@ and the neuropathies do reverse with absolutely normal blood sugars, but it take
 
 ###  Always feeling weak with low energy and sexual desire
 
-A1c of 6.5%, (that's an average of 160 mg/dL),
+A1C of 6.5%, (that's an average of 160 mg/dL),
 but always feeling weak with low energy and sexual desire. My thyroid results, patient
 tells his thyroid results, and nowhere is there an appropriate thyroid test done.
 

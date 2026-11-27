@@ -67,7 +67,7 @@ So I would say that by switching off plants, you'd lower your insulin resistance
 the carbohydrate from the plants causes you to require more insulin which builds fat and
 causes insulin resistance.
 
-### Have you ever found a patient's A1c to normalize after taking strong oral antibiotics for an infection? I suspect this has happened to me after 6 weeks on 2 antibiotics for a diabetic toe ulcer infected bone. Was there another infection elsewhere in my body that caused my blood sugar to be high for many years? [short: Can antibiotics normalize A1c by treating an infection?]
+### Have you ever found a patient's A1C to normalize after taking strong oral antibiotics for an infection? I suspect this has happened to me after 6 weeks on 2 antibiotics for a diabetic toe ulcer infected bone. Was there another infection elsewhere in my body that caused my blood sugar to be high for many years? [short: Can antibiotics normalize A1C by treating an infection?]
 
 Well, it is possible.
 
@@ -163,21 +163,21 @@ You have to get one click instead of two clicks, as with the Dexcom 5.
 But if you do the one-click system, you get a much harder punch of the needle that hurts
 more than the Dexcom 5 when you're inserting the sensors.
 
-### I was diagnosed with type 1 diabetes last July and have managed to half my A1c to 5.2. I've been told I need to gain weight, eat more carbs, but I'm finding my blood sugars all over the place by eating more carbs. How can I gain weight without eating too many carbs? [short: Gaining weight without eating too many carbs?]
+### I was diagnosed with type 1 diabetes last July and have managed to half my A1C to 5.2. I've been told I need to gain weight, eat more carbs, but I'm finding my blood sugars all over the place by eating more carbs. How can I gain weight without eating too many carbs? [short: Gaining weight without eating too many carbs?]
 
 You increase your insulin dose and increase your protein intake.
 
 You increase the protein intake first so you could see how much your mealtime insulin doses
 have to be increased.
 
-### I've been diabetic for 38 years, started doing low carb last 6 months, got my A1c down from over 10 to 5.5. I am on insulin pump and was wondering how to cover protein. Should I do a square wave bolus to show if so, how should it be done and for how long? [short: How should I cover protein with an insulin pump?]
+### I've been diabetic for 38 years, started doing low carb last 6 months, got my A1C down from over 10 to 5.5. I am on insulin pump and was wondering how to cover protein. Should I do a square wave bolus to show if so, how should it be done and for how long? [short: How should I cover protein with an insulin pump?]
 
-Well, first of all, it's amazing to me that you were able to get a 5.5% A1c with an insulin
+Well, first of all, it's amazing to me that you were able to get a 5.5% A1C with an insulin
 pump.
 
 Most of the people that I see with insulin pumps are having very wide blood sugar swings
 for a variety of reasons, many of which are already described in my book, Diabetes Solution.
-My guess is that although your A1c is 5.5, it's swinging wildly.
+My guess is that although your A1C is 5.5, it's swinging wildly.
 
 It's sort of hard to tell you what to do with a system that I've never seen work, but you
 can experiment with adjusting your protein and playing around with the boluses, both
@@ -187,7 +187,7 @@ A square wave may make sense, but for how long, it's all trial and error, especi
 with an insulin pump because there's so much scar tissue in the pump site that it's hard
 to tell how long a bolus is going to take to be absorbed.
 
-###  Our 4 year old runs post-meal blood sugars over 200, they will then return to the 130s and 140s. They always come down within 2 hours to normal of about 130 when they are 200 and 100 when they are lower. Insulin glucoses are usually 95. His latest A1c is 4.9. It's been as high as 5.7. He tested negative for GAD at antibodies to his pancreas, and his C-peptide was 2.2, non-fasting. [short: What explains my 4 year old’s blood sugar readings?]
+###  Our 4 year old runs post-meal blood sugars over 200, they will then return to the 130s and 140s. They always come down within 2 hours to normal of about 130 when they are 200 and 100 when they are lower. Insulin glucoses are usually 95. His latest A1C is 4.9. It's been as high as 5.7. He tested negative for GAD at antibodies to his pancreas, and his C-peptide was 2.2, non-fasting. [short: What explains my 4 year old’s blood sugar readings?]
 
 Sugar was 42 at the time, so here with a blood sugar of only 42, this kid was making
 normal amounts of insulin, so he's capable of making a lot of insulin, and that explains
@@ -575,7 +575,7 @@ So it may be possible if your AFib is not very frequent.
 
 And as far as is diabetes a continuum or an absolute diagnosis,
 I would say it's a continuum.
-I've seen people with an A1c of 5 who occasionally go,
+I've seen people with an A1C of 5 who occasionally go,
 let's say, to 150 without eating not a huge amount of extra carbohydrate.
 So that tells me that there's a little bit off.
 Their beta cells have lost a little bit of phase 1 insulin response.

@@ -126,7 +126,7 @@ possibly do the trick.
 Well, first of all, I do not recommend the SGLT2 inhibitors, which would include the Jardiance. The
 Victoza, Byetta, and Symlin have their major effects on curbing overeating. Their effects on blood
 sugar per se are relatively small. So if you are an overeater, then Victoza, Byetta, or Symlin, which
-are all related to GLP1 production in the intestines, might be of value.
+are all related to GLP-1 production in the intestines, might be of value.
 
 There also are the Thiazolidinedione, Actos, and Avandia. They have frequently the property of
 causing fluid retention, but not in everybody. I believe we did a video showing how to see if you're
@@ -137,7 +137,7 @@ candidates for keeping blood sugars down.
 
 And insulin always works, but it has to be used properly, another reason for reading my book.
 
-### What do you tell your patients and how quickly to lower their A1c with relation to retinopathy worsening? [short: Retinopathy worsening when quickly lowering A1c?]
+### What do you tell your patients and how quickly to lower their A1C with relation to retinopathy worsening? [short: Retinopathy worsening when quickly lowering A1C?]
 
 Well, what I tell them relates to a blood test for IGF-1. If IGF-1 is elevated and you already have
 retinopathy, it's been shown that you can make the retinopathy worse if your blood sugar is lowered
@@ -344,7 +344,7 @@ fibrinogen and a few others. Lp(a) is very important, and if you're a woman, it 
 
 In my experience, Lp(a) is the most important risk factor you could measure in a bloodstream.
 
-### This person belonged to a large medical plan that had been treating him for many years, and he was getting insulin. He was being treated by one doctor for all this time, and he got his A1c into the normal range, was on a low-carbohydrate diet, and the doctor retired, couldn't be found after his retirement. Two new doctors came in on the case, and they saw his A1c and said he couldn't be diabetic. They would not prescribe insulin for him. Now he wants to know what to do. [short: New doctors won't prescribe insulin]
+### This person belonged to a large medical plan that had been treating him for many years, and he was getting insulin. He was being treated by one doctor for all this time, and he got his A1C into the normal range, was on a low-carbohydrate diet, and the doctor retired, couldn't be found after his retirement. Two new doctors came in on the case, and they saw his A1C and said he couldn't be diabetic. They would not prescribe insulin for him. Now he wants to know what to do. [short: New doctors won't prescribe insulin]
 
 So I said he has to get away from this group and find a kindly family practice physician who would
 listen to him, but he also has a right to his medical records and has to demand that the insurance
@@ -389,7 +389,7 @@ curb the appetite. For others, they might be good for 3 months.
 For others, might be good for a year, and then the excess of appetite returns. But if you're
 treating the appetite continually, bombing receptors for the GLP-1 continually, day and night,
 as the Trulicity does, you really get adapted to it almost instantly, and I've not seen any effect upon appetite of the Trulicity. 
-So its effect on blood sugar is going to be minimal, might affect A1c 3 tenths of a unit or even less.
+So its effect on blood sugar is going to be minimal, might affect A1C 3 tenths of a unit or even less.
 
 ### What is your opinion of Tresiba long-acting insulin? I discovered that compared to 10 units of Toujeo (which is Lantus) 8 units of Tresiba works, and that Tresiba is better for overnight blood sugar control. [short: Tresiba vs Toujeo]
 

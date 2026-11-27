@@ -190,7 +190,7 @@ indication that that's a possibility. But that's not just artificial sweeteners.
 what we have next.
 
 ### Taking Acarbose 
-*Taking 100 milligram Acarbose with meals. Any comments? My A1c is 5.3 but trying to do better.*
+*Taking 100 milligram Acarbose with meals. Any comments? My A1C is 5.3 but trying to do better.*
 
 Now, Acarbose is something that I may not have mentioned before. But it's
 very interesting. It's an alpha-glucosidase inhibitor. It inhibits the action of the enzyme

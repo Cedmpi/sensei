@@ -399,12 +399,12 @@ frequently find low blood sugars after dinner and high blood sugars the next mor
 It's not consistent so they don't get it every single day but it happens often enough that they
 might confuse it with the dawn phenomenon. But you could have both also more common.
 
-### How to improve A1c Type 2
+### How to improve A1C Type 2
 *40 years old athletic female. Type 2.
 I control through eating. No carbs except veggies and some berries.
 Despite all my efforts I'm constantly tired. My fasting blood sugar now 97.
 I have high cortisol levels. And most pleasantly cholesterol is perfect and
-triglycerides are very low. Yet my A1c is higher than it should be at 5.7. How can that be
+triglycerides are very low. Yet my A1C is higher than it should be at 5.7. How can that be
 and what could I do to improve? 
 *
 So right off the bat she's
@@ -425,7 +425,7 @@ carbohydrate. You know we don't know the details of what she's eating so she sho
 my book and if she really does have elevated cortisol she should get that worked up.
 
 And
-don't expect your blood sugars to magically normalize. We've seen A1c's come down from 12
+don't expect your blood sugars to magically normalize. We've seen A1C's come down from 12
 to 6 but we haven't seen them just by diet. But to go the rest of the way down to 4.7
 they have to take medications, maybe even insulin.
 
@@ -476,14 +476,14 @@ increase the risk of diabetes by a little over 20 percent. So statins might rais
 it. What tests should I have done to detect it early in them?*
 
 Well there are some tests that you
-can still do. You can check their A1c hemoglobin A1c every year and if you see a trend going up
+can still do. You can check their A1C hemoglobin A1C every year and if you see a trend going up
 you really are getting a warning. They should be on low carbohydrate diets. They should be
 exercising strenuously. They should be semi-athletic so to speak interested in sports
 or exercising. 
 
-Of course A1c can go up just if you eat too much carbohydrate
+Of course A1C can go up just if you eat too much carbohydrate
 or if you're getting fat but it certainly is a clue to the risk for diabetes and I would say that
-if they start off with A1cs and the 4s and then go into the 5s I would treat my kids as if they
+if they start off with A1Cs and the 4s and then go into the 5s I would treat my kids as if they
 were diabetic. I'd be very aggressive. 
 
 That doesn't mean I'll give them insulin but it means that

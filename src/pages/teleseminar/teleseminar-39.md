@@ -181,7 +181,7 @@ So I would recommend that this be checked.
 
 This is another son.
 
-### My son's blood glucose levels look like an EKG reading after he eats, that means up and down. He is on the Omnipod and the Dexcom G6. How do we get his under control? He is up to 300 plus, then down to 50. A1c is 8.4. [short: Controlling blood glucose swings?]
+### My son's blood glucose levels look like an EKG reading after he eats, that means up and down. He is on the Omnipod and the Dexcom G6. How do we get his under control? He is up to 300 plus, then down to 50. A1C is 8.4. [short: Controlling blood glucose swings?]
 
 Well, what's happening here is what I warn in my books and have warned in my diabetes university
 and have warned over and over, don't use insulin pumps.
@@ -256,10 +256,10 @@ I have them take a drug called rapid-acting propranolol, a beta blocker,
 one hour before the exercise.
 And that usually prevents the blood sugar increase from exercise.
 
-### What did you eat yesterday for your 3 meals and how many calories? I'm 73, diagnosed 7 years ago. My latest A1c is 11.3. [short: A1c of 11.3%]
+### What did you eat yesterday for your 3 meals and how many calories? I'm 73, diagnosed 7 years ago. My latest A1C is 11.3. [short: A1C of 11.3%]
 
 I think you should be more concerned with your blood sugars.
-11.3 A1c is an average blood sugar of about 300 mg/dL.  
+11.3 A1C is an average blood sugar of about 300 mg/dL.  
 That's pretty darn high.
 
 You'll feel a lot better with normal blood sugars,
@@ -640,7 +640,7 @@ before we progressed to more concentrated.
 And that's how it worked.  
 And it was great. It worked right away.
 
-### I'm a type 2 diabetic with 5 year history. My A1c is controlled at 5.0 for at least three years. My BUN is 26th for the last 2 years. My body mass index is 18.4 (so he's probably of about normal weight). So I am a bit careful with protein (I don't know what that means or why). I am trying to get pregnant. Is there any adjustment I need to do for my diet while trying to get pregnant and during pregnancy, like the amount of carb, protein, and insulin requirement? [short: Diet while trying to conceive and during pregnancy?]
+### I'm a type 2 diabetic with 5 year history. My A1C is controlled at 5.0 for at least three years. My BUN is 26th for the last 2 years. My body mass index is 18.4 (so he's probably of about normal weight). So I am a bit careful with protein (I don't know what that means or why). I am trying to get pregnant. Is there any adjustment I need to do for my diet while trying to get pregnant and during pregnancy, like the amount of carb, protein, and insulin requirement? [short: Diet while trying to conceive and during pregnancy?]
 
 Well, I would give this patient the same recommendations that I gave to the other person who wanted to get pregnant.
 
@@ -659,7 +659,7 @@ And in the third trimester, you don't have to cut it down, but you don't need as
 
 And also you might contact the, if you live near the West Coast, contact the Samsung Research Institute.
 
-### Diagnosed prediabetic three years ago at 57. Very light gestational diabetes at 23. Father, grandfather, diabetic. No medication during three years, but on your diet. My A1c ranges from 5.2 to 5.5 (5.5% is an average blood sugar of about 120, but it could be varying up and down around that). Doctor says, no worries, you are in normal range, but your book says otherwise. Your book, though, does not address the issue of should you take medication to lower it further, even though by conventional definitions you are in the normal range. [short: Should I take medication to lower my A1c further?]
+### Diagnosed prediabetic three years ago at 57. Very light gestational diabetes at 23. Father, grandfather, diabetic. No medication during three years, but on your diet. My A1C ranges from 5.2 to 5.5 (5.5% is an average blood sugar of about 120, but it could be varying up and down around that). Doctor says, no worries, you are in normal range, but your book says otherwise. Your book, though, does not address the issue of should you take medication to lower it further, even though by conventional definitions you are in the normal range. [short: Should I take medication to lower my A1C further?]
 
 Well, my feelings are that you should, first of all, I would not like a 5.5 for myself if I had a choice.
 I would like to get under 5.  

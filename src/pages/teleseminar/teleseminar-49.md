@@ -271,12 +271,12 @@ except sometimes early on when they're still making their own insulin. The answe
 lasts longer than Lantus and if you look at my videos you'll see my guidelines for how to dose
 Tresiba.
 
-### I was diagnosed with MODI 2, I can get my A1c down to 5.5 if I eat 100 grams of carb per day, however I'm always hungry at these levels. When I raise my carbohydrate above 100 grams I feel much better in general but my A1c goes up to 5.7. [short: How should I manage MODY 2 and hunger?]
+### I was diagnosed with MODI 2, I can get my A1C down to 5.5 if I eat 100 grams of carb per day, however I'm always hungry at these levels. When I raise my carbohydrate above 100 grams I feel much better in general but my A1C goes up to 5.7. [short: How should I manage MODY 2 and hunger?]
 
 MODI 2 that's maturity onset diabetes of youth type 2.  
 I doubt that this is a kid who wrote the question so it's hard to understand that he has MODI 2 but maybe he's had it for years, I don't know.
 
-Well I'd recommend that you read my book Diabetes Solution if you want to get your A1c down it takes
+Well I'd recommend that you read my book Diabetes Solution if you want to get your A1C down it takes
 less carbohydrate.
 
 Also most people who are many people who are on diabetic diets are getting inadequate amounts of
@@ -340,13 +340,13 @@ with your nephrologist.
 We know that diabetic kidney disease is caused by high blood sugars, so keeping the blood sugars
 elevated is certainly going to accelerate it.
 
-### If my fasting blood sugar is regularly below 120 and my A1c is less than 6, do I have to continue to take Metformin twice a day, 500 milligrams? [ short: Metformin when A1c is less than 6% ?]
+### If my fasting blood sugar is regularly below 120 and my A1C is less than 6, do I have to continue to take Metformin twice a day, 500 milligrams? [ short: Metformin when A1C is less than 6% ?]
 
 Well, what I say is what Yogi Berra would have said, what works, works.  
 Read my book and whatever medication does the job is what you should be taking.  
 You certainly should be on a low carbohydrate diet.
 
-### I'm a type 1 diabetic. My last A1c was 6.0 and I've been on a strict low carb diet, however, I've not been able to lose weight. I've asked my endocrinologist about lowering my insulin dose to help with losing some of my excess 100 (45.5 kg) pounds, but she seems more interested in my numbers than in me as a person or patient. What do you recommend? [short: Loosing weight while managing type 1 diabetes?]
+### I'm a type 1 diabetic. My last A1C was 6.0 and I've been on a strict low carb diet, however, I've not been able to lose weight. I've asked my endocrinologist about lowering my insulin dose to help with losing some of my excess 100 (45.5 kg) pounds, but she seems more interested in my numbers than in me as a person or patient. What do you recommend? [short: Loosing weight while managing type 1 diabetes?]
 
 I recommend you read my book, Diabetes Solution, number one, and number two, that instead of using
 an endocrinologist, you find a kindly family practice physician who will listen to reason.
@@ -408,14 +408,14 @@ it.
 
 Not to my knowledge. They're biologically supposed to be identical to human insulin.
 
-### My 5 year old has had high blood glucose levels ranging from five to 15.5 mmmol/L (that would be from 90 to 190 mg/dl, which is about 3 times normal). Currently no symptoms. Hemoglobin A1c is within range through strict diet. Human autoantibodies are high, however, still other tests, all other tests are within range. No diagnosis as yet, however, I'm concerned and wondering what I should do. Can this be reversed at this point? [short: What should I do about my child’s high glucose and antibodies?]
+### My 5 year old has had high blood glucose levels ranging from five to 15.5 mmmol/L (that would be from 90 to 190 mg/dl, which is about 3 times normal). Currently no symptoms. Hemoglobin A1C is within range through strict diet. Human autoantibodies are high, however, still other tests, all other tests are within range. No diagnosis as yet, however, I'm concerned and wondering what I should do. Can this be reversed at this point? [short: What should I do about my child’s high glucose and antibodies?]
 
 Well, if your daughter is having blood sugars as high as 190, that tells me that she's already a
 type 1 diabetic and should be treated aggressively. I'd suggest that you read my book, Diabetes
 Solution, and follow it very precisely. It is possible to preserve beta cell function in many people
 if you keep blood sugars absolutely normal.
 
-### My A1c is 5.1 following this low-carb diet I started last July. I have lost 78 pounds (35 kg) so far, got a 140 pound (64.5 kg) total loss goal. Am I safe just stopping Metformin? Would I be better tapering my medication off? [short: Stopping Metformin after weight loss?]
+### My A1C is 5.1 following this low-carb diet I started last July. I have lost 78 pounds (35 kg) so far, got a 140 pound (64.5 kg) total loss goal. Am I safe just stopping Metformin? Would I be better tapering my medication off? [short: Stopping Metformin after weight loss?]
 
 Again, you should read my book, Diabetes Solution, and you do what works. I would probably, if it
 were me, I would probably taper it off, but I might not want to stop it at all if it's effective and

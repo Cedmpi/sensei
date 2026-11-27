@@ -58,8 +58,8 @@ and they had never seen any diabetics with normal blood sugars and didn't know h
 but I had a reputation for having patients with normal blood sugars.
 
 So they contacted me and
-wanted to study two groups of patients. One group with normal hemoglobin a1c's in the fours and
-fives and their groups their group at New York Medical College which who all had high a1c's as
+wanted to study two groups of patients. One group with normal hemoglobin A1C's in the fours and
+fives and their groups their group at New York Medical College which who all had high A1C's as
 recommended by the American Diabetes Association. And we did this study and sure enough the atrial
 natriuretic factor as I recall was much higher in the usual control diabetics than it was in
 those with normal blood sugars.

@@ -148,7 +148,7 @@ ACE inhibitor. I'm not certain they may have a reason for not using it. Also, th
 reason to lower his serum fibrinogen level which is frequently elevated in kidney disease and could
 make the kidney disease work, so your physicians may want to look at that. 
 
-### My son is 17 years old. He was diagnosed 5 years ago. His A1c is 7.2 (which is an average blood sugar of around 188 mg/dL, which is about two and a half times normal). He is underweight. How do I calculate how much protein he needs? If I go by his present weight, it probably would not be enough. Should I go by the calculations of Michael and Mary Eades from their book Protein Power? [short: How much protein is needed?]
+### My son is 17 years old. He was diagnosed 5 years ago. His A1C is 7.2 (which is an average blood sugar of around 188 mg/dL, which is about two and a half times normal). He is underweight. How do I calculate how much protein he needs? If I go by his present weight, it probably would not be enough. Should I go by the calculations of Michael and Mary Eades from their book Protein Power? [short: How much protein is needed?]
 
 By
 the way, her name is Mary Dan. I haven't read that book for many years since it first came out,
@@ -329,26 +329,26 @@ Diabetes Solution because using one insulin to treat diabetes doesn't always wor
 look at your blood sugars around the clock and one insulin usually doesn't always do the job.
 You may need pre-meal insulin also, rapid acting insulin. 
 
-### Type 1 since 1997, celiac disease confirmed in 2012, many years of diarrhea, IGA immunodeficiency and lactose intolerance, irritable bowel syndrome and gastroparesis. Two years on a low carb high protein diet. Lowest achieved A1c is 6.8 (that's an average blood sugar of about 170). My endocrinologist says it's impossible for celiac diabetics to have A1c lower than 7 because of different absorption of glucose in the small intestine. Is this true? [short: Can a person with celiac disease achieve an A1c below 7?]
+### Type 1 since 1997, celiac disease confirmed in 2012, many years of diarrhea, IGA immunodeficiency and lactose intolerance, irritable bowel syndrome and gastroparesis. Two years on a low carb high protein diet. Lowest achieved A1C is 6.8 (that's an average blood sugar of about 170). My endocrinologist says it's impossible for celiac diabetics to have A1C lower than 7 because of different absorption of glucose in the small intestine. Is this true? [short: Can a person with celiac disease achieve an A1C below 7?]
 
 First of all, if you have a low IGA,
 I seriously question whether you have celiac disease because a low serum IGA can cause severe
 diarrhea and it's treatable. It's treatable with gamma globulin. So before I would say that you
-give up on your elevated A1c, I would say that you get an immunoglobulin profile and that you see an
+give up on your elevated A1C, I would say that you get an immunoglobulin profile and that you see an
 immunologist and find out whether you should be getting gamma globulin and then if you do,
 does the diarrhea go away? 
 
 But on the other hand, there's still the gastroparesis and it's a big
 job to treat the gastroparesis. Now I have many people who have gastroparesis, many patients,
-and their problem is that they can't get their A1c under 5. So getting under 6.8 if all you
+and their problem is that they can't get their A1C under 5. So getting under 6.8 if all you
 have is gastroparesis is possible if you do all the treatments for gastroparesis and we have a
 whole chapter on that in my book. So I advise you to read Diabetes Solution. I think there's a whole
 chapter but I'm not sure. We do discuss it at great length. 
 
-### Type 2 diabetic on insulin. Since getting your book, I've been able to lower my A1c from 7.4 to 5.2 and I'm having trouble getting the rest of the way. My doctor is ecstatic but I want to go all the way to 4.4. My doctor says it's close to impossible without a continuous glucose monitor. What do you think and have you ever used one? [short: Continuous glucose monitor needed to lower A1c?]
+### Type 2 diabetic on insulin. Since getting your book, I've been able to lower my A1C from 7.4 to 5.2 and I'm having trouble getting the rest of the way. My doctor is ecstatic but I want to go all the way to 4.4. My doctor says it's close to impossible without a continuous glucose monitor. What do you think and have you ever used one? [short: Continuous glucose monitor needed to lower A1C?]
 
 Well, I have one on me right now. I've had it on for I guess at least 2 years and
-I think that if you're getting your A1c under 5, it's very wise. In fact, I recommend it for all
+I think that if you're getting your A1C under 5, it's very wise. In fact, I recommend it for all
 type 1 diabetics and there are tricks to using it which we've discussed in the past. You look at
 my videos, there are probably several about the use of continuous glucose monitors and I highly
 recommend it. 

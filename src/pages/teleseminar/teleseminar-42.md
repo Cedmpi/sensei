@@ -89,12 +89,12 @@ gallbladder if you're eating a lot of fat, so the tendency of many people to ina
 to a low carbohydrate diet certainly is not supported by the experience of people with gallbladder
 disease or stones.
 
-### With your low carb diet my 1 to 2 hours postprandial blood glucose is always below 120 mg/dL, but I'm disappointed that my A1c is still 5.7% (which would suggest an average blood sugar of about 128 mg/dL). My endocrinologist says I technically don't have diabetes don't need to be on any medications since my A1c has now normalized. Well, should I change doctors and ask for Glucophage XR? [short: Should I change doctors and ask for Glucophage XR?]
+### With your low carb diet my 1 to 2 hours postprandial blood glucose is always below 120 mg/dL, but I'm disappointed that my A1C is still 5.7% (which would suggest an average blood sugar of about 128 mg/dL). My endocrinologist says I technically don't have diabetes don't need to be on any medications since my A1C has now normalized. Well, should I change doctors and ask for Glucophage XR? [short: Should I change doctors and ask for Glucophage XR?]
 
-First of all an A1c of 5.7% by my standards is not normal. It's an average blood sugar of 128 mg/dL.
+First of all an A1C of 5.7% by my standards is not normal. It's an average blood sugar of 128 mg/dL.
 
 Studies have shown in general populations, non-diabetic populations, that the lowest mortality is an
-A1c of something under 5. I think it's 4.2 to 4.6 actually an average blood sugar of 83 seems to
+A1C of something under 5. I think it's 4.2 to 4.6 actually an average blood sugar of 83 seems to
 have the lowest mortality and here you're talking about 128 which is more than 50% higher than 83.
 
 So I certainly can't consider that a normal blood sugar. Yes, it's in the range that the American
@@ -103,10 +103,10 @@ blood sugar normal has nothing to do with the well-being of patients. It's more 
 needs of physicians.
 
 So maybe Glucophage XR or whatever the equivalent that's currently available would be of value.
-Certainly, I wouldn't be happy with an A1c of 5.7%.
+Certainly, I wouldn't be happy with an A1C of 5.7%.
 
 It's interesting the manufacturer Eli Lilly recently maybe just this week has a new advertisement
-that says for type 2 diabetes if your A1c is over 9% consider insulin and to me if it's under 9%
+that says for type 2 diabetes if your A1C is over 9% consider insulin and to me if it's under 9%
 what's the doctor supposed to do? Watch the patients slowly develop all the complications of
 diabetes.
 
@@ -149,14 +149,14 @@ Weightlifting can increase intraocular pressure and for certain forms of retinop
 a bleed, but for other forms it may not cause any problems. So speak to your retinologist and you
 might want to find out what type of retinopathy you have.
 
-### I'm a type 1 diabetic with an insulin pump. I have been on metformin. Jardiance (that's a DPP4 agonist) and Victoza for a year. Now my A1c and weight has dropped significantly. What are your thoughts on type 1 diabetics being on type 2 medication? [short: Can type 1 diabetics take type 2 medications?]
+### I'm a type 1 diabetic with an insulin pump. I have been on metformin. Jardiance (that's a DPP-4 agonist) and Victoza for a year. Now my A1C and weight has dropped significantly. What are your thoughts on type 1 diabetics being on type 2 medication? [short: Can type 1 diabetics take type 2 medications?]
 
 Well, it is possible for certain medication like metformin to facilitate weight loss because it may
 reduce intestinal absorption of carbohydrate, note that I said may, and it also lowers insulin
 resistance. So it can be of value.
 
 The fact that you're on an insulin pump suggests to me that you probably have, and even though your
-A1c has dropped, it probably is not normal because I've never seen a type 1 diabetic with normal
+A1C has dropped, it probably is not normal because I've never seen a type 1 diabetic with normal
 blood sugars on an insulin pump.
 
 I think I once saw the case where it was a newly diagnosed patient who was making substantial
@@ -298,16 +298,16 @@ Why do you want to avoid injections? Not only that, if you're giving the patient
 insulin, not the high doses that are usually recommended. It's a tiny shot, and it's over in less
 than a second. There's no reason to avoid doing this.
 
-### I've heard you suggest Glucophage may be better than generic Metformin. I've purchased the 6 month supply of Glucophage and plan to check my A1c at the end of the period, comparing it to my beginning value of 5.5 on the generic drug. Does this seem like a reasonable plan? Would you do anything else to check any other laboratory values? [short: Comparing Glucophage with generic metformin?]
+### I've heard you suggest Glucophage may be better than generic Metformin. I've purchased the 6 month supply of Glucophage and plan to check my A1C at the end of the period, comparing it to my beginning value of 5.5 on the generic drug. Does this seem like a reasonable plan? Would you do anything else to check any other laboratory values? [short: Comparing Glucophage with generic metformin?]
 
 Well, you want to see if your blood sugars are consistent.
 
 So I would think that you'd want to look at a few weeks of blood sugars, save the data, collect it
 the way we advise you to collect it in the book using our forums, and you could compare your blood
-sugars before and after, not just the A1c, because you could have a wide range of blood sugars, and
-the same A1c has a smaller range that has a little higher average.
+sugars before and after, not just the A1C, because you could have a wide range of blood sugars, and
+the same A1C has a smaller range that has a little higher average.
 
-So the A1c by itself is not going to give you the whole answer.
+So the A1C by itself is not going to give you the whole answer.
 
 ### I have type 2 diabetes. I drink 4 to 5 gallons of water a day. However, my urine is still dark brown. I can't drink more water, and my tongue is always dry. What can I do?
 
@@ -337,7 +337,7 @@ sweets from any source. I could be wrong about this source.
 Maybe it's all made from vegetables, but I can't. It's hard for me to imagine that you're making
 bread out of a mixture of vegetables.
 
-### Type 1 since 1977. So this is another survivor. A1c is 4.5. And any suggestions on how to investigate why my total cholesterol is so high, which is 404. I'm active, energetic, and lean. I know you mentioned that weight loss causes a temporary elevated cholesterol.[short: How should I investigate high cholesterol?]
+### Type 1 since 1977. So this is another survivor. A1C is 4.5. And any suggestions on how to investigate why my total cholesterol is so high, which is 404. I'm active, energetic, and lean. I know you mentioned that weight loss causes a temporary elevated cholesterol.[short: How should I investigate high cholesterol?]
 
 I never said that. I said triglyceride.
 But 404 seems extreme, and my weight has been stable for a couple of months.
@@ -364,7 +364,7 @@ And it would be interesting to see what the LP small a is, but don't look at tot
 at all these other factors and get a coronary artery calcium score. Talk to your doctor about these
 things.
 
-### If you have been diagnosed with pre-diabetes and have lost weight and continue to lose weight, what can you do to gain weight? I am down to 89 pounds (40 kg) and this is affecting my bones. I have not been given any medication or insulin. A1c is 5.5. [short: How can I gain weight with pre-diabetes?]
+### If you have been diagnosed with pre-diabetes and have lost weight and continue to lose weight, what can you do to gain weight? I am down to 89 pounds (40 kg) and this is affecting my bones. I have not been given any medication or insulin. A1C is 5.5. [short: How can I gain weight with pre-diabetes?]
 
 Well, as I've said before, the most common thing that I do to put on, to have patients gain weight
 is to increase their dietary protein and if their blood sugars go up, to cover it with insulin
@@ -431,7 +431,7 @@ diabetics like the GLP-1 agonists are injectables and there are other there's se
 kinds of drugs that are injectable. They already know how to give injections because we've been
 trying these drugs on them. They don't mind injecting the insulin.
 
-### If someone is following your dietary guidelines, at what blood glucose level or A1c would you consider that dietary controls have failed and feel insulin is needed? [short: When is insulin needed?]
+### If someone is following your dietary guidelines, at what blood glucose level or A1C would you consider that dietary controls have failed and feel insulin is needed? [short: When is insulin needed?]
 
 Well, first of all, if we're talking a type 2, I would try weight loss, Glucophage or Metformin,
 exercise, and if that doesn't get their blood sugars very close to the target of 83, we'll use
@@ -630,13 +630,13 @@ I have a feeling that he should probably be treated as an early type 1 diabetic.
 It would also be interesting to know if there's a family history of diabetes, also if he
 is peeing a lot losing weight etc.
 
-### 65 year old man diagnosed with type 2 diabetes in 2008. It's about 11 years ago after reading your books I promptly adopted a low carb diet lost 70 pounds (32 kg) and began taking metformin I'm 6 foot 2 inches (188 cm) and currently weigh 200 pounds (90 kg), my most recent a1c was 5.6, C-peptide was 3.4 where the labs normal is 1.1 to 4.4 that shocked me, this makes me think that my pancreas is making enough insulin and that my problem is insulin resistance [short: Could insulin resistance explain my C-peptide result?]
+### 65 year old man diagnosed with type 2 diabetes in 2008. It's about 11 years ago after reading your books I promptly adopted a low carb diet lost 70 pounds (32 kg) and began taking metformin I'm 6 foot 2 inches (188 cm) and currently weigh 200 pounds (90 kg), my most recent A1C was 5.6, C-peptide was 3.4 where the labs normal is 1.1 to 4.4 that shocked me, this makes me think that my pancreas is making enough insulin and that my problem is insulin resistance [short: Could insulin resistance explain my C-peptide result?]
 
 Well, first of all, if you're not overweight for your height and it's hard for me to tell It's it's
 not likely to be insulin resistance.
 
 But there's one other point your C-peptide Was reported but not the blood sugar at the time, if you
-had a blood sugar here your is your a1c suggests an average blood sugar of 124 for the 5.6% and that
+had a blood sugar here your is your A1C suggests an average blood sugar of 124 for the 5.6% and that
 means average so you could be going from 80 to 160 or 170 and if you were had a high normal
 C-peptide with a blood sugar of 170 that's not anything astounding, so just looking at the C-peptide
 without the blood sugar doesn't have very much meaning. 

@@ -587,7 +587,7 @@ size of walnuts that we've brought down to normal.
 It's, again, I use it only to treat overeating. The direct effect of these things on blood sugars
 is nil or close to nothing.
 
-### What is the role of SGLT-2 inhibitors as a sole treatment for mild diabetes with or without Glucophage?
+### What is the role of SGLT2 inhibitors as a sole treatment for mild diabetes with or without Glucophage?
 
 That's stuff like Invokana, Farxiga and, again, these things
 have potential complications, must be taken with a lot of water.

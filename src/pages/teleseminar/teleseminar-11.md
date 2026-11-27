@@ -346,7 +346,7 @@ on the internet has an adequate solution to the problem. But Metformin,
 or I should say Glucophage and Avandia are helpful, very helpful.
 
 ### 
-*47 years old. A1c is good (I don't know what that means).
+*47 years old. A1C is good (I don't know what that means).
 Diagnosed on a four-hour test that I am insulin resistant.
 Sugars up and down diagnosed with gastroparesis. Is this the reason for all my stomach issues
 along with my unstable sugars and why I can't lose a single pound? How can I control my sugars
@@ -453,7 +453,7 @@ lumps in your shoes, but certainly just looking at fasting blood sugars tells yo
 
 ### Acarbose
 *61-year-old Asian physician with type 2 for the last three and a half years. Using your methods,
-my A1c is down to 4.6 on Metformin and Acarbose. What do you think of Acarbose?*
+my A1C is down to 4.6 on Metformin and Acarbose. What do you think of Acarbose?*
 
 Well, I spoke of Acarbose earlier in this teleseminar, so I'm just going to tell you that
 you should be cutting down the carbohydrate, and if you do that, the Acarbose will be of no value.

@@ -352,7 +352,7 @@ microbiome are probably fabricating stories.
 
 ### Why do I get different readings of 103 on my right hand and 130 on my left hand?
 Well, first of all, it depends what meter you use. If you use the meter that I was talking
-about earlier that was used to determine the current ADA hemoglobin A1c recommendations,
+about earlier that was used to determine the current ADA hemoglobin A1C recommendations,
 that meter can give you 80 in one hand and 150 in the other hand immediately thereafter.
 
 That's how inaccurate I found it to be and variable. So it really depends on the meter.

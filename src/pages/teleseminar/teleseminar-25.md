@@ -141,8 +141,8 @@ is in my book, Diabetes Solution.
 
 Well,
 first of all, if someone has told them he is pre-diabetic, the chances are that they
-got the information from some blood sugar reading or hemoglobin A1c reading. And once
-the A1c is over, let's say, 5.3 or so, which would be an average blood sugar of about 112 mg/dL,
+got the information from some blood sugar reading or hemoglobin A1C reading. And once
+the A1C is over, let's say, 5.3 or so, which would be an average blood sugar of about 112 mg/dL,
 or fasting blood sugar over 112, I would recommend that I usually treat people as if they're
 diabetic, put them on very low-carbohydrate diets.
 
@@ -253,7 +253,7 @@ I should say, two hours before dinner so that it will prevent that middle of the
 There's a good chance that you don't need insulin before dinner, but we can't be sure
 of that. That's about all I can think of right now.
 
-### Type 1 for seven years. On your program since diagnosis, my A1c is 4.8 to 4.9 and I have blood sugars about 140 less than 10 times a year, above 140 less than 10 times a year. I'm very anxious about complications. Do I need to be? [short: Should I be anxious about complications?]
+### Type 1 for seven years. On your program since diagnosis, my A1C is 4.8 to 4.9 and I have blood sugars about 140 less than 10 times a year, above 140 less than 10 times a year. I'm very anxious about complications. Do I need to be? [short: Should I be anxious about complications?]
 
 Probably not. One thing I would do is if you are having consistent meals
 every day, the same thing from one day to the next. I'd pick a day and check blood sugars
@@ -366,7 +366,7 @@ read my book, Diabetes Solution.
 ### Do you recommend testing for insulin autoantibodies in children where the mother has type 1 diabetes?
 
 It certainly makes sense, but I also recommend that you
-check hemoglobin A1c. And I also strongly recommend that any close relatives of a type
+check hemoglobin A1C. And I also strongly recommend that any close relatives of a type
 1 diabetic be on a low carbohydrate diet.
 
 So, my kids who are now almost older than
@@ -525,7 +525,7 @@ I've never had a need for any of the painkillers or other systems for treating
 peripheral neuropathy. It's too bad that doctors ignore the blood sugar and give all kinds
 of supplements and painkillers for the neuropathy instead of addressing it directly at the cause.
 
-### I've just recently been diagnosed with MODI (maturity onset diabetes of youth). A1c is 7.2 (that's an average blood sugar of something like 188) I eat low carb, still a bit above the 6-12-12 you recommend. I daily skip meals. The endo prescribed a sulfonylurea which I have not gotten it filled due to your recommendations against it after reading your book. Would you have a better recommendation? [short: A better recommendation than a sulfonylurea for MODI?]
+### I've just recently been diagnosed with MODI (maturity onset diabetes of youth). A1C is 7.2 (that's an average blood sugar of something like 188) I eat low carb, still a bit above the 6-12-12 you recommend. I daily skip meals. The endo prescribed a sulfonylurea which I have not gotten it filled due to your recommendations against it after reading your book. Would you have a better recommendation? [short: A better recommendation than a sulfonylurea for MODI?]
 
 Well, yes I would. The reason we don't like a sulfonylurea
 is one, it's very hard to utilize without causing hypoglycemia if it works and two,
@@ -536,7 +536,7 @@ studies and they repeatedly have shown the same thing going all the way back to 
 maybe earlier. I would recommend the possibility for Glucophage which is brand name Metformin.
 
 Avandia, certainly while you're already on a low carb
-diet but make sure you're on the right low carb diet and of course insulin. A1c as high
+diet but make sure you're on the right low carb diet and of course insulin. A1C as high
 as yours probably requires insulin if you're already on a low carb diet.
 
 ### Please comment on your experience and or knowledge on the intermittent fasting and following your eating plan. From what I've read, [short: Intermittent fasting alongside the eating plan?]
@@ -552,7 +552,7 @@ and this is what you see in the scientific literature. They lose fat and muscle 
 fasting and then they regain the fat and it's they have to work all the harder at rebuilding
 the muscle.
 
-### I was up to as much as 24 units of Levemir twice daily. My A1c rose from 5.5% and still my endo wouldn't write me a prescription for bolus insulin saying it would be better to be at an A1c of 6.0. I went and bought Humulin R over the counter. It seemed fine for a few weeks very helpful but then my tongue started feeling numb for the next two weeks. The past weekend my lips and cheeks were partially numb too. I suspect the R insulin is the cause so I have stopped using it. Is it possible that R could cause such a reaction? [short: Could R insulin cause numbness of the lips and cheeks?]
+### I was up to as much as 24 units of Levemir twice daily. My A1C rose from 5.5% and still my endo wouldn't write me a prescription for bolus insulin saying it would be better to be at an A1C of 6.0. I went and bought Humulin R over the counter. It seemed fine for a few weeks very helpful but then my tongue started feeling numb for the next two weeks. The past weekend my lips and cheeks were partially numb too. I suspect the R insulin is the cause so I have stopped using it. Is it possible that R could cause such a reaction? [short: Could R insulin cause numbness of the lips and cheeks?]
 
 Well you
 know you could have had an allergic reaction to the R but I doubt it very much. What I
@@ -588,7 +588,7 @@ Well, maybe you are diabetic. I doubt that the intermittent fasting
 is smart. You're destroying muscle mass and increasing your insulin resistance by destroying
 muscle mass.
 
-I think that you should get hemoglobin A1c's and you may need long-acting
+I think that you should get hemoglobin A1C's and you may need long-acting
 glucophage at bedtime. You might need a tiny dose of Tresiba insulin at bedtime or some
 of Avandia to prevent the overnight rise or it could be that you're going up after
 dinner and your bedtime is late and it keeps going up overnight from the dinner.

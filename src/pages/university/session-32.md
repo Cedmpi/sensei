@@ -29,7 +29,7 @@ There are other medications in the incretin mimetic class that usually are not a
 
 Yeah, Trulicity.
 
-Okay. It's getting a lot of publicity, tremendous amount of advertising for a once a week injection of a substance that is going to lower your blood sugar a tiny amount, maybe lower your hemoglobin A1c by a third of a percent.
+Okay. It's getting a lot of publicity, tremendous amount of advertising for a once a week injection of a substance that is going to lower your blood sugar a tiny amount, maybe lower your hemoglobin A1C by a third of a percent.
 
 Now, I have only one patient taking this, because I'm trying to focus on time of day. But this person travels around the world. His time of meals, time of sleep, etc., is constantly changing, and he asked for something that works all day long for a week. And, to my surprise, it has curbed his overeating. He has no longer any problem.
 So, I'm really amazed by this. I'm reluctant to use it on someone who does not have this traveling problem, because the Victoza and the Byetta are so effective. The Byetta may start working in an hour and work for about 3 or 4 hours.

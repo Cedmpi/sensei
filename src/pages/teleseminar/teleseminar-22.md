@@ -243,7 +243,7 @@ syringe case is a little bulkier than each of the two pre-filled syringes, and I
 want to bulge in my pocket, I put two syringes side by side in the outer jacket pocket, and
 I recommend this very highly.
 
-### To maintain your low A1c, how many times on average do you inject yourself with your low doses of insulin?
+### To maintain your low A1C, how many times on average do you inject yourself with your low doses of insulin?
 
 Well, even though I take Tresiba insulin, where they claim it lasts for 2 days, I
 find that it barely lasts overnight, and I have to take one shot in the morning and one

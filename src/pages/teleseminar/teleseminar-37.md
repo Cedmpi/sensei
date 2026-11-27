@@ -33,7 +33,7 @@ and will prohibit ties.
 
 Okay, now we'll get down with the first question.
 
-### Type 2 diabetes for more than 15 years, now 66 years old. I decided to check my A1c, (which was 20.8, which is, according to my calculations, over 700 mg/dL, which is pretty darn high). How do I correct the insulin resistance and increase my insulin sensitivity without taking any medication? [short: How can I correct insulin resistance without medication?]
+### Type 2 diabetes for more than 15 years, now 66 years old. I decided to check my A1C, (which was 20.8, which is, according to my calculations, over 700 mg/dL, which is pretty darn high). How do I correct the insulin resistance and increase my insulin sensitivity without taking any medication? [short: How can I correct insulin resistance without medication?]
 
 With that high of blood sugar, you're probably a type 1 diabetic by now. Unless you've been eating
 sweets all day long, it's very hard for type 2 to get up to 700 mg/dL. So I
@@ -416,7 +416,7 @@ have to do it over again. So that's what I would recommend. At least give it a t
 
 But he should be on a very low-carb diet as we said to the other listeners or viewers.
 
-### My A1c is 4.5%. Last month it was 4.4%. Thanks to you, but my uric acid is 8.1%, last month 7.2%. I weigh 64 kilograms (which is 141 pounds). 28 years old, drink 2 liters of fluid daily and that would be about 2 quarts. Type 1 diabetic. Have not had gout attack yet. What's your suggestion? [short: What should I do about high uric acid?]
+### My A1C is 4.5%. Last month it was 4.4%. Thanks to you, but my uric acid is 8.1%, last month 7.2%. I weigh 64 kilograms (which is 141 pounds). 28 years old, drink 2 liters of fluid daily and that would be about 2 quarts. Type 1 diabetic. Have not had gout attack yet. What's your suggestion? [short: What should I do about high uric acid?]
 
 Well, first of all, for some in your size, 2 liters of water a day is a bit too little and
 especially if you're in a warm climate. So I would up to 2.5 to 3 liters a day and see what happens

@@ -36,7 +36,7 @@ If it was a meter maker, you could be sure to expect that that company's meter i
 on top. Another thing to look at is did the study disclose at what blood sugars the various meters
 were superior or inferior, and most of the studies do not disclose that. You could have a meter that
 was very accurate at blood sugars of 200, and that would make the ADA very happy because they like
-to see an A1c of 7 for most diabetics, which is an average blood sugar of around 200. But for my
+to see an A1C of 7 for most diabetics, which is an average blood sugar of around 200. But for my
 patients, we have an average blood sugar in the 80s or for kids in the 70s. We want a meter that's
 most accurate at those values.
 
@@ -46,7 +46,7 @@ any new meters that come out.
 
 Now we'll get down to the questions.
 
-### 61 years old, recently diagnosed with type 2 diabetes, reduced A1c from 7.9, which is an average blood sugar of about 210 mg/dl, to 5.1, which is around 105. Through diet and exercise, does that mean that my diabetes is cured and my beta cells will work better now? [short: Has my type 2 diabetes been cured?]
+### 61 years old, recently diagnosed with type 2 diabetes, reduced A1C from 7.9, which is an average blood sugar of about 210 mg/dl, to 5.1, which is around 105. Through diet and exercise, does that mean that my diabetes is cured and my beta cells will work better now? [short: Has my type 2 diabetes been cured?]
 
 Well, your beta cells might work better because high blood sugars are toxic to beta cells, but it
 has not cured your diabetes. The fact that you're going to have to stay on the diet and continue the
@@ -209,7 +209,7 @@ matter. You have to experiment with the generic versions of metformin.
 ### I'm 28 years old, been diagnosed MODY type 3, current A1C is 4.9%. I take Genvoya 500 milligrams once every 3 days. What are your thoughts regarding this rare type of diabetes and what kind of medication would you recommend? [short: What treatment do you recommend for MODY type 3?]
 
 MODY that's maturity onset diabetes of youth, and I might add that that's a diagnosis that frequently is a guesstimate diagnosis.
-Genvoya is a DPP4 antagonist that prevents the destruction of GLP-1 in the bloodstream and 
+Genvoya is a DPP-4 antagonist that prevents the destruction of GLP-1 in the bloodstream and 
 it's been shown to be minimally effective at reducing blood sugar and also has been shown to 
 have enough adverse effects that I couldn't justify giving it instead of other approaches to lowering blood sugar.
 
@@ -266,7 +266,7 @@ got the glucose.
 You could as well as I could study the internet to see if there are any antibiotics, IV antibiotics
 that come mixed with glucose. I would doubt it but you could find out for yourself.
 
-### For a recently diagnosed type 2 diabetic who is able to reduce his A1c to 5.3 in 6 weeks by eating very few carbs, is it possible to become normal? That is, would the cells start working normally or if he goes back to a normal diet with the blood sugar numbers just go back to where they were prior to the very low-carb diet? [short: Can type 2 diabetes become normal after lowering A1c?]
+### For a recently diagnosed type 2 diabetic who is able to reduce his A1C to 5.3 in 6 weeks by eating very few carbs, is it possible to become normal? That is, would the cells start working normally or if he goes back to a normal diet with the blood sugar numbers just go back to where they were prior to the very low-carb diet? [short: Can type 2 diabetes become normal after lowering A1C?]
 
 Yeah, you made a good guess. That's what I would expect to happen.
 
@@ -306,7 +306,7 @@ If you don't get satisfactory results, you try another source of supply and ther
 and you just got to hunt around for the one that gives you proper results with minimal adverse
 effects and it's possible to get them without any adverse effects.
 
-### I have an early stage of retinopathy. My question is if I normalize my blood sugar level in a fast way, is there a risk that my retinopathy will accelerate? I found on the internet that if we lower the A1c by 2% or 3%, it will be no good. [short: Could quickly normalizing blood sugar worsen retinopathy?]
+### I have an early stage of retinopathy. My question is if I normalize my blood sugar level in a fast way, is there a risk that my retinopathy will accelerate? I found on the internet that if we lower the A1C by 2% or 3%, it will be no good. [short: Could quickly normalizing blood sugar worsen retinopathy?]
 
 The truth of the matter is and I've stated this on my videos and on my teleseminars that if your
 IGF-1, insulin-like growth factor number one, is elevated and you're a type 1 diabetic and already
@@ -458,10 +458,10 @@ The ACE inhibitors are, and unless you've had coughing from all of the ACE inhib
 tried, your doctor may not find a reason for taking the Losartan. There's a good likelihood you
 could get by with an ACE inhibitor.
 
-### I am 66 years old. Should I be satisfied with an A1c in the low 5's, or should I consider insulin? My only diabetic medication is metformin. [short: Should I consider insulin with an A1c in the low 5's ?]
+### I am 66 years old. Should I be satisfied with an A1C in the low 5's, or should I consider insulin? My only diabetic medication is metformin. [short: Should I consider insulin with an A1C in the low 5's ?]
 
 Well, first of all, there's something called low carbohydrate diet, which might all by itself get
-your A1c and back it down into the fours, so I'd certainly try that. If you're overweight, losing
+your A1C and back it down into the fours, so I'd certainly try that. If you're overweight, losing
 weight can get your A1C down, lowering insulin resistance, and exercise can help.
 
 I would try all of those first, and if you're doing all of those and would like to go further, as

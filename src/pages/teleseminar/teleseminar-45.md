@@ -37,10 +37,10 @@ on, and claiming a cure.
 
 There should be a very high level of suspicion. I have yet to find a cure for any form of diabetes.
 
-There are claims about pre-diabetes. Well, if someone has a very slightly elevated hemoglobin A1c,
+There are claims about pre-diabetes. Well, if someone has a very slightly elevated hemoglobin A1C,
 that is, let's say, 5.2 or 5.3%, and he's obese, and you get his weight way down to the normal
-range, and his A1c comes out under 5, you may have cured his pre-diabetes, maybe, but he's still
-susceptible to diabetes because he had slightly elevated A1c in the past.
+range, and his A1C comes out under 5, you may have cured his pre-diabetes, maybe, but he's still
+susceptible to diabetes because he had slightly elevated A1C in the past.
 
 ### Special subject: Generic metformin
 
@@ -107,11 +107,11 @@ It's a huge dose, but my blood levels don't reflect it.
 
 Okay, next question.
 
-### I'm healthy except for Parkinson's disease. My hemoglobin A1c is 5.4. My estimated average glucose based upon the A1c is 108. I have gut issues, bloating, early satiety, slow emptying and also poor circulation in hands and feet. [short: Gut issues, bloating, early satiety, poor circulation]
+### I'm healthy except for Parkinson's disease. My hemoglobin A1C is 5.4. My estimated average glucose based upon the A1C is 108. I have gut issues, bloating, early satiety, slow emptying and also poor circulation in hands and feet. [short: Gut issues, bloating, early satiety, poor circulation]
 
 Now right away, I want to say something
 here. The ADA claims for what blood sugar at what average blood sugar corresponds to what hemoglobin
-A1c are incorrect. They tend to run on the low side. They're based upon a study that used a blood glucose
+A1C are incorrect. They tend to run on the low side. They're based upon a study that used a blood glucose
 meter that tended to read low. So I find a 5.4 is more like 116. The ADA, according to this person, claims 108. 
 
 Though I have another comment here. 
@@ -135,7 +135,7 @@ demonstrate it on a gastric emptying study and usually two-thirds of the time yo
 ### In reading about your work, I'm tempted to try your diet. I had gestational diabetes. My mother and father had diabetes, so I guess the person is wondering [short: Should I follow a low-carb diet with a family history of diabetes?]
 
 Whether she should follow a low carbohydrate diet.
-Well, I would think that if her A1c is over 5, it's 5.4, if she has
+Well, I would think that if her A1C is over 5, it's 5.4, if she has
 a family history of diabetes, she should do what my children are doing. They're following low
 carbohydrate diets, just like mine. So it's certainly not going to do any harm.
 
@@ -242,7 +242,7 @@ multiple shots of insulin and at least two different kinds of insulin.
 
 Type 2 diabetics may be able to get away with diet, exercise, and oral agents, but just the diet
 alone will only work on people who are very mild, or you could call them borderline diabetics,
-pre-diabetics, people who have maybe an A1c of 5.4 or 5.5. Those might respond to diet only, but
+pre-diabetics, people who have maybe an A1C of 5.4 or 5.5. Those might respond to diet only, but
 most diabetics require medication of some kind.
 
 So, I suggest you read my book and find out what tests you'll have to do. She'll certainly have to
@@ -351,7 +351,7 @@ There's been, I believe, two studies that showed a J point in mortality in large
 one was done, I think, [in Korea](https://jamanetwork.com/journals/jama/fullarticle/200151)
 and I forgot where the other study was done,
 but what they found, both studies found the same J point, that is, at around 83 mg/dL,
-was when you were looking at average blood sugar based on A1c or the one study was based
+was when you were looking at average blood sugar based on A1C or the one study was based
 on fasting blood sugar, around 83 was the lowest mortality, and as blood sugar went above 83 and
 below 83, there was greater mortality. Now, this does not apply to children.
 

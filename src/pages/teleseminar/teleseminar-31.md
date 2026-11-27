@@ -98,7 +98,7 @@ two weeks for most people to lose their addiction.
 Now, not everyone loses their addiction and for the people who don't, we have tricks that are
 discussed in my book, Diabetes Solution.
 
-### My nine-year-old son was on insulin for about three weeks. He kept running low, eventually stopped the insulin. Low carb diet made his numbers drop. C-peptide is now positive (that means he's making insulin). A1c is 4.8. How long can we expect his pancreas to continue producing? [short: How long can my son's pancreas keep producing insulin?]
+### My nine-year-old son was on insulin for about three weeks. He kept running low, eventually stopped the insulin. Low carb diet made his numbers drop. C-peptide is now positive (that means he's making insulin). A1C is 4.8. How long can we expect his pancreas to continue producing? [short: How long can my son's pancreas keep producing insulin?]
 
 Very good question. The answer is that we really don't know. We do know that glucose, high blood
 sugars I should say, are toxic to the beta cells of the pancreas.
@@ -169,18 +169,18 @@ I do have a
 few very obese type 2 diabetics who need a small dose of Humalog on a rising in the morning to fight
 the dawn phenomenon. So that's an interesting special situation.
 
-### Should I apply the formula from your book for converting A1c values to average blood sugar when I use the A1c now test kit? [short: A1cNow test kit?]
+### Should I apply the formula from your book for converting A1C values to average blood sugar when I use the A1C now test kit? [short: A1CNow test kit?]
 
-Well in my experience the A1cNow test kit is not very accurate so whatever formula you apply is
-likely to come out with an incorrect answer since the A1c is likely to be incorrect. The test kit is
+Well in my experience the A1CNow test kit is not very accurate so whatever formula you apply is
+likely to come out with an incorrect answer since the A1C is likely to be incorrect. The test kit is
 also highly dependent upon the user. It requires you to fill a capillary tube to a certain mark etc.
 and it requires a great deal of skill.
 
-So I don't advise you to use this system. If you're interested in A1c's you can get the blood drawn
+So I don't advise you to use this system. If you're interested in A1C's you can get the blood drawn
 through Quest Lab or another national clinical laboratory.
 
 I'm trying to think whether the other bit of advice I would give is go buy blood sugars not buy
-A1c's but that requires that you sometimes get blood sugars in the middle of the night because if
+A1C's but that requires that you sometimes get blood sugars in the middle of the night because if
 you skip the nighttime blood sugars you're going to miss some important information.
 
 ### Should supplementation with vitamin C be avoided in diabetics because of concerns that it elevates blood sugars? [short: Is vitamin C safe for diabetics?]

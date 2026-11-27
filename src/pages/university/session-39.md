@@ -87,7 +87,7 @@ don't do for them.
 But all the rest of my type 2 diabetics get to a point where we're adding oral agents,
 we're trying some that don't work, some that are causing adverse effects, some that have
 other hazards, and maybe we end up with one oral agent or two, and the blood sugars are
-still not normal, they're not walking around with blood sugars around 83, or A1c is between
+still not normal, they're not walking around with blood sugars around 83, or A1C is between
 4.2 and 4.6.
 
 So we add insulin, and the little bit of insulin that we add doesn't do any harm, but I can

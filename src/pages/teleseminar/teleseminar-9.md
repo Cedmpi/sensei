@@ -26,9 +26,9 @@ So this is something that's worth noting. Anybody can try a supplement of L-carn
 I might add that there are other studies that show that L-carnosine inhibits the formation of oxidized LDL.
 
 That L-carnosine supposedly can prevent the oxidation of LDL. And we know that oxidized LDL is a risk factor for heart disease.
-One reason why I bring up the subject of L-carnosine at this point in time is because I had pointed out that DPP4 antagonists, a class of drugs that are being used to treat diabetes, type 2 diabetes nowadays,
-also can cause heart disease. So here we're recommending DPP4 antagonists to reverse type 2 diabetes.
-And now I can no longer recommend DPP4 antagonists. So we are instead talking about L-carnosine.
+One reason why I bring up the subject of L-carnosine at this point in time is because I had pointed out that DPP-4 antagonists, a class of drugs that are being used to treat diabetes, type 2 diabetes nowadays,
+also can cause heart disease. So here we're recommending DPP-4 antagonists to reverse type 2 diabetes.
+And now I can no longer recommend DPP-4 antagonists. So we are instead talking about L-carnosine.
 So we now have L-carnosine that not only increases beta cell mass in some studies, but it also
 inhibits LDL oxidation.
 
@@ -51,7 +51,7 @@ It's a little short of miraculous. So, you have to ask your doctor to provide a 
 It's great. Use propranolol to prevent blood sugar increases during events that cause anxiety.
 
 ### Better glycemic control before surgery.
-*I'm an anesthesiologist and diabetic. First, I would like to say I cannot thank Dr. Bernstein enough for the guidance. Secondly, my question is about a recent patient that was coming to the operating room for major orthopedic surgery. Hemoglobin A1c was 8.6, (which is an average blood sugar of around 250 mg/dl). On the pre-surgery visit, I raised the discussion of whether the case should be cancelled until the patient had better glycemic control. Several internists said that it was not necessary. They claimed that the risk factor for perioperative complications with diabetes was simply being a diabetic and not the degree of control. They felt good. Perioperative glycemic control was all that was needed, but acknowledged that often this is not done well. Any comments?*
+*I'm an anesthesiologist and diabetic. First, I would like to say I cannot thank Dr. Bernstein enough for the guidance. Secondly, my question is about a recent patient that was coming to the operating room for major orthopedic surgery. Hemoglobin A1C was 8.6, (which is an average blood sugar of around 250 mg/dl). On the pre-surgery visit, I raised the discussion of whether the case should be cancelled until the patient had better glycemic control. Several internists said that it was not necessary. They claimed that the risk factor for perioperative complications with diabetes was simply being a diabetic and not the degree of control. They felt good. Perioperative glycemic control was all that was needed, but acknowledged that often this is not done well. Any comments?*
 
 Well, I guess I agree with them. If you keep blood sugars close to normal before the surgery, during the surgery, and during the weeks thereafter, you shouldn't have a higher incidence of infections or other complications caused by the diabetes.
 So, that's basically it. There may be a situation that challenges this, but I cannot think of it offhand.
@@ -122,7 +122,7 @@ And we may be giving them metformin, but they're clearly type 1 diabetics becaus
 ### Incretin mimetics beta cell recovery
 *You have stated that you intend to begin treating patients who still have beta cells with incretin mimetics, not just as an appetite suppressant, but also to facilitate beta cell recovery or regeneration.*
 
-Well, I just mentioned that we're no longer recommending the DPP4 antagonists, such as Januvia and so on, because of the studies that show them associated with heart disease.
+Well, I just mentioned that we're no longer recommending the DPP-4 antagonists, such as Januvia and so on, because of the studies that show them associated with heart disease.
 
 ### How to get a type 1 10-year-old to gain weight without growth retardation.
 
@@ -211,7 +211,7 @@ And this may involve a deficiency of the antibody, or class of antibodies, calle
 So, that's something that has to be double-checked. Well, you could stop the metformin and see if the diarrhea goes away, and if it doesn't, you should get your IgA levels checked.
 
 ### Sugar substitutes adverse effects
-*I have now reached an A1c of 4.1% through diet and exercise, still have a sweet tooth, and eat a significant amount of stevia and erythritol every day. Do you know of any adverse effect caused by eating too much of these sugar substitutes? I've had swollen feet these last weeks, and have to get up to pee several times per night.*
+*I have now reached an A1C of 4.1% through diet and exercise, still have a sweet tooth, and eat a significant amount of stevia and erythritol every day. Do you know of any adverse effect caused by eating too much of these sugar substitutes? I've had swollen feet these last weeks, and have to get up to pee several times per night.*
 
 Well, getting up to pee might be due to the erythritol, which is a sugar alcohol that can cause edema. I would think that it's not going to make you pee because it's causing fluid retention, and that may be what caused your legs to swell up.
 
@@ -219,7 +219,7 @@ There's one other point to make, namely that erythritol, as it is sold in powder
 1% glucose, and therefore can raise your blood sugar. And if you're eating large quantities of it all day long, you're going to raise your blood sugar just from the glucose that's in the erythritol. In the tablets, you don't have glucose, so they probably are benign.
 
 The stevia, I doubt, is a problem, but there is also adulterated stevia. You have to make sure that the stevia you're purchasing is pure stevia, and not extractive stevia mixed with the sugar, which is the more commonly sold form.
-So, now, if you were using the powdered erythritol and adulterated stevia, your A1c would not be 4.1%, so it might have gone up from there if you're using these contaminated sweeteners.
+So, now, if you were using the powdered erythritol and adulterated stevia, your A1C would not be 4.1%, so it might have gone up from there if you're using these contaminated sweeteners.
 
 But, as I said, the erythritol can be the cause of the swelling in the legs. Now, there are other means of dealing with the craving for sweets.
 We have several approaches that we're looking at right now. We're testing them out. We have our fingers crossed, and at a future date, if I'm convinced that these approaches are really effective, we will discuss them.
@@ -287,7 +287,7 @@ And if the liver is paralyzed and you took insulin for a certain amount of gluco
 Will that also happen with metformin? Metformin is not as potent as lowering blood sugar as insulin is, so the chances are you won't get hypoglycemia, but the only way to find out is to try it. So, that's an interesting experiment.
 
 ### Type 2 would Januvia lower blood sugar?
-*Type 2 following your diet. On Glucophage XR, which is metformin, A1c of 5.2 would like to get it below 5%. Would Januvia be an option? Even though it increases production of insulin, therefore increases beta cell burnout.*
+*Type 2 following your diet. On Glucophage XR, which is metformin, A1C of 5.2 would like to get it below 5%. Would Januvia be an option? Even though it increases production of insulin, therefore increases beta cell burnout.*
 
 Well, if anything, Januvia has the opposite effect. It does not increase beta cell burnout. It will lower blood sugar slightly. And as I've mentioned previously, there is the slight chance of increasing heart disease, so there is a risk associated with the chronic use of Januvia.
 
