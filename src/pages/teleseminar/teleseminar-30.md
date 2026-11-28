@@ -181,7 +181,7 @@ things but it's not guaranteed.
 Well it's true I don't recommend Lantus for any of my patients. I have never taken it myself
 deliberately and the Toujeo has the problem of being extremely potent.
 
-Tojo which is U300 has three times the strength of the U100
+Toujeo which is U300 has three times the strength of the U100
 Tresiba or I forgot what the other insulin is anyway it's very potent and unless you're very obese
 it's you're going to need fine tuning of your insulin doses like possibly even to the half unit and
 if there are 300 units in the cc one unit on an insulin syringe on a U100 insulin syringe would
