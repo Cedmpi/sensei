@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/TeleseminarLayout.astro
-title: Teleseminar 50
+title:  50. Teleseminar
 source: https://www.youtube.com/watch?v=5sS1uavWCAE
 ---
 

@@ -5,19 +5,28 @@ const allSessions = Object.entries(
   import.meta.glob("./teleseminar/*.md", { eager: true }),
 )
   .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
-  .map(([, value]) => value);
+  .map(([, value]) => value).reverse();
 ---
 
 <BaseLayout>
   <div class="mb-6 space-y-1">
     <h1 class="font-semibold text-xl">Dr. Bernstein's Teleseminar</h1>
-    <div class="text-sm opacity-60 space-y-2">
+    <div class="text-sm opacity-80 space-y-2">
       <p class="text-xs">
         Transcriptions might be adjusted for readability and accuracy.
       </p>
 
       <p>
         Dr. Bernstein's Teleseminar is a Q&A session for questions that were not answered in his book Diabetes Solution.
+      </p>
+
+      <p>
+        All blood sugars values without unit symbol are in mg/dL. <br>
+        To get the mmol/l value, divide mg/dL value by 18.
+      </p>
+      <p>
+        One ounce of protein, means 1 ounce of protein food. <br> 
+        So 1 ounce (28.5 g) of protein food is equal to 7 grams of protein.
       </p>
     </div>
   </div>
